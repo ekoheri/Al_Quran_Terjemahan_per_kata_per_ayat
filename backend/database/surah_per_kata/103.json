@@ -1,0 +1,19 @@
+{
+	"103" :{
+		"number" : "103",
+		"name" : "العصر",
+		"name_latin" : "Al-'Asr",
+		"number_of_ayah" : "3",
+		"text" : {
+			"1" : {"1" : "وَٱلْعَصْرِ"},
+			"2" : {"1" : "إِنَّ", "2" : "ٱلْإِنسَٰنَ", "3" : "لَفِى", "4" : "خُسْرٍ"},
+			"3" : {"1" : "إِلَّا", "2" : "ٱلَّذِينَ", "3" : "ءَامَنُوا۟", "4" : "وَعَمِلُوا۟", "5" : "ٱلصَّٰلِحَٰتِ", "6" : "وَتَوَاصَوْا۟", "7" : "بِٱلْحَقِّ", "8" : "وَتَوَاصَوْا۟", "9" : "بِٱلصَّبْرِ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "demi waktu"},
+			"2" : {"1" : "sesungguhnya", "2" : "manusia", "3" : "benar-benar dalam", "4" : "kerugian"},
+			"3" : {"1" : "kecuali", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mereka berbuat/beramal", "5" : "kebajikan/sholeh", "6" : "dan mereka saling berwasiat/menasehati", "7" : "dengan kebenaran", "8" : "dan mereka saling berwasiat/menasehati", "9" : "dengan kesabaran"}
+
+		}
+	}
+}

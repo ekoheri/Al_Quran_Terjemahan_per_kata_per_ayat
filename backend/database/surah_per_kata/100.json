@@ -1,0 +1,35 @@
+{
+	"100" :{
+		"number" : "100",
+		"name" : "العاديات",
+		"name_latin" : "Al-'Adiyat",
+		"number_of_ayah" : "11",
+		"text" : {
+			"1" : {"1" : "وَٱلْعَٰدِيَٰتِ", "2" : "ضَبْحًا"},
+			"2" : {"1" : "فَٱلْمُورِيَٰتِ", "2" : "قَدْحًا"},
+			"3" : {"1" : "فَٱلْمُغِيرَٰتِ", "2" : "صُبْحًا"},
+			"4" : {"1" : "فَأَثَرْنَ", "2" : "بِهِۦ", "3" : "نَقْعًا"},
+			"5" : {"1" : "فَوَسَطْنَ", "2" : "بِهِۦ", "3" : "جَمْعًا"},
+			"6" : {"1" : "إِنَّ", "2" : "ٱلْإِنسَٰنَ", "3" : "لِرَبِّهِۦ", "4" : "لَكَنُودٌ"},
+			"7" : {"1" : "وَإِنَّهُۥ", "2" : "عَلَىٰ", "3" : "ذَٰلِكَ", "4" : "لَشَهِيدٌ"},
+			"8" : {"1" : "وَإِنَّهُۥ", "2" : "لِحُبِّ", "3" : "ٱلْخَيْرِ", "4" : "لَشَدِيدٌ"},
+			"9" : {"1" : "أَفَلَا", "2" : "يَعْلَمُ", "3" : "إِذَا", "4" : "بُعْثِرَ", "5" : "مَا", "6" : "فِى", "7" : "ٱلْقُبُورِ"},
+			"10" : {"1" : "وَحُصِّلَ", "2" : "مَا", "3" : "فِى", "4" : "ٱلصُّدُورِ"},
+			"11" : {"1" : "إِنَّ", "2" : "رَبَّهُم", "3" : "بِهِمْ", "4" : "يَوْمَئِذٍ", "5" : "لَّخَبِيرٌۢ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "demi yang berlari kencang", "2" : "terengah-engah"},
+			"2" : {"1" : "lalu yang memercikkan/terbitkan", "2" : "api"},
+			"3" : {"1" : "lalu yang menyerang", "2" : "diwaktu subuh/pagi"},
+			"4" : {"1" : "lalu ia menerbangkan", "2" : "dengannya/karenanya", "3" : "debu"},
+			"5" : {"1" : "maka ia menyerbu ketengah", "2" : "dengannya", "3" : "kumpulan"},
+			"6" : {"1" : "sungguh", "2" : "manusia", "3" : "kepada Tuhannya", "4" : "sangat ingkar/tidak berterima kasih"},
+			"7" : {"1" : "dan sesungguhnya ia", "2" : "atas", "3" : "yang demikian/itu", "4" : "benar-benar menyaksikan"},
+			"8" : {"1" : "dan sesungguhnya dia", "2" : "benar-benar cinta", "3" : "kebaikan (harta)", "4" : "sungguh sangat"},
+			"9" : {"1" : "maka apakah tidak", "2" : "dia mengetahui", "3" : "apabila", "4" : "dibangkitkan", "5" : "apa", "6" : "dalam", "7" : "kubur"},
+			"10" : {"1" : "dan dilahirkan", "2" : "apa", "3" : "dalam", "4" : "dada"},
+			"11" : {"1" : "sesungguhnya", "2" : "Tuhan mereka", "3" : "pada mereka", "4" : "pada hari itu", "5" : "benar-benar Maha Mengetahui"}
+
+		}
+	}
+}

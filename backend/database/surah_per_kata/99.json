@@ -1,0 +1,29 @@
+{
+	"99" :{
+		"number" : "99",
+		"name" : "الزلزلة",
+		"name_latin" : "Az-Zalzalah",
+		"number_of_ayah" : "8",
+		"text" : {
+			"1" : {"1" : "إِذَا", "2" : "زُلْزِلَتِ", "3" : "ٱلْأَرْضُ", "4" : "زِلْزَالَهَا"},
+			"2" : {"1" : "وَأَخْرَجَتِ", "2" : "ٱلْأَرْضُ", "3" : "أَثْقَالَهَا"},
+			"3" : {"1" : "وَقَالَ", "2" : "ٱلْإِنسَٰنُ", "3" : "مَا", "4" : "لَهَا"},
+			"4" : {"1" : "يَوْمَئِذٍ", "2" : "تُحَدِّثُ", "3" : "أَخْبَارَهَا"},
+			"5" : {"1" : "بِأَنَّ", "2" : "رَبَّكَ", "3" : "أَوْحَىٰ", "4" : "لَهَا"},
+			"6" : {"1" : "يَوْمَئِذٍ", "2" : "يَصْدُرُ", "3" : "ٱلنَّاسُ", "4" : "أَشْتَاتًا", "5" : "لِّيُرَوْا۟", "6" : "أَعْمَٰلَهُمْ"},
+			"7" : {"1" : "فَمَن", "2" : "يَعْمَلْ", "3" : "مِثْقَالَ", "4" : "ذَرَّةٍ", "5" : "خَيْرًا", "6" : "يَرَهُۥ"},
+			"8" : {"1" : "وَمَن", "2" : "يَعْمَلْ", "3" : "مِثْقَالَ", "4" : "ذَرَّةٍ", "5" : "شَرًّا", "6" : "يَرَهُۥ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "apabila", "2" : "digoncangkan", "3" : "bumi", "4" : "goncangan"},
+			"2" : {"1" : "dan mengeluarkan", "2" : "bumi", "3" : "beban beratnya"},
+			"3" : {"1" : "dan berkata", "2" : "manusia", "3" : "apa", "4" : "ia"},
+			"4" : {"1" : "pada hari itu", "2" : "ia menceritakan", "3" : "beritanya"},
+			"5" : {"1" : "karena sesungguhnya", "2" : "Tuhanmu", "3" : "talah mewahyukan/memerintahkan", "4" : "padanya"},
+			"6" : {"1" : "pada hari itu", "2" : "keluar", "3" : "manusia", "4" : "bermacam-macam", "5" : "untuk mereka lihat", "6" : "amal-amal mereka"},
+			"7" : {"1" : "maka barang siapa", "2" : "dia mengerjakan/beramal", "3" : "seberat", "4" : "zarrah/atom", "5" : "kebaikan", "6" : "dia melihatnya"},
+			"8" : {"1" : "dan barang siapa", "2" : "dia mengerjakan/beramal", "3" : "seberat", "4" : "zarrah/atom", "5" : "kejahatan", "6" : "dia melihatnya"}
+
+		}
+	}
+}

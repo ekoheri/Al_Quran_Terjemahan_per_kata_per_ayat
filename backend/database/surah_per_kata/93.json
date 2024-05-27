@@ -1,0 +1,35 @@
+{
+	"93" :{
+		"number" : "93",
+		"name" : "الضحى",
+		"name_latin" : "Ad-Duha",
+		"number_of_ayah" : "11",
+		"text" : {
+			"1" : {"1" : "وَٱلضُّحَىٰ"},
+			"2" : {"1" : "وَٱلَّيْلِ", "2" : "إِذَا", "3" : "سَجَىٰ"},
+			"3" : {"1" : "مَا", "2" : "وَدَّعَكَ", "3" : "رَبُّكَ", "4" : "وَمَا", "5" : "قَلَىٰ"},
+			"4" : {"1" : "وَلَلْءَاخِرَةُ", "2" : "خَيْرٌ", "3" : "لَّكَ", "4" : "مِنَ", "5" : "ٱلْأُولَىٰ"},
+			"5" : {"1" : "وَلَسَوْفَ", "2" : "يُعْطِيكَ", "3" : "رَبُّكَ", "4" : "فَتَرْضَىٰٓ"},
+			"6" : {"1" : "أَلَمْ", "2" : "يَجِدْكَ", "3" : "يَتِيمًا", "4" : "فَـَٔاوَىٰ"},
+			"7" : {"1" : "وَوَجَدَكَ", "2" : "ضَآلًّا", "3" : "فَهَدَىٰ"},
+			"8" : {"1" : "وَوَجَدَكَ", "2" : "عَآئِلًا", "3" : "فَأَغْنَىٰ"},
+			"9" : {"1" : "فَأَمَّا", "2" : "ٱلْيَتِيمَ", "3" : "فَلَا", "4" : "تَقْهَرْ"},
+			"10" : {"1" : "وَأَمَّا", "2" : "ٱلسَّآئِلَ", "3" : "فَلَا", "4" : "تَنْهَرْ"},
+			"11" : {"1" : "وَأَمَّا", "2" : "بِنِعْمَةِ", "3" : "رَبِّكَ", "4" : "فَحَدِّثْ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "demi matahari naik"},
+			"2" : {"1" : "dan malam", "2" : "apabila", "3" : "telah sunyi"},
+			"3" : {"1" : "tidak", "2" : "meninggalkan kamu", "3" : "Tuhanmu", "4" : "dan tidak", "5" : "marah/benci"},
+			"4" : {"1" : "dan sungguh kesudahan/akhirat", "2" : "lebih baik", "3" : "bagimu", "4" : "dari pada", "5" : "permulaan/dunia"},
+			"5" : {"1" : "dan sungguh kelak", "2" : "memberikan kepadamu", "3" : "Tuhanmu", "4" : "maka kamu jadi puas"},
+			"6" : {"1" : "apakah tidak/bukanlah", "2" : "Dia mendapatimu", "3" : "seorang yatim", "4" : "lalu Dia melindungi"},
+			"7" : {"1" : "dan Dia mendapatimu", "2" : "sesat/bingung", "3" : "lalu Dia memberi petunjuk"},
+			"8" : {"1" : "dan Dia mendapatimu", "2" : "miskin/kekurangan", "3" : "lalu Dia memberi kecukupan"},
+			"9" : {"1" : "maka adapun", "2" : "anak yatim", "3" : "maka jangan", "4" : "kamu paksa/bersikap bengis"},
+			"10" : {"1" : "dan adapun", "2" : "orang minta-minta", "3" : "maka jangan", "4" : "kamu menghardik"},
+			"11" : {"1" : "dan adapun", "2" : "dengan/terhadap nikmat", "3" : "Tuhanmu", "4" : "maka hendaklah kamu ceritakan"}
+
+		}
+	}
+}

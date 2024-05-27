@@ -1,0 +1,1305 @@
+{
+    "page" : {
+        "1" : [{"index_surah" : "1", "start" : "1", "end" : "7", "length" : "7"}],
+        "2" : [{"index_surah" : "2", "start" : "1", "end" : "5", "length" : "5"}],
+        "3" : [{"index_surah" : "2", "start" : "6", "end" : "16", "length" : "11" }],
+        "4" : [{"index_surah" : "2", "start" : "17", "end" : "24", "length" : "8" }],
+        "5" : [{"index_surah" : "2", "start" : "25", "end" : "29", "length" : "5" }],
+        "6" : [{"index_surah" : "2", "start" : "30", "end" : "37", "length" : "8" }],
+        "7" : [{"index_surah" : "2", "start" : "38", "end" : "48", "length" : "11"}],
+        "8" : [{"index_surah" : "2", "start" : "49", "end" : "57", "length" : "9"}],
+        "9" : [{"index_surah" : "2", "start" : "58", "end" : "61", "length" : "4"}],
+        "10" : [{"index_surah" : "2", "start" : "62", "end" : "69", "length" : "8"}],
+        "11" : [{"index_surah" : "2", "start" : "70", "end" : "76", "length" : "7"}],
+        "12" : [{"index_surah" : "2", "start" : "77", "end" : "83", "length" : "7"}],
+        "13" : [{"index_surah" : "2", "start" : "84", "end" : "88", "length" : "5"}],
+        "14" : [{"index_surah" : "2", "start" : "89", "end" : "93", "length" : "5"}],
+        "15" : [{"index_surah" : "2", "start" : "94", "end" : "101", "length" : "8"}],
+        "16" : [{"index_surah" : "2", "start" : "102", "end" : "105", "length" : "4"}],
+        "17" : [{"index_surah" : "2", "start" : "106", "end" : "112", "length" : "7"}],
+        "18" : [{"index_surah" : "2", "start" : "113", "end" : "119", "length" : "7"}],
+        "19" : [{"index_surah" : "2", "start" : "120", "end" : "126", "length" : "7"}],
+        "20" : [{"index_surah" : "2", "start" : "127", "end" : "134", "length" : "8"}],
+        "21" : [{"index_surah" : "2", "start" : "135", "end" : "141", "length" : "7"}],
+        "22" : [{"index_surah" : "2", "start" : "142", "end" : "145", "length" : "4"}],
+        "23" : [{"index_surah" : "2", "start" : "146", "end" : "153", "length" : "8"}],
+        "24" : [{"index_surah" : "2", "start" : "154", "end" : "163", "length" : "10"}],
+        "25" : [{"index_surah" : "2", "start" : "164", "end" : "169", "length" : "6"}],
+        "26" : [{"index_surah" : "2", "start" : "170", "end" : "176", "length" : "7"}],
+        "27" : [{"index_surah" : "2", "start" : "177", "end" : "181", "length" : "5"}],
+        "28" : [{"index_surah" : "2", "start" : "182", "end" : "186", "length" : "5"}],
+        "29" : [{"index_surah" : "2", "start" : "187", "end" : "190", "length" : "4"}],
+        "30" : [{"index_surah" : "2", "start" : "191", "end" : "196", "length" : "6"}],
+        "31" : [{"index_surah" : "2", "start" : "197", "end" : "202", "length" : "6"}],
+        "32" : [{"index_surah" : "2", "start" : "203", "end" : "210", "length" : "8"}],
+        "33" : [{"index_surah" : "2", "start" : "211", "end" : "215", "length" : "5"}],
+        "34" : [{"index_surah" : "2", "start" : "216", "end" : "219", "length" : "4"}],
+        "35" : [{"index_surah" : "2", "start" : "220", "end" : "224", "length" : "5"}],
+        "36" : [{"index_surah" : "2", "start" : "225", "end" : "230", "length" : "6"}],
+        "37" : [{"index_surah" : "2", "start" : "231", "end" : "233", "length" : "3"}],
+        "38" : [{"index_surah" : "2", "start" : "234", "end" : "237", "length" : "4"}],
+        "39" : [{"index_surah" : "2", "start" : "238", "end" : "245", "length" : "8"}],
+        "40" : [{"index_surah" : "2", "start" : "246", "end" : "248", "length" : "3"}],
+        "41" : [{"index_surah" : "2", "start" : "249", "end" : "252", "length" : "4"}],
+        "42" : [{"index_surah" : "2", "start" : "253", "end" : "256", "length" : "4"}],
+        "43" : [{"index_surah" : "2", "start" : "257", "end" : "259", "length" : "3"}],
+        "44" : [{"index_surah" : "2", "start" : "260", "end" : "264", "length" : "5"}],
+        "45" : [{"index_surah" : "2", "start" : "265", "end" : "269", "length" : "5"}],
+        "46" : [{"index_surah" : "2", "start" : "270", "end" : "274", "length" : "5"}],
+        "47" : [{"index_surah" : "2", "start" : "275", "end" : "281", "length" : "7"}],
+        "48" : [{"index_surah" : "2", "start" : "282", "end" : "282", "length" : "1"}],
+        "49" : [{"index_surah" : "2", "start" : "283", "end" : "286", "length" : "4"}],
+        "50" : [{"index_surah" : "3", "start" : "1", "end" : "9", "length" : "9"}],
+        "51" : [{"index_surah" : "3", "start" : "10", "end" : "15", "length" : "6"}],
+        "52" : [{"index_surah" : "3", "start" : "16", "end" : "22", "length" : "7"}],
+        "53" : [{"index_surah" : "3", "start" : "23", "end" : "29", "length" : "7"}],
+        "54" : [{"index_surah" : "3", "start" : "30", "end" : "37", "length" : "8"}],
+        "55" : [{"index_surah" : "3", "start" : "38", "end" : "45", "length" : "8"}],
+        "56" : [{"index_surah" : "3", "start" : "46", "end" : "52", "length" : "7"}],
+        "57" : [{"index_surah" : "3", "start" : "53", "end" : "61", "length" : "9"}],
+        "58" : [{"index_surah" : "3", "start" : "62", "end" : "70", "length" : "9"}],
+        "59" : [{"index_surah" : "3", "start" : "71", "end" : "77", "length" : "7"}],
+        "60" : [{"index_surah" : "3", "start" : "78", "end" : "83", "length" : "6"}],
+        "61" : [{"index_surah" : "3", "start" : "84", "end" : "92", "length" : "9"}],
+        "62" : [{"index_surah" : "3", "start" : "93", "end" : "100", "length" : "8"}],
+        "63" : [{"index_surah" : "3", "start" : "101", "end" : "108", "length" : "8"}],
+        "64" : [{"index_surah" : "3", "start" : "109", "end" : "115", "length" : "7"}],
+        "65" : [{"index_surah" : "3", "start" : "116", "end" : "121", "length" : "6"}],
+        "66" : [{"index_surah" : "3", "start" : "122", "end" : "132", "length" : "11"}],
+        "67" : [{"index_surah" : "3", "start" : "133", "end" : "140", "length" : "8"}],
+        "68" : [{"index_surah" : "3", "start" : "141", "end" : "148", "length" : "8"}],
+        "69" : [{"index_surah" : "3", "start" : "149", "end" : "153", "length" : "5"}],
+        "70" : [{"index_surah" : "3", "start" : "154", "end" : "157", "length" : "4"}],
+        "71" : [{"index_surah" : "3", "start" : "158", "end" : "165", "length" : "8"}],
+        "72" : [{"index_surah" : "3", "start" : "166", "end" : "173", "length" : "8"}],
+        "73" : [{"index_surah" : "3", "start" : "174", "end" : "180", "length" : "7"}],
+        "74" : [{"index_surah" : "3", "start" : "181", "end" : "186", "length" : "6"}],
+        "75" : [{"index_surah" : "3", "start" : "187", "end" : "194", "length" : "8"}],
+        "76" : [{"index_surah" : "3", "start" : "195", "end" : "200", "length" : "6"}],
+        "77" : [{"index_surah" : "4", "start" : "1", "end" : "6", "length" : "6"}],
+        "78" : [{"index_surah" : "4", "start" : "7", "end" : "11", "length" : "5"}],
+        "79" : [{"index_surah" : "4", "start" : "12", "end" : "14", "length" : "3"}],
+        "80" : [{"index_surah" : "4", "start" : "15", "end" : "19", "length" : "5"}],
+        "81" : [{"index_surah" : "4", "start" : "20", "end" : "23", "length" : "4"}],
+        "82" : [{"index_surah" : "4", "start" : "24", "end" : "26", "length" : "3"}],
+        "83" : [{"index_surah" : "4", "start" : "27", "end" : "33", "length" : "7"}],
+        "84" : [{"index_surah" : "4", "start" : "34", "end" : "37", "length" : "4"}],
+        "85" : [{"index_surah" : "4", "start" : "38", "end" : "44", "length" : "7"}],
+        "86" : [{"index_surah" : "4", "start" : "45", "end" : "51", "length" : "7"}],
+        "87" : [{"index_surah" : "4", "start" : "52", "end" : "59", "length" : "8"}],
+        "88" : [{"index_surah" : "4", "start" : "60", "end" : "65", "length" : "6"}],
+        "89" : [{"index_surah" : "4", "start" : "66", "end" : "74", "length" : "9"}],
+        "90" : [{"index_surah" : "4", "start" : "75", "end" : "79", "length" : "5"}],
+        "91" : [{"index_surah" : "4", "start" : "80", "end" : "86", "length" : "7"}],
+        "92" : [{"index_surah" : "4", "start" : "87", "end" : "91", "length" : "5"}],
+        "93" : [{"index_surah" : "4", "start" : "92", "end" : "94", "length" : "3"}],
+        "94" : [{"index_surah" : "4", "start" : "95", "end" : "101", "length" : "7"}],
+        "95" : [{"index_surah" : "4", "start" : "102", "end" : "105", "length" : "4"}],
+        "96" : [{"index_surah" : "4", "start" : "106", "end" : "113", "length" : "8"}],
+        "97" : [{"index_surah" : "4", "start" : "114", "end" : "121", "length" : "8"}],
+        "98" : [{"index_surah" : "4", "start" : "122", "end" : "127", "length" : "6"}],
+        "99" : [{"index_surah" : "4", "start" : "128", "end" : "134", "length" : "7"}],
+        "100" :[{"index_surah" : "4", "start" : "135", "end" : "140", "length" : "6"}],
+        "101" :[{"index_surah" : "4", "start" : "141", "end" : "147", "length" : "7"}],
+        "102" :[{"index_surah" : "4", "start" : "148", "end" : "154", "length" : "7"}],
+        "103" :[{"index_surah" : "4", "start" : "155", "end" : "162", "length" : "8"}],
+        "104" :[{"index_surah" : "4", "start" : "163", "end" : "170", "length" : "8"}],
+        "105" :[{"index_surah" : "4", "start" : "171", "end" : "175", "length" : "6"}],
+        "106" :[
+            {"index_surah" : "4", "start" : "176", "end" : "176", "length" : "1"},
+            {"index_surah" : "5", "start" : "1", "end" : "2", "length" : "2"}
+        ],
+        "107" : [{"index_surah" : "5", "start" : "3", "end" : "5", "length" : "3"}],
+        "108" : [{"index_surah" : "5", "start" : "6", "end" : "9", "length" : "4"}],
+        "109" : [{"index_surah" : "5", "start" : "10", "end" : "13", "length" : "4"}],
+        "110" : [{"index_surah" : "5", "start" : "14", "end" : "17", "length" : "4"}],
+        "111" : [{"index_surah" : "5", "start" : "18", "end" : "23", "length" : "6"}],
+        "112" : [{"index_surah" : "5", "start" : "24", "end" : "31", "length" : "8"}],
+        "113" : [{"index_surah" : "5", "start" : "32", "end" : "36", "length" : "5"}],
+        "114" : [{"index_surah" : "5", "start" : "37", "end" : "41", "length" : "5"}],
+        "115" : [{"index_surah" : "5", "start" : "42", "end" : "45", "length" : "4"}],
+        "116" : [{"index_surah" : "5", "start" : "46", "end" : "50", "length" : "5"}],
+        "117" : [{"index_surah" : "5", "start" : "51", "end" : "57", "length" : "7"}],
+        "118" : [{"index_surah" : "5", "start" : "58", "end" : "64", "length" : "7"}],
+        "119" : [{"index_surah" : "5", "start" : "65", "end" : "70", "length" : "6"}],
+        "120" : [{"index_surah" : "5", "start" : "71", "end" : "76", "length" : "6"}],
+        "121" : [{"index_surah" : "5", "start" : "77", "end" : "82", "length" : "6"}],
+        "122" : [{"index_surah" : "5", "start" : "83", "end" : "89", "length" : "7"}],
+        "123" : [{"index_surah" : "5", "start" : "90", "end" : "95", "length" : "6"}],
+        "124" : [{"index_surah" : "5", "start" : "96", "end" : "103", "length" : "8"}],
+        "125" : [{"index_surah" : "5", "start" : "104", "end" : "108", "length" : "5"}],
+        "126" : [{"index_surah" : "5", "start" : "109", "end" : "113", "length" : "5"}],
+        "127" : [{"index_surah" : "5", "start" : "114", "end" : "120", "length" : "7"}],
+        "128" : [{"index_surah" : "6", "start" : "1", "end" : "8", "length" : "8"}],
+        "129" : [{"index_surah" : "6", "start" : "9", "end" : "18", "length" : "10"}],
+        "130" : [{"index_surah" : "6", "start" : "19", "end" : "27", "length" : "9"}],
+        "131" : [{"index_surah" : "6", "start" : "28", "end" : "35", "length" : "8"}],
+        "132" : [{"index_surah" : "6", "start" : "36", "end" : "44", "length" : "9"}],
+        "133" : [{"index_surah" : "6", "start" : "45", "end" : "52", "length" : "8"}],
+        "134" : [{"index_surah" : "6", "start" : "53", "end" : "59", "length" : "7"}],
+        "135" : [{"index_surah" : "6", "start" : "60", "end" : "68", "length" : "9"}],
+        "136" : [{"index_surah" : "6", "start" : "69", "end" : "73", "length" : "5"}],
+        "137" : [{"index_surah" : "6", "start" : "74", "end" : "81", "length" : "8"}],
+        "138" : [{"index_surah" : "6", "start" : "82", "end" : "90", "length" : "9"}],
+        "139" : [{"index_surah" : "6", "start" : "91", "end" : "94", "length" : "4"}],
+        "140" : [{"index_surah" : "6", "start" : "95", "end" : "101", "length" : "7"}],
+        "141" : [{"index_surah" : "6", "start" : "102", "end" : "110", "length" : "9"}],
+        "142" : [{"index_surah" : "6", "start" : "111", "end" : "118", "length" : "8"}],
+        "143" : [{"index_surah" : "6", "start" : "119", "end" : "124", "length" : "6"}],
+        "144" : [{"index_surah" : "6", "start" : "125", "end" : "131", "length" : "7"}],
+        "145" : [{"index_surah" : "6", "start" : "132", "end" : "137", "length" : "6"}],
+        "146" : [{"index_surah" : "6", "start" : "138", "end" : "142", "length" : "5"}],
+        "147" : [{"index_surah" : "6", "start" : "143", "end" : "146", "length" : "4"}],
+        "148" : [{"index_surah" : "6", "start" : "147", "end" : "151", "length" : "5"}],
+        "149" : [{"index_surah" : "6", "start" : "152", "end" : "157", "length" : "6"}],
+        "150" : [{"index_surah" : "6", "start" : "158", "end" : "165", "length" : "8"}],
+        "151" : [{"index_surah" : "7", "start" : "1", "end" : "11", "length" : "11"}],
+        "152" : [{"index_surah" : "7", "start" : "12", "end" : "22", "length" : "11"}],
+        "153" : [{"index_surah" : "7", "start" : "23", "end" : "30", "length" : "8"}],
+        "154" : [{"index_surah" : "7", "start" : "31", "end" : "37", "length" : "7"}],
+        "155" : [{"index_surah" : "7", "start" : "38", "end" : "43", "length" : "6"}],
+        "156" : [{"index_surah" : "7", "start" : "44", "end" : "51", "length" : "8"}],
+        "157" : [{"index_surah" : "7", "start" : "52", "end" : "57", "length" : "6"}],
+        "158" : [{"index_surah" : "7", "start" : "58", "end" : "67", "length" : "10"}],
+        "159" : [{"index_surah" : "7", "start" : "68", "end" : "73", "length" : "6"}],
+        "160" : [{"index_surah" : "7", "start" : "74", "end" : "81", "length" : "8"}],
+        "161" : [{"index_surah" : "7", "start" : "82", "end" : "87", "length" : "6"}],
+        "162" : [{"index_surah" : "7", "start" : "88", "end" : "95", "length" : "8"}],
+        "163" : [{"index_surah" : "7", "start" : "96", "end" : "104", "length" : "9"}],
+        "164" : [{"index_surah" : "7", "start" : "105", "end" : "120", "length" : "16"}],
+        "165" : [{"index_surah" : "7", "start" : "121", "end" : "130", "length" : "10"}],
+        "166" : [{"index_surah" : "7", "start" : "131", "end" : "137", "length" : "7"}],
+        "167" : [{"index_surah" : "7", "start" : "138", "end" : "143", "length" : "6"}],
+        "168" : [{"index_surah" : "7", "start" : "144", "end" : "149", "length" : "6"}],
+        "169" : [{"index_surah" : "7", "start" : "150", "end" : "155", "length" : "6"}],
+        "170" : [{"index_surah" : "7", "start" : "156", "end" : "159", "length" : "4"}],
+        "171" : [{"index_surah" : "7", "start" : "160", "end" : "163", "length" : "4"}],
+        "172" : [{"index_surah" : "7", "start" : "164", "end" : "170", "length" : "7"}],
+        "173" : [{"index_surah" : "7", "start" : "171", "end" : "178", "length" : "8"}],
+        "174" : [{"index_surah" : "7", "start" : "179", "end" : "187", "length" : "9"}],
+        "175" : [{"index_surah" : "7", "start" : "188", "end" : "195", "length" : "8"}],
+        "176" : [{"index_surah" : "7", "start" : "196", "end" : "206", "length" : "11"}],
+        "177" : [{"index_surah" : "8", "start" : "1", "end" : "8", "length" : "8"}],
+        "178" : [{"index_surah" : "8", "start" : "9", "end" : "16", "length" : "8"}],
+        "179" : [{"index_surah" : "8", "start" : "17", "end" : "25", "length" : "9"}],
+        "180" : [{"index_surah" : "8", "start" : "26", "end" : "33", "length" : "8"}],
+        "181" : [{"index_surah" : "8", "start" : "34", "end" : "40", "length" : "7"}],
+        "182" : [{"index_surah" : "8", "start" : "41", "end" : "45", "length" : "5"}],
+        "183" : [{"index_surah" : "8", "start" : "46", "end" : "52", "length" : "7"}],
+        "184" : [{"index_surah" : "8", "start" : "53", "end" : "61", "length" : "9"}],
+        "185" : [{"index_surah" : "8", "start" : "62", "end" : "69", "length" : "8"}],
+        "186" : [{"index_surah" : "8", "start" : "70", "end" : "75", "length" : "6"}],
+        "187" : [{"index_surah" : "9", "start" : "1", "end" : "6", "length" : "6", "juz" : "10"}],
+        "188" : [{"index_surah" : "9", "start" : "7", "end" : "13", "length" : "7", "juz" : "10"}],
+        "189" : [{"index_surah" : "9", "start" : "14", "end" : "20", "length" : "7", "juz" : "10"}],
+        "190" : [{"index_surah" : "9", "start" : "21", "end" : "26", "length" : "6", "juz" : "10"}],
+        "191" : [{"index_surah" : "9", "start" : "27", "end" : "31", "length" : "5", "juz" : "10"}],
+        "192" : [{"index_surah" : "9", "start" : "32", "end" : "36", "length" : "5", "juz" : "10"}],
+        "193" : [{"index_surah" : "9", "start" : "37", "end" : "40", "length" : "4", "juz" : "10"}],
+        "194" : [{"index_surah" : "9", "start" : "41", "end" : "47", "length" : "7", "juz" : "10"}],
+        "195" : [{"index_surah" : "9", "start" : "48", "end" : "54", "length" : "7", "juz" : "10"}],
+        "196" : [{"index_surah" : "9", "start" : "55", "end" : "61", "length" : "7", "juz" : "10"}],
+        "197" : [{"index_surah" : "9", "start" : "62", "end" : "68", "length" : "7", "juz" : "10"}],
+        "198" : [{"index_surah" : "9", "start" : "69", "end" : "72", "length" : "4", "juz" : "10"}],
+        "199" : [{"index_surah" : "9", "start" : "73", "end" : "79", "length" : "7", "juz" : "10"}],
+        "200" : [{"index_surah" : "9", "start" : "80", "end" : "86", "length" : "7", "juz" : "10"}],
+        "201" : [{"index_surah" : "9", "start" : "87", "end" : "93", "length" : "7", "juz" : "10"}],
+        "202" : [{"index_surah" : "9", "start" : "94", "end" : "99", "length" : "6", "juz" : "11"}],
+        "203" : [{"index_surah" : "9", "start" : "100", "end" : "106", "length" : "7", "juz" : "11"}],
+        "204" : [{"index_surah" : "9", "start" : "107", "end" : "111", "length" : "5", "juz" : "11"}],
+        "205" : [{"index_surah" : "9", "start" : "112", "end" : "117", "length" : "6", "juz" : "11"}],
+        "206" : [{"index_surah" : "9", "start" : "118", "end" : "122", "length" : "5", "juz" : "11"}],
+        "207" : [{"index_surah" : "9", "start" : "123", "end" : "129", "length" : "7", "juz" : "11"}],
+        "208" : [{"index_surah" : "10", "start" : "1", "end" : "6", "length" : "6"}],
+        "209" : [{"index_surah" : "10", "start" : "7", "end" : "14", "length" : "8"}],
+        "210" : [{"index_surah" : "10", "start" : "15", "end" : "20", "length" : "6"}],
+        "211" : [{"index_surah" : "10", "start" : "21", "end" : "25", "length" : "5"}],
+        "212" : [{"index_surah" : "10", "start" : "26", "end" : "33", "length" : "8"}],
+        "213" : [{"index_surah" : "10", "start" : "34", "end" : "42", "length" : "9"}],
+        "214" : [{"index_surah" : "10", "start" : "43", "end" : "53", "length" : "11"}],
+        "215" : [{"index_surah" : "10", "start" : "54", "end" : "61", "length" : "8"}],
+        "216" : [{"index_surah" : "10", "start" : "62", "end" : "70", "length" : "9"}],
+        "217" : [{"index_surah" : "10", "start" : "71", "end" : "78", "length" : "8"}],
+        "218" : [{"index_surah" : "10", "start" : "79", "end" : "88", "length" : "10"}],
+        "219" : [{"index_surah" : "10", "start" : "89", "end" : "97", "length" : "9"}],
+        "220" : [{"index_surah" : "10", "start" : "98", "end" : "106", "length" : "9"}],
+        "221" : [
+            {"index_surah" : "10", "start" : "107", "end" : "109", "length" : "3"},
+            {"index_surah" : "11", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "222" : [{"index_surah" : "11", "start" : "6", "end" : "12", "length" : "7"}],
+        "223" : [{"index_surah" : "11", "start" : "13", "end" : "19", "length" : "7"}],
+        "224" : [{"index_surah" : "11", "start" : "20", "end" : "28", "length" : "9"}],
+        "225" : [{"index_surah" : "11", "start" : "29", "end" : "37", "length" : "9"}],
+        "226" : [{"index_surah" : "11", "start" : "38", "end" : "45", "length" : "8"}],
+        "227" : [{"index_surah" : "11", "start" : "46", "end" : "53", "length" : "8"}],
+        "228" : [{"index_surah" : "11", "start" : "54", "end" : "62", "length" : "9"}],
+        "229" : [{"index_surah" : "11", "start" : "63", "end" : "71", "length" : "9"}],
+        "230" : [{"index_surah" : "11", "start" : "72", "end" : "81", "length" : "10"}],
+        "231" : [{"index_surah" : "11", "start" : "82", "end" : "88", "length" : "7"}],
+        "232" : [{"index_surah" : "11", "start" : "89", "end" : "97", "length" : "9"}],
+        "233" : [{"index_surah" : "11", "start" : "98", "end" : "108", "length" : "11"}],
+        "234" : [{"index_surah" : "11", "start" : "109", "end" : "117", "length" : "9"}],
+        "235" : [
+            {"index_surah" : "11", "start" : "118", "end" : "123", "length" : "6"},
+            {"index_surah" : "12", "start" : "1", "end" : "4", "length" : "4"}
+        ],
+        "236" : [{"index_surah" : "12", "start" : "5", "end" : "14", "length" : "10"}],
+        "237" : [{"index_surah" : "12", "start" : "15", "end" : "22", "length" : "8"}],
+        "238" : [{"index_surah" : "12", "start" : "23", "end" : "30", "length" : "8"}],
+        "239" : [{"index_surah" : "12", "start" : "31", "end" : "37", "length" : "7"}],
+        "240" : [{"index_surah" : "12", "start" : "38", "end" : "43", "length" : "6"}],
+        "241" : [{"index_surah" : "12", "start" : "44", "end" : "52", "length" : "9"}],
+        "242" : [{"index_surah" : "12", "start" : "53", "end" : "63", "length" : "11"}],
+        "243" : [{"index_surah" : "12", "start" : "64", "end" : "69", "length" : "6"}],
+        "244" : [{"index_surah" : "12", "start" : "70", "end" : "78", "length" : "9"}],
+        "245" : [{"index_surah" : "12", "start" : "79", "end" : "86", "length" : "8"}],
+        "246" : [{"index_surah" : "12", "start" : "87", "end" : "95", "length" : "9"}],
+        "247" : [{"index_surah" : "12", "start" : "96", "end" : "103", "length" : "8"}],
+        "248" : [{"index_surah" : "12", "start" : "104", "end" : "111", "length" : "8"}],
+        "249" : [{"index_surah" : "13", "start" : "1", "end" : "5", "length" : "5"}],
+        "250" : [{"index_surah" : "13", "start" : "6", "end" : "13", "length" : "8"}],
+        "251" : [{"index_surah" : "13", "start" : "14", "end" : "18", "length" : "5"}],
+        "252" : [{"index_surah" : "13", "start" : "19", "end" : "28", "length" : "10"}],
+        "253" : [{"index_surah" : "13", "start" : "29", "end" : "34", "length" : "6"}],
+        "254" : [{"index_surah" : "13", "start" : "35", "end" : "42", "length" : "8"}],
+        "255" : [
+            {"index_surah" : "13", "start" : "43", "end" : "43", "length" : "1"},
+            {"index_surah" : "14", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "256" : [{"index_surah" : "14", "start" : "6", "end" : "10", "length" : "5"}],
+        "257" : [{"index_surah" : "14", "start" : "11", "end" : "18", "length" : "8"}],
+        "258" : [{"index_surah" : "14", "start" : "19", "end" : "24", "length" : "6"}],
+        "259" : [{"index_surah" : "14", "start" : "25", "end" : "33", "length" : "9"}],
+        "260" : [{"index_surah" : "14", "start" : "34", "end" : "42", "length" : "9"}],
+        "261" : [{"index_surah" : "14", "start" : "43", "end" : "52", "length" : "10"}],
+        "262" : [{"index_surah" : "15", "start" : "1", "end" : "15", "length" : "15"}],
+        "263" : [{"index_surah" : "15", "start" : "16", "end" : "31", "length" : "16"}],
+        "264" : [{"index_surah" : "15", "start" : "32", "end" : "51", "length" : "20"}],
+        "265" : [{"index_surah" : "15", "start" : "52", "end" : "70", "length" : "19"}],
+        "266" : [{"index_surah" : "15", "start" : "71", "end" : "90", "length" : "20"}],
+        "267" : [
+            {"index_surah" : "15", "start" : "91", "end" : "99", "length" : "9"},
+            {"index_surah" : "16", "start" : "1", "end" : "6", "length" : "6"}
+        ],
+        "268" : [{"index_surah" : "16", "start" : "7", "end" : "14", "length" : "8"}],
+        "269" : [{"index_surah" : "16", "start" : "15", "end" : "26", "length" : "12"}],
+        "270" : [{"index_surah" : "16", "start" : "27", "end" : "34", "length" : "8"}],
+        "271" : [{"index_surah" : "16", "start" : "35", "end" : "42", "length" : "8"}],
+        "272" : [{"index_surah" : "16", "start" : "43", "end" : "54", "length" : "12"}],
+        "273" : [{"index_surah" : "16", "start" : "55", "end" : "64", "length" : "10"}],
+        "274" : [{"index_surah" : "16", "start" : "65", "end" : "72", "length" : "8"}],
+        "275" : [{"index_surah" : "16", "start" : "73", "end" : "79", "length" : "7"}],
+        "276" : [{"index_surah" : "16", "start" : "80", "end" : "87", "length" : "8"}],
+        "277" : [{"index_surah" : "16", "start" : "88", "end" : "93", "length" : "6"}],
+        "278" : [{"index_surah" : "16", "start" : "94", "end" : "102", "length" : "9"}],
+        "279" : [{"index_surah" : "16", "start" : "103", "end" : "110", "length" : "8"}],
+        "280" : [{"index_surah" : "16", "start" : "111", "end" : "118", "length" : "8"}],
+        "281" : [{"index_surah" : "16", "start" : "119", "end" : "128", "length" : "10"}],
+        "282" : [{"index_surah" : "17", "start" : "1", "end" : "7", "length" : "7"}],
+        "283" : [{"index_surah" : "17", "start" : "8", "end" : "17", "length" : "10"}],
+        "284" : [{"index_surah" : "17", "start" : "18", "end" : "27", "length" : "10"}],
+        "285" : [{"index_surah" : "17", "start" : "28", "end" : "38", "length" : "11"}],
+        "286" : [{"index_surah" : "17", "start" : "39", "end" : "49", "length" : "11"}],
+        "287" : [{"index_surah" : "17", "start" : "50", "end" : "58", "length" : "9"}],
+        "288" : [{"index_surah" : "17", "start" : "59", "end" : "66", "length" : "8"}],
+        "289" : [{"index_surah" : "17", "start" : "67", "end" : "75", "length" : "9"}],
+        "290" : [{"index_surah" : "17", "start" : "76", "end" : "86", "length" : "11"}],
+        "291" : [{"index_surah" : "17", "start" : "87", "end" : "96", "length" : "10"}],
+        "292" : [{"index_surah" : "17", "start" : "97", "end" : "104", "length" : "8"}],
+        "293" : [
+            {"index_surah" : "17", "start" : "97", "end" : "111", "length" : "7"},
+            {"index_surah" : "18", "start" : "1", "end" : "4", "length" : "4"}
+        ],
+        "294" : [{"index_surah" : "18", "start" : "5", "end" : "15", "length" : "11"}],
+        "295" : [{"index_surah" : "18", "start" : "16", "end" : "20", "length" : "5"}],
+        "296" : [{"index_surah" : "18", "start" : "21", "end" : "27", "length" : "7"}],
+        "297" : [{"index_surah" : "18", "start" : "28", "end" : "34", "length" : "7"}],
+        "298" : [{"index_surah" : "18", "start" : "35", "end" : "45", "length" : "11"}],
+        "299" : [{"index_surah" : "18", "start" : "46", "end" : "53", "length" : "8"}],
+        "300" : [{"index_surah" : "18", "start" : "54", "end" : "61", "length" : "8"}],
+        "301" : [{"index_surah" : "18", "start" : "62", "end" : "74", "length" : "13"}],
+        "302" : [{"index_surah" : "18", "start" : "75", "end" : "83", "length" : "9"}],
+        "303" : [{"index_surah" : "18", "start" : "84", "end" : "97", "length" : "14"}],
+        "304" : [{"index_surah" : "18", "start" : "98", "end" : "110", "length" : "13"}],
+        "305" : [{"index_surah" : "19", "start" : "1", "end" : "11", "length" : "11"}],
+        "306" : [{"index_surah" : "19", "start" : "12", "end" : "25", "length" : "14"}],
+        "307" : [{"index_surah" : "19", "start" : "26", "end" : "38", "length" : "13"}],
+        "308" : [{"index_surah" : "19", "start" : "39", "end" : "51", "length" : "13"}],
+        "309" : [{"index_surah" : "19", "start" : "52", "end" : "64", "length" : "13"}],
+        "310" : [{"index_surah" : "19", "start" : "65", "end" : "76", "length" : "12"}],
+        "311" : [{"index_surah" : "19", "start" : "77", "end" : "95", "length" : "19"}],
+        "312" : [
+            {"index_surah" : "19", "start" : "96", "end" : "98", "length" : "3"},
+            {"index_surah" : "20", "start" : "1", "end" : "12", "length" : "12"}
+        ],
+        "313" : [{"index_surah" : "20", "start" : "13", "end" : "37", "length" : "25"}],
+        "314" : [{"index_surah" : "20", "start" : "38", "end" : "51", "length" : "14"}],
+        "315" : [{"index_surah" : "20", "start" : "52", "end" : "64", "length" : "13"}],
+        "316" : [{"index_surah" : "20", "start" : "65", "end" : "76", "length" : "12"}],
+        "317" : [{"index_surah" : "20", "start" : "77", "end" : "87", "length" : "11"}],
+        "318" : [{"index_surah" : "20", "start" : "88", "end" : "98", "length" : "11"}],
+        "319" : [{"index_surah" : "20", "start" : "99", "end" : "113", "length" : "15"}],
+        "320" : [{"index_surah" : "20", "start" : "114", "end" : "125", "length" : "12"}],
+        "321" : [{"index_surah" : "20", "start" : "126", "end" : "135", "length" : "10"}],
+        "322" : [{"index_surah" : "21", "start" : "1", "end" : "10", "length" : "10"}],
+        "323" : [{"index_surah" : "21", "start" : "11", "end" : "24", "length" : "14"}],
+        "324" : [{"index_surah" : "21", "start" : "25", "end" : "35", "length" : "11"}],
+        "325" : [{"index_surah" : "21", "start" : "36", "end" : "44", "length" : "9"}],
+        "326" : [{"index_surah" : "21", "start" : "45", "end" : "57", "length" : "13"}],
+        "327" : [{"index_surah" : "21", "start" : "58", "end" : "72", "length" : "15"}],
+        "328" : [{"index_surah" : "21", "start" : "73", "end" : "81", "length" : "9"}],
+        "329" : [{"index_surah" : "21", "start" : "82", "end" : "90", "length" : "9"}],
+        "330" : [{"index_surah" : "21", "start" : "91", "end" : "101", "length" : "11"}],
+        "331" : [{"index_surah" : "21", "start" : "102", "end" : "112", "length" : "11"}],
+        "332" : [{"index_surah" : "22", "start" : "1", "end" : "5", "length" : "5"}],
+        "333" : [{"index_surah" : "22", "start" : "6", "end" : "15", "length" : "10"}],
+        "334" : [{"index_surah" : "22", "start" : "16", "end" : "23", "length" : "8"}],
+        "335" : [{"index_surah" : "22", "start" : "24", "end" : "30", "length" : "7"}],
+        "336" : [{"index_surah" : "22", "start" : "31", "end" : "38", "length" : "8"}],
+        "337" : [{"index_surah" : "22", "start" : "39", "end" : "46", "length" : "8"}],
+        "338" : [{"index_surah" : "22", "start" : "47", "end" : "55", "length" : "9"}],
+        "339" : [{"index_surah" : "22", "start" : "56", "end" : "64", "length" : "9"}],
+        "340" : [{"index_surah" : "22", "start" : "65", "end" : "72", "length" : "8"}],
+        "341" : [{"index_surah" : "22", "start" : "73", "end" : "78", "length" : "6"}],
+        "342" : [{"index_surah" : "23", "start" : "1", "end" : "17", "length" : "17"}],
+        "343" : [{"index_surah" : "23", "start" : "18", "end" : "27", "length" : "10"}],
+        "344" : [{"index_surah" : "23", "start" : "28", "end" : "42", "length" : "15"}],
+        "345" : [{"index_surah" : "23", "start" : "43", "end" : "59", "length" : "17"}],
+        "346" : [{"index_surah" : "23", "start" : "60", "end" : "74", "length" : "15"}],
+        "347" : [{"index_surah" : "23", "start" : "75", "end" : "89", "length" : "15"}],
+        "348" : [{"index_surah" : "23", "start" : "90", "end" : "104", "length" : "15"}],
+        "349" : [{"index_surah" : "23", "start" : "105", "end" : "118", "length" : "14"}],
+        "350" : [{"index_surah" : "24", "start" : "1", "end" : "10", "length" : "10"}],
+        "351" : [{"index_surah" : "24", "start" : "11", "end" : "20", "length" : "10"}],
+        "352" : [{"index_surah" : "24", "start" : "21", "end" : "27", "length" : "7"}],
+        "353" : [{"index_surah" : "24", "start" : "28", "end" : "31", "length" : "4"}],
+        "354" : [{"index_surah" : "24", "start" : "32", "end" : "36", "length" : "5"}],
+        "355" : [{"index_surah" : "24", "start" : "37", "end" : "43", "length" : "7"}],
+        "356" : [{"index_surah" : "24", "start" : "44", "end" : "53", "length" : "10"}],
+        "357" : [{"index_surah" : "24", "start" : "54", "end" : "58", "length" : "5"}],
+        "358" : [{"index_surah" : "24", "start" : "59", "end" : "61", "length" : "3"}],   
+        "359" : [
+            {"index_surah" : "24", "start" : "62", "end" : "64", "length" : "3"},
+            {"index_surah" : "25", "start" : "1", "end" : "2", "length" : "2"}
+        ],
+        "360" : [{"index_surah" : "25", "start" : "3", "end" : "11", "length" : "9"}],
+        "361" : [{"index_surah" : "25", "start" : "12", "end" : "20", "length" : "9"}],
+        "362" : [{"index_surah" : "25", "start" : "21", "end" : "32", "length" : "12"}],
+        "363" : [{"index_surah" : "25", "start" : "33", "end" : "43", "length" : "11"}],
+        "364" : [{"index_surah" : "25", "start" : "44", "end" : "55", "length" : "12"}],
+        "365" : [{"index_surah" : "25", "start" : "56", "end" : "67", "length" : "12"}],
+        "366" : [{"index_surah" : "25", "start" : "68", "end" : "77", "length" : "10"}],
+        "367" : [{"index_surah" : "26", "start" : "1", "end" : "19", "length" : "19"}],
+        "368" : [{"index_surah" : "26", "start" : "20", "end" : "39", "length" : "20"}],
+        "369" : [{"index_surah" : "26", "start" : "40", "end" : "60", "length" : "21"}],
+        "370" : [{"index_surah" : "26", "start" : "61", "end" : "83", "length" : "23"}],
+        "371" : [{"index_surah" : "26", "start" : "84", "end" : "111", "length" : "28"}],
+        "372" : [{"index_surah" : "26", "start" : "112", "end" : "136", "length" : "25"}],
+        "373" : [{"index_surah" : "26", "start" : "137", "end" : "159", "length" : "23"}],
+        "374" : [{"index_surah" : "26", "start" : "160", "end" : "183", "length" : "24"}],
+        "375" : [{"index_surah" : "26", "start" : "184", "end" : "206", "length" : "23"}],
+        "376" : [{"index_surah" : "26", "start" : "207", "end" : "227", "length" : "21"}],
+        "377" : [{"index_surah" : "27", "start" : "1", "end" : "13", "length" : "13"}],
+        "378" : [{"index_surah" : "27", "start" : "14", "end" : "22", "length" : "9"}],
+        "379" : [{"index_surah" : "27", "start" : "23", "end" : "35", "length" : "13"}],
+        "380" : [{"index_surah" : "27", "start" : "36", "end" : "44", "length" : "9"}],
+        "381" : [{"index_surah" : "27", "start" : "45", "end" : "55", "length" : "11"}],
+        "382" : [{"index_surah" : "27", "start" : "56", "end" : "63", "length" : "8"}],
+        "383" : [{"index_surah" : "27", "start" : "64", "end" : "76", "length" : "13"}],
+        "384" : [{"index_surah" : "27", "start" : "77", "end" : "88", "length" : "12"}],
+        "385" : [
+            {"index_surah" : "27", "start" : "89", "end" : "93", "length" : "5"},
+            {"index_surah" : "28", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "386" : [{"index_surah" : "28", "start" : "6", "end" : "13", "length" : "8"}],
+        "387" : [{"index_surah" : "28", "start" : "14", "end" : "21", "length" : "8"}],
+        "388" : [{"index_surah" : "28", "start" : "22", "end" : "28", "length" : "7"}],
+        "389" : [{"index_surah" : "28", "start" : "29", "end" : "35", "length" : "7"}],
+        "390" : [{"index_surah" : "28", "start" : "36", "end" : "43", "length" : "8"}],
+        "391" : [{"index_surah" : "28", "start" : "44", "end" : "50", "length" : "7"}],
+        "392" : [{"index_surah" : "28", "start" : "51", "end" : "59", "length" : "9"}],
+        "393" : [{"index_surah" : "28", "start" : "60", "end" : "70", "length" : "11"}],
+        "394" : [{"index_surah" : "28", "start" : "71", "end" : "77", "length" : "7"}],
+        "395" : [{"index_surah" : "28", "start" : "78", "end" : "84", "length" : "7"}],
+        "396" : [
+            {"index_surah" : "28", "start" : "85", "end" : "88", "length" : "4"},
+            {"index_surah" : "29", "start" : "1", "end" : "6", "length" : "6"}
+        ],
+        "397" : [{"index_surah" : "29", "start" : "7", "end" : "14", "length" : "8"}],
+        "398" : [{"index_surah" : "29", "start" : "15", "end" : "23", "length" : "9"}],
+        "399" : [{"index_surah" : "29", "start" : "24", "end" : "30", "length" : "7"}],
+        "400" : [{"index_surah" : "29", "start" : "31", "end" : "38", "length" : "8"}],
+        "401" : [{"index_surah" : "29", "start" : "39", "end" : "45", "length" : "7"}],
+        "402" : [{"index_surah" : "29", "start" : "46", "end" : "52", "length" : "7"}],
+        "403" : [{"index_surah" : "29", "start" : "53", "end" : "63", "length" : "11"}],
+        "404" : [
+            {"index_surah" : "29", "start" : "64", "end" : "69", "length" : "6"},
+            {"index_surah" : "30", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "405" : [{"index_surah" : "30", "start" : "6", "end" : "15", "length" : "10"}],
+        "406" : [{"index_surah" : "30", "start" : "16", "end" : "24", "length" : "9"}],
+        "407" : [{"index_surah" : "30", "start" : "25", "end" : "32", "length" : "8"}],
+        "408" : [{"index_surah" : "30", "start" : "33", "end" : "41", "length" : "9"}],
+        "409" : [{"index_surah" : "30", "start" : "42", "end" : "50", "length" : "9"}],
+        "410" : [{"index_surah" : "30", "start" : "51", "end" : "60", "length" : "10"}],
+        "411" : [{"index_surah" : "31", "start" : "1", "end" : "11", "length" : "11"}],
+        "412" : [{"index_surah" : "31", "start" : "12", "end" : "19", "length" : "8"}],
+        "413" : [{"index_surah" : "31", "start" : "20", "end" : "28", "length" : "9"}],
+        "414" : [{"index_surah" : "31", "start" : "29", "end" : "34", "length" : "6"}],
+        "415" : [{"index_surah" : "32", "start" : "1", "end" : "11", "length" : "11"}],
+        "416" : [{"index_surah" : "32", "start" : "12", "end" : "20", "length" : "9"}],
+        "417" : [{"index_surah" : "32", "start" : "21", "end" : "30", "length" : "10"}],
+        "418" : [{"index_surah" : "33", "start" : "1", "end" : "6", "length" : "6"}],
+        "419" : [{"index_surah" : "33", "start" : "7", "end" : "15", "length" : "9"}],
+        "420" : [{"index_surah" : "33", "start" : "16", "end" : "22", "length" : "7"}],
+        "421" : [{"index_surah" : "33", "start" : "23", "end" : "30", "length" : "8"}],
+        "422" : [{"index_surah" : "33", "start" : "31", "end" : "35", "length" : "5"}],
+        "423" : [{"index_surah" : "33", "start" : "36", "end" : "43", "length" : "8"}],
+        "424" : [{"index_surah" : "33", "start" : "44", "end" : "50", "length" : "7"}],
+        "425" : [{"index_surah" : "33", "start" : "51", "end" : "54", "length" : "4"}],
+        "426" : [{"index_surah" : "33", "start" : "55", "end" : "62", "length" : "8"}],
+        "427" : [{"index_surah" : "33", "start" : "63", "end" : "73", "length" : "11"}],
+        "428" : [{"index_surah" : "34", "start" : "1", "end" : "7", "length" : "7"}],
+        "429" : [{"index_surah" : "34", "start" : "8", "end" : "14", "length" : "7"}],
+        "430" : [{"index_surah" : "34", "start" : "15", "end" : "22", "length" : "8"}],
+        "431" : [{"index_surah" : "34", "start" : "23", "end" : "31", "length" : "9"}],
+        "432" : [{"index_surah" : "34", "start" : "32", "end" : "39", "length" : "8"}],
+        "433" : [{"index_surah" : "34", "start" : "40", "end" : "48", "length" : "9"}],
+        "434" : [
+            {"index_surah" : "34", "start" : "49", "end" : "54", "length" : "6"},
+            {"index_surah" : "35", "start" : "1", "end" : "3", "length" : "3"}
+        ],
+        "435" : [{"index_surah" : "35", "start" : "4", "end" : "11", "length" : "8"}],
+        "436" : [{"index_surah" : "35", "start" : "12", "end" : "18", "length" : "7"}],
+        "437" : [{"index_surah" : "35", "start" : "19", "end" : "30", "length" : "12"}],
+        "438" : [{"index_surah" : "35", "start" : "31", "end" : "38", "length" : "8"}],
+        "439" : [{"index_surah" : "35", "start" : "39", "end" : "44", "length" : "6"}],
+        "440" : [
+            {"index_surah" : "35", "start" : "44", "end" : "45", "length" : "1"},
+            {"index_surah" : "36", "start" : "1", "end" : "12", "length" : "12"}
+        ],
+        "441" : [{"index_surah" : "36", "start" : "13", "end" : "27", "length" : "15"}],
+        "442" : [{"index_surah" : "36", "start" : "28", "end" : "40", "length" : "13"}],
+        "443" : [{"index_surah" : "36", "start" : "41", "end" : "54", "length" : "14"}],
+        "444" : [{"index_surah" : "36", "start" : "55", "end" : "70", "length" : "16"}],
+        "445" : [{"index_surah" : "36", "start" : "71", "end" : "83", "length" : "13"}],
+        "446" : [{"index_surah" : "37", "start" : "1", "end" : "24", "length" : "24"}],
+        "447" : [{"index_surah" : "37", "start" : "25", "end" : "51", "length" : "27"}],
+        "448" : [{"index_surah" : "37", "start" : "52", "end" : "76", "length" : "25"}],
+        "449" : [{"index_surah" : "37", "start" : "77", "end" : "102", "length" : "26"}],
+        "450" : [{"index_surah" : "37", "start" : "103", "end" : "126", "length" : "24"}],
+        "451" : [{"index_surah" : "37", "start" : "127", "end" : "153", "length" : "27"}],
+        "452" : [{"index_surah" : "37", "start" : "154", "end" : "182", "length" : "29"}],
+        "453" : [{"index_surah" : "38", "start" : "1", "end" : "16", "length" : "16"}],
+        "454" : [{"index_surah" : "38", "start" : "17", "end" : "26", "length" : "10"}],
+        "455" : [{"index_surah" : "38", "start" : "27", "end" : "42", "length" : "16"}],
+        "456" : [{"index_surah" : "38", "start" : "43", "end" : "61", "length" : "19"}],
+        "457" : [{"index_surah" : "38", "start" : "62", "end" : "83", "length" : "22"}],
+        "458" : [
+            {"index_surah" : "38", "start" : "84", "end" : "88", "length" : "5"},
+            {"index_surah" : "39", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "459" : [{"index_surah" : "39", "start" : "6", "end" : "10", "length" : "5"}],
+        "460" : [{"index_surah" : "39", "start" : "11", "end" : "21", "length" : "11"}],
+        "461" : [{"index_surah" : "39", "start" : "22", "end" : "31", "length" : "10"}],
+        "462" : [{"index_surah" : "39", "start" : "32", "end" : "40", "length" : "9"}],
+        "463" : [{"index_surah" : "39", "start" : "41", "end" : "47", "length" : "7"}],
+        "464" : [{"index_surah" : "39", "start" : "48", "end" : "56", "length" : "9"}],
+        "465" : [{"index_surah" : "39", "start" : "57", "end" : "67", "length" : "11"}],
+        "466" : [{"index_surah" : "39", "start" : "68", "end" : "74", "length" : "7"}],
+        "467" : [
+            {"index_surah" : "39", "start" : "75", "end" : "75", "length" : "1"},
+            {"index_surah" : "40", "start" : "1", "end" : "7", "length" : "7"}
+        ],
+        "468" : [{"index_surah" : "40", "start" : "8", "end" : "16", "length" : "9"}],
+        "469" : [{"index_surah" : "40", "start" : "17", "end" : "25", "length" : "9"}],
+        "470" : [{"index_surah" : "40", "start" : "26", "end" : "33", "length" : "8"}],
+        "471" : [{"index_surah" : "40", "start" : "34", "end" : "40", "length" : "7"}],
+        "472" : [{"index_surah" : "40", "start" : "41", "end" : "49", "length" : "9"}],
+        "473" : [{"index_surah" : "40", "start" : "50", "end" : "58", "length" : "9"}],
+        "474" : [{"index_surah" : "40", "start" : "59", "end" : "66", "length" : "8"}],
+        "475" : [{"index_surah" : "40", "start" : "67", "end" : "77", "length" : "11"}],
+        "476" : [{"index_surah" : "40", "start" : "78", "end" : "85", "length" : "8"}],
+        "477" : [{"index_surah" : "41", "start" : "1", "end" : "11", "length" : "11"}],
+        "478" : [{"index_surah" : "41", "start" : "12", "end" : "20", "length" : "9"}],
+        "479" : [{"index_surah" : "41", "start" : "21", "end" : "29", "length" : "9"}],
+        "480" : [{"index_surah" : "41", "start" : "30", "end" : "38", "length" : "9"}],
+        "481" : [{"index_surah" : "41", "start" : "39", "end" : "46", "length" : "8"}],
+        "482" : [{"index_surah" : "41", "start" : "47", "end" : "54", "length" : "8"}],
+        "483" : [{"index_surah" : "42", "start" : "1", "end" : "10", "length" : "10"}],
+        "484" : [{"index_surah" : "42", "start" : "11", "end" : "15", "length" : "5"}],
+        "485" : [{"index_surah" : "42", "start" : "16", "end" : "22", "length" : "7"}],
+        "486" : [{"index_surah" : "42", "start" : "23", "end" : "31", "length" : "9"}],
+        "487" : [{"index_surah" : "42", "start" : "32", "end" : "44", "length" : "13"}],
+        "488" : [{"index_surah" : "42", "start" : "45", "end" : "51", "length" : "7"}],
+        "489" : [
+            {"index_surah" : "42", "start" : "52", "end" : "53", "length" : "2"},
+            {"index_surah" : "43", "start" : "1", "end" : "10", "length" : "10"}
+        ],
+        "490" : [{"index_surah" : "43", "start" : "11", "end" : "22", "length" : "12"}],
+        "491" : [{"index_surah" : "43", "start" : "23", "end" : "33", "length" : "11"}],
+        "492" : [{"index_surah" : "43", "start" : "34", "end" : "47", "length" : "14"}],
+        "493" : [{"index_surah" : "43", "start" : "48", "end" : "60", "length" : "13"}],
+        "494" : [{"index_surah" : "43", "start" : "61", "end" : "73", "length" : "13"}],
+        "495" : [{"index_surah" : "43", "start" : "74", "end" : "89", "length" : "16"}],
+        "496" : [{"index_surah" : "44", "start" : "1", "end" : "18", "length" : "18"}],
+        "497" : [{"index_surah" : "44", "start" : "19", "end" : "39", "length" : "21"}],
+        "498" : [{"index_surah" : "44", "start" : "40", "end" : "59", "length" : "20"}],
+        "499" : [{"index_surah" : "45", "start" : "1", "end" : "13", "length" : "13"}],
+        "500" : [{"index_surah" : "45", "start" : "14", "end" : "22", "length" : "9"}],
+        "501" : [{"index_surah" : "45", "start" : "23", "end" : "32", "length" : "10"}],
+        "502" : [
+            {"index_surah" : "45", "start" : "33", "end" : "37", "length" : "5"},
+            {"index_surah" : "46", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "503" : [{"index_surah" : "46", "start" : "6", "end" : "14", "length" : "9"}],
+        "504" : [{"index_surah" : "46", "start" : "15", "end" : "20", "length" : "6"}],
+        "505" : [{"index_surah" : "46", "start" : "21", "end" : "28", "length" : "8"}],
+        "506" : [{"index_surah" : "46", "start" : "29", "end" : "35", "length" : "7"}],
+        "507" : [{"index_surah" : "47", "start" : "1", "end" : "11", "length" : "11"}],
+        "508" : [{"index_surah" : "47", "start" : "12", "end" : "19", "length" : "8"}],
+        "509" : [{"index_surah" : "47", "start" : "20", "end" : "29", "length" : "10"}],
+        "510" : [{"index_surah" : "47", "start" : "30", "end" : "38", "length" : "9"}],
+        "511" : [{"index_surah" : "48", "start" : "1", "end" : "9", "length" : "9"}],
+        "512" : [{"index_surah" : "48", "start" : "10", "end" : "15", "length" : "6"}],
+        "513" : [{"index_surah" : "48", "start" : "16", "end" : "23", "length" : "8"}],
+        "514" : [{"index_surah" : "48", "start" : "24", "end" : "28", "length" : "5"}],
+        "515" : [
+            {"index_surah" : "48", "start" : "29", "end" : "29", "length" : "1"},
+            {"index_surah" : "49", "start" : "1", "end" : "4", "length" : "4"}
+        ],
+        "516" : [{"index_surah" : "49", "start" : "5", "end" : "11", "length" : "7"}],
+        "517" : [{"index_surah" : "49", "start" : "12", "end" : "18", "length" : "7"}],
+        "518" : [{"index_surah" : "50", "start" : "1", "end" : "15", "length" : "15"}],
+        "519" : [{"index_surah" : "50", "start" : "16", "end" : "35", "length" : "20"}],
+        "520" : [
+            {"index_surah" : "50", "start" : "36", "end" : "45", "length" : "10"},
+            {"index_surah" : "51", "start" : "1", "end" : "6", "length" : "6"}
+        ],
+        "521" : [{"index_surah" : "51", "start" : "7", "end" : "30", "length" : "24"}],
+        "522" : [{"index_surah" : "51", "start" : "31", "end" : "51", "length" : "21"}],
+        "523" : [
+            {"index_surah" : "51", "start" : "32", "end" : "60", "length" : "9"},
+            {"index_surah" : "52", "start" : "1", "end" : "14", "length" : "14"}
+        ],
+        "524" : [{"index_surah" : "52", "start" : "15", "end" : "31", "length" : "17"}],
+        "525" : [{"index_surah" : "52", "start" : "32", "end" : "49", "length" : "18"}],
+        "526" : [{"index_surah" : "53", "start" : "1", "end" : "26", "length" : "26"}],
+        "527" : [{"index_surah" : "53", "start" : "27", "end" : "44", "length" : "18"}],
+        "528" : [
+            {"index_surah" : "53", "start" : "45", "end" : "62", "length" : "18"},
+            {"index_surah" : "54", "start" : "1", "end" : "6", "length" : "6"}
+        ],
+        "529" : [{"index_surah" : "54", "start" : "7", "end" : "27", "length" : "21"}],
+        "530" : [{"index_surah" : "54", "start" : "28", "end" : "49", "length" : "22"}],
+        "531" : [
+            {"index_surah" : "54", "start" : "50", "end" : "55", "length" : "6"},
+            {"index_surah" : "55", "start" : "1", "end" : "16", "length" : "16"}
+        ],
+        "532" : [{"index_surah" : "55", "start" : "17", "end" : "40", "length" : "24"}],
+        "533" : [{"index_surah" : "55", "start" : "41", "end" : "67", "length" : "27"}],
+        "534" : [
+            {"index_surah" : "55", "start" : "68", "end" : "78", "length" : "11"},
+            {"index_surah" : "56", "start" : "1", "end" : "16", "length" : "16"}
+        ],
+        "535" : [{"index_surah" : "56", "start" : "17", "end" : "50", "length" : "34"}],
+        "536" : [{"index_surah" : "56", "start" : "51", "end" : "76", "length" : "26"}],
+        "537" : [
+            {"index_surah" : "56", "start" : "77", "end" : "96", "length" : "20"},
+            {"index_surah" : "57", "start" : "1", "end" : "3", "length" : "3"}
+        ],
+        "538" : [{"index_surah" : "57", "start" : "4", "end" : "11", "length" : "8"}],
+        "539" : [{"index_surah" : "57", "start" : "12", "end" : "18", "length" : "7"}],
+        "540" : [{"index_surah" : "57", "start" : "19", "end" : "24", "length" : "6"}],
+        "541" : [{"index_surah" : "57", "start" : "25", "end" : "29", "length" : "5"}],
+        "542" : [{"index_surah" : "58", "start" : "1", "end" : "6", "length" : "6"}],
+        "543" : [{"index_surah" : "58", "start" : "7", "end" : "11", "length" : "5"}],
+        "544" : [{"index_surah" : "58", "start" : "12", "end" : "21", "length" : "10"}],
+        "545" : [
+            {"index_surah" : "58", "start" : "22", "end" : "22", "length" : "1"},
+            {"index_surah" : "59", "start" : "1", "end" : "3", "length" : "3"}
+        ],
+        "546" : [{"index_surah" : "59", "start" : "4", "end" : "9", "length" : "6"}],
+        "547" : [{"index_surah" : "59", "start" : "10", "end" : "16", "length" : "7"}],
+        "548" : [{"index_surah" : "59", "start" : "17", "end" : "24", "length" : "8"}],
+        "549" : [{"index_surah" : "60", "start" : "1", "end" : "5", "length" : "5"}],
+        "550" : [{"index_surah" : "60", "start" : "6", "end" : "11", "length" : "6"}],
+        "551" : [
+            {"index_surah" : "60", "start" : "12", "end" : "13", "length" : "2"},
+            {"index_surah" : "61", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "552" : [{"index_surah" : "61", "start" : "6", "end" : "14", "length" : "9"}],
+        "553" : [{"index_surah" : "62", "start" : "1", "end" : "8", "length" : "8"}],
+        "554" : [
+            {"index_surah" : "62", "start" : "9", "end" : "11", "length" : "3"},
+            {"index_surah" : "63", "start" : "1", "end" : "4", "length" : "4"}
+        ],
+        "555" : [{"index_surah" : "63", "start" : "5", "end" : "11", "length" : "7"}],
+        "556" : [{"index_surah" : "64", "start" : "1", "end" : "9", "length" : "9"}],
+        "557" : [{"index_surah" : "64", "start" : "10", "end" : "18", "length" : "9"}],
+        "558" : [{"index_surah" : "65", "start" : "1", "end" : "5", "length" : "5"}],
+        "559" : [{"index_surah" : "65", "start" : "6", "end" : "12", "length" : "7"}],
+        "560" : [{"index_surah" : "66", "start" : "1", "end" : "7", "length" : "7"}],
+        "561" : [{"index_surah" : "66", "start" : "8", "end" : "12", "length" : "5"}],
+        "562" : [{"index_surah" : "67", "start" : "1", "end" : "12", "length" : "12"}],
+        "563" : [{"index_surah" : "67", "start" : "13", "end" : "26", "length" : "14"}],
+        "564" : [
+            {"index_surah" : "67", "start" : "27", "end" : "30", "length" : "4"},
+            {"index_surah" : "68", "start" : "1", "end" : "15", "length" : "15"}
+        ],
+        "565" : [{"index_surah" : "68", "start" : "16", "end" : "42", "length" : "27"}],
+        "566" : [
+            {"index_surah" : "68", "start" : "43", "end" : "52", "length" : "10"},
+            {"index_surah" : "69", "start" : "1", "end" : "8", "length" : "8"}
+        ],
+        "567" : [{"index_surah" : "69", "start" : "9", "end" : "34", "length" : "26"}],
+        "568" : [{"index_surah" : "70", "start" : "1", "end" : "10", "length" : "10"}],
+        "569" : [{"index_surah" : "70", "start" : "11", "end" : "39", "length" : "29"}],
+        "570" : [
+            {"index_surah" : "70", "start" : "40", "end" : "44", "length" : "5"},
+            {"index_surah" : "71", "start" : "1", "end" : "10", "length" : "10"}
+        ],
+        "571" : [{"index_surah" : "71", "start" : "11", "end" : "28", "length" : "18"}],
+        "572" : [{"index_surah" : "72", "start" : "1", "end" : "13", "length" : "13"}],
+        "573" : [{"index_surah" : "72", "start" : "14", "end" : "28", "length" : "15"}],
+        "574" : [{"index_surah" : "73", "start" : "1", "end" : "19", "length" : "19"}],
+        "575" : [
+            {"index_surah" : "73", "start" : "20", "end" : "20", "length" : "1"},
+            {"index_surah" : "74", "start" : "1", "end" : "17", "length" : "17"}
+        ],
+        "576" : [{"index_surah" : "74", "start" : "18", "end" : "47", "length" : "30"}],
+        "577" : [
+            {"index_surah" : "74", "start" : "48", "end" : "56", "length" : "8"},
+            {"index_surah" : "75", "start" : "1", "end" : "19", "length" : "19"}
+        ],
+        
+        "578" :
+        [
+            {"index_surah" : "75", "start" : "26", "end" : "31", "length" : "6"},
+            {"index_surah" : "76", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "579" : [{"index_surah" : "76", "start" : "6", "end" : "25", "length" : "20"}],
+        "580" : [
+            {"index_surah" : "76", "start" : "26", "end" : "31", "length" : "6"},
+            {"index_surah" : "77", "start" : "1", "end" : "19", "length" : "19"}
+        ],
+        "581" : [{"index_surah" : "77", "start" : "20", "end" : "50", "length" : "31"}],
+        "582" : [{"index_surah" : "78", "start" : "1", "end" : "30", "length" : "30"}],
+        "583" : [
+            {"index_surah" : "78", "start" : "31", "end" : "40", "length" : "10"},
+            {"index_surah" : "79", "start" : "1", "end" : "15", "length" : "15"}
+        ],
+        "584" : [{"index_surah" : "79", "start" : "16", "end" : "46", "length" : "31"}],
+        "585" : [{"index_surah" : "80", "start" : "1", "end" : "42", "length" : "42"}],
+        "586" : [{"index_surah" : "81", "start" : "1", "end" : "29", "length" : "29"}],
+        "587" : [
+            {"index_surah" : "82", "start" : "1", "end" : "19", "length" : "19"},
+            {"index_surah" : "83", "start" : "1", "end" : "6", "length" : "6"}
+        ],
+        "588" : [{"index_surah" : "83", "start" : "7", "end" : "34", "length" : "28"}],
+        "589" : [
+            {"index_surah" : "83", "start" : "35", "end" : "36", "length" : "2"},
+            {"index_surah" : "84", "start" : "1", "end" : "25", "length" : "25"}
+        ],
+        "590" : [{"index_surah" : "85", "start" : "1", "end" : "22", "length" : "22"}],
+        "591" : [
+            {"index_surah" : "86", "start" : "1", "end" : "17", "length" : "17"},
+            {"index_surah" : "87", "start" : "1", "end" : "15", "length" : "15"}
+        ],
+        "592" : [
+            {"index_surah" : "87", "start" : "16", "end" : "17", "length" : "2"},
+            {"index_surah" : "88", "start" : "1", "end" : "26", "length" : "26"}
+        ],
+        "593" : [{"index_surah" : "89", "start" : "1", "end" : "23", "length" : "23"}],
+        "594" : [
+            {"index_surah" : "89", "start" : "24", "end" : "30", "length" : "7"},
+            {"index_surah" : "90", "start" : "1", "end" : "20", "length" : "20"}
+        ],
+        "595" : [
+            {"index_surah" : "91", "start" : "1", "end" : "15", "length" : "15"},
+            {"index_surah" : "92", "start" : "1", "end" : "14", "length" : "14"}
+        ],
+        "596" : [
+            {"index_surah" : "92", "start" : "15", "end" : "21", "length" : "7"},
+            {"index_surah" : "93", "start" : "1", "end" : "11", "length" : "11"},
+            {"index_surah" : "94", "start" : "1", "end" : "8", "length" : "8"}
+        ],
+        "597" : [
+            {"index_surah" : "95", "start" : "1", "end" : "8", "length" : "8"},
+            {"index_surah" : "96", "start" : "1", "end" : "19", "length" : "19"}
+        ],
+        "598" : [
+            {"index_surah" : "97", "start" : "1", "end" : "5", "length" : "5"},
+            {"index_surah" : "98", "start" : "1", "end" : "7", "length" : "7"}
+        ],
+        "599" : [
+            {"index_surah" : "98", "start" : "8", "end" : "8", "length" : "1"},
+            {"index_surah" : "99", "start" : "1", "end" : "7", "length" : "7"},
+            {"index_surah" : "100", "start" : "1", "end" : "9", "length" : "9"}
+        ],
+        "600" : [
+            {"index_surah" : "100", "start" : "10", "end" : "11", "length" : "2"},
+            {"index_surah" : "101", "start" : "1", "end" : "11", "length" : "11"},
+            {"index_surah" : "102", "start" : "1", "end" : "8", "length" : "8"}
+        ],
+        "601" : [
+            {"index_surah" : "103", "start" : "1", "end" : "3", "length" : "3"},
+            {"index_surah" : "104", "start" : "1", "end" : "9", "length" : "9"},
+            {"index_surah" : "105", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "602" : [
+            {"index_surah" : "106", "start" : "1", "end" : "4", "length" : "4"},
+            {"index_surah" : "107", "start" : "1", "end" : "7", "length" : "7"},
+            {"index_surah" : "108", "start" : "1", "end" : "3", "length" : "3"}
+        ],
+        "603" : [
+            {"index_surah" : "109", "start" : "1", "end" : "6", "length" : "6"},
+            {"index_surah" : "110", "start" : "1", "end" : "3", "length" : "3"},
+            {"index_surah" : "111", "start" : "1", "end" : "5", "length" : "5"}
+        ],
+        "604" : [
+            {"index_surah" : "112", "start" : "1", "end" : "4", "length" : "4"},
+            {"index_surah" : "113", "start" : "1", "end" : "5", "length" : "5"},
+            {"index_surah" : "114", "start" : "1", "end" : "6", "length" : "6"}
+        ]
+    },
+    "surah" : {
+        "1": {"name_latin": "Al-Fatihah", "jumlah_ayat": "7", "start_page": "1"}, 
+        "2": {"name_latin": "Al-Baqarah", "jumlah_ayat": "286", "start_page": "2"}, 
+        "3": {"name_latin": "Ali `Imran", "jumlah_ayat": "200", "start_page": "50"}, 
+        "4": {"name_latin": "An-Nisa`", "jumlah_ayat": "176", "start_page": "77"}, 
+        "5": {"name_latin": "Al-Ma`idah", "jumlah_ayat": "120", "start_page": "106"}, 
+        "6": {"name_latin": "Al-An`am", "jumlah_ayat": "165", "start_page": "128"}, 
+        "7": {"name_latin": "Al-A`raf", "jumlah_ayat": "206", "start_page": "151"}, 
+        "8": {"name_latin": "Al-Anfal", "jumlah_ayat": "75", "start_page": "177"}, 
+        "9": {"name_latin": "At-Taubah", "jumlah_ayat": "129", "start_page": "187"}, 
+        "10": {"name_latin": "Yunus", "jumlah_ayat": "109", "start_page": "208"}, 
+        "11": {"name_latin": "Hud", "jumlah_ayat": "123", "start_page": "221"}, 
+        "12": {"name_latin": "Yusuf", "jumlah_ayat": "111", "start_page": "235"}, 
+        "13": {"name_latin": "Ar-Ra`d", "jumlah_ayat": "43", "start_page": "249"}, 
+        "14": {"name_latin": "Ibrahim", "jumlah_ayat": "52", "start_page": "255"}, 
+        "15": {"name_latin": "Al-Hijr", "jumlah_ayat": "99", "start_page": "262"}, 
+        "16": {"name_latin": "An-Nahl", "jumlah_ayat": "128", "start_page": "267"}, 
+        "17": {"name_latin": "Al-Isra`", "jumlah_ayat": "111", "start_page": "282"}, 
+        "18": {"name_latin": "Al-Kahf", "jumlah_ayat": "110", "start_page": "293"}, 
+        "19": {"name_latin": "Maryam", "jumlah_ayat": "98", "start_page": "305"}, 
+        "20": {"name_latin": "Taha", "jumlah_ayat": "135", "start_page": "312"}, 
+        "21": {"name_latin": "Al-Anbiya`", "jumlah_ayat": "112", "start_page": "322"}, 
+        "22": {"name_latin": "Al-Hajj", "jumlah_ayat": "78", "start_page": "332"}, 
+        "23": {"name_latin": "Al-Mu`minun", "jumlah_ayat": "118", "start_page": "342"}, 
+        "24": {"name_latin": "An-Nur", "jumlah_ayat": "64", "start_page": "350"}, 
+        "25": {"name_latin": "Al-Furqan", "jumlah_ayat": "77", "start_page": "359"}, 
+        "26": {"name_latin": "Asy-Syu`ara`", "jumlah_ayat": "227", "start_page": "367"}, 
+        "27": {"name_latin": "An-Naml", "jumlah_ayat": "93", "start_page": "377"}, 
+        "28": {"name_latin": "Al-Qasas", "jumlah_ayat": "88", "start_page": "385"}, 
+        "29": {"name_latin": "Al-`Ankabut", "jumlah_ayat": "69", "start_page": "396"}, 
+        "30": {"name_latin": "Ar-Rum", "jumlah_ayat": "60", "start_page": "404"}, 
+        "31": {"name_latin": "Luqman", "jumlah_ayat": "34", "start_page": "411"}, 
+        "32": {"name_latin": "As-Sajdah", "jumlah_ayat": "30", "start_page": "415"}, 
+        "33": {"name_latin": "Al-Ahzab", "jumlah_ayat": "73", "start_page": "418"}, 
+        "34": {"name_latin": "Saba`", "jumlah_ayat": "54", "start_page": "428"}, 
+        "35": {"name_latin": "Fatir", "jumlah_ayat": "45", "start_page": "434"}, 
+        "36": {"name_latin": "Yasin", "jumlah_ayat": "83", "start_page": "440"}, 
+        "37": {"name_latin": "As-Saffat", "jumlah_ayat": "182", "start_page": "446"}, 
+        "38": {"name_latin": "Sad", "jumlah_ayat": "88", "start_page": "453"}, 
+        "39": {"name_latin": "Az-Zumar", "jumlah_ayat": "75", "start_page": "458"}, 
+        "40": {"name_latin": "Gafir", "jumlah_ayat": "85", "start_page": "467"}, 
+        "41": {"name_latin": "Fussilat", "jumlah_ayat": "54", "start_page": "477"}, 
+        "42": {"name_latin": "Asy-Syura", "jumlah_ayat": "53", "start_page": "483"}, 
+        "43": {"name_latin": "Az-Zukhruf", "jumlah_ayat": "89", "start_page": "489"}, 
+        "44": {"name_latin": "Ad-Dukhan", "jumlah_ayat": "59", "start_page": "496"}, 
+        "45": {"name_latin": "Al-Jasiyah", "jumlah_ayat": "37", "start_page": "499"}, 
+        "46": {"name_latin": "Al-Ahqaf", "jumlah_ayat": "35", "start_page": "502"}, 
+        "47": {"name_latin": "Muhammad", "jumlah_ayat": "38", "start_page": "507"}, 
+        "48": {"name_latin": "Al-Fath", "jumlah_ayat": "29", "start_page": "511"}, 
+        "49": {"name_latin": "Al-Hujurat", "jumlah_ayat": "18", "start_page": "515"}, 
+        "50": {"name_latin": "Qaf", "jumlah_ayat": "45", "start_page": "518"}, 
+        "51": {"name_latin": "Az-Zariyat", "jumlah_ayat": "60", "start_page": "520"}, 
+        "52": {"name_latin": "At-Tur", "jumlah_ayat": "49", "start_page": "523"}, 
+        "53": {"name_latin": "An-Najm", "jumlah_ayat": "62", "start_page": "526"}, 
+        "54": {"name_latin": "Al-Qamar", "jumlah_ayat": "55", "start_page": "528"}, 
+        "55": {"name_latin": "Ar-Rahman", "jumlah_ayat": "78", "start_page": "531"}, 
+        "56": {"name_latin": "Al-Waqi`ah", "jumlah_ayat": "96", "start_page": "534"}, 
+        "57": {"name_latin": "Al-Hadid", "jumlah_ayat": "29", "start_page": "537"}, 
+        "58": {"name_latin": "Al-Mujadalah", "jumlah_ayat": "22", "start_page": "542"}, 
+        "59": {"name_latin": "Al-Hasyr", "jumlah_ayat": "24", "start_page": "545"}, 
+        "60": {"name_latin": "Al-Mumtahanah", "jumlah_ayat": "13", "start_page": "549"}, 
+        "61": {"name_latin": "As-Saff", "jumlah_ayat": "14", "start_page": "551"}, 
+        "62": {"name_latin": "Al-Jumu`ah", "jumlah_ayat": "11", "start_page": "553"}, 
+        "63": {"name_latin": "Al-Munafiqun", "jumlah_ayat": "11", "start_page": "554"}, 
+        "64": {"name_latin": "At-Tagabun", "jumlah_ayat": "18", "start_page": "556"}, 
+        "65": {"name_latin": "At-Talaq", "jumlah_ayat": "12", "start_page": "558"}, 
+        "66": {"name_latin": "At-Tahrim", "jumlah_ayat": "12", "start_page": "560"}, 
+        "67": {"name_latin": "Al-Mulk", "jumlah_ayat": "30", "start_page": "562"}, 
+        "68": {"name_latin": "Al-Qalam", "jumlah_ayat": "52", "start_page": "564"}, 
+        "69": {"name_latin": "Al-Haqqah", "jumlah_ayat": "52", "start_page": "566"}, 
+        "70": {"name_latin": "Al-Ma`arij", "jumlah_ayat": "44", "start_page": "568"}, 
+        "71": {"name_latin": "Nuh", "jumlah_ayat": "28", "start_page": "570"}, 
+        "72": {"name_latin": "Al-Jinn", "jumlah_ayat": "28", "start_page": "572"}, 
+        "73": {"name_latin": "Al-Muzzammil", "jumlah_ayat": "20", "start_page": "574"}, 
+        "74": {"name_latin": "Al-Muddassir", "jumlah_ayat": "56", "start_page": "575"}, 
+        "75": {"name_latin": "Al-Qiyamah", "jumlah_ayat": "40", "start_page": "577"}, 
+        "76": {"name_latin": "Al-Insan", "jumlah_ayat": "31", "start_page": "578"}, 
+        "77": {"name_latin": "Al-Mursalat", "jumlah_ayat": "50", "start_page": "580"}, 
+        "78": {"name_latin": "An-Naba`", "jumlah_ayat": "40", "start_page": "582"}, 
+        "79": {"name_latin": "An-Nazi`at", "jumlah_ayat": "46", "start_page": "583"}, 
+        "80": {"name_latin": "`Abasa", "jumlah_ayat": "42", "start_page": "585"}, 
+        "81": {"name_latin": "At-Takwir", "jumlah_ayat": "29", "start_page": "586"}, 
+        "82": {"name_latin": "Al-Infitar", "jumlah_ayat": "19", "start_page": "587"}, 
+        "83": {"name_latin": "Al-Mutaffifin", "jumlah_ayat": "36", "start_page": "587"}, 
+        "84": {"name_latin": "Al-Insyiqaq", "jumlah_ayat": "25", "start_page": "589"}, 
+        "85": {"name_latin": "Al-Buruj", "jumlah_ayat": "22", "start_page": "590"}, 
+        "86": {"name_latin": "At-Tariq", "jumlah_ayat": "17", "start_page": "591"}, 
+        "87": {"name_latin": "Al-A`la", "jumlah_ayat": "19", "start_page": "591"}, 
+        "88": {"name_latin": "Al-Gasyiyah", "jumlah_ayat": "26", "start_page": "592"}, 
+        "89": {"name_latin": "Al-Fajr", "jumlah_ayat": "30", "start_page": "593"}, 
+        "90": {"name_latin": "Al-Balad", "jumlah_ayat": "20", "start_page": "594"}, 
+        "91": {"name_latin": "Asy-Syams", "jumlah_ayat": "15", "start_page": "595"}, 
+        "92": {"name_latin": "Al-Lail", "jumlah_ayat": "21", "start_page": "595"}, 
+        "93": {"name_latin": "Ad-Duha", "jumlah_ayat": "11", "start_page": "596"}, 
+        "94": {"name_latin": "Asy-Syarh", "jumlah_ayat": "8", "start_page": "596"}, 
+        "95": {"name_latin": "At-Tin", "jumlah_ayat": "8", "start_page": "597"}, 
+        "96": {"name_latin": "Al-`Alaq", "jumlah_ayat": "19", "start_page": "597"}, 
+        "97": {"name_latin": "Al-Qadr", "jumlah_ayat": "5", "start_page": "598"}, 
+        "98": {"name_latin": "Al-Bayyinah", "jumlah_ayat": "8", "start_page": "598"}, 
+        "99": {"name_latin": "Az-Zalzalah", "jumlah_ayat": "8", "start_page": "599"}, 
+        "100": {"name_latin": "Al-`Adiyat", "jumlah_ayat": "11", "start_page": "599"}, 
+        "101": {"name_latin": "Al-Qari`ah", "jumlah_ayat": "11", "start_page": "600"}, 
+        "102": {"name_latin": "At-Takasur", "jumlah_ayat": "8", "start_page": "600"}, 
+        "103": {"name_latin": "Al-`Asr", "jumlah_ayat": "3", "start_page": "601"}, 
+        "104": {"name_latin": "Al-Humazah", "jumlah_ayat": "9", "start_page": "601"}, 
+        "105": {"name_latin": "Al-Fil", "jumlah_ayat": "5", "start_page": "601"}, 
+        "106": {"name_latin": "Quraisy", "jumlah_ayat": "4", "start_page": "602"}, 
+        "107": {"name_latin": "Al-Ma`un", "jumlah_ayat": "7", "start_page": "602"}, 
+        "108": {"name_latin": "Al-Kausar", "jumlah_ayat": "3", "start_page": "602"}, 
+        "109": {"name_latin": "Al-Kafirun", "jumlah_ayat": "6", "start_page": "603"}, 
+        "110": {"name_latin": "An-Nasr", "jumlah_ayat": "3", "start_page": "603"}, 
+        "111": {"name_latin": "Al-Lahab", "jumlah_ayat": "5", "start_page": "603"}, 
+        "112": {"name_latin": "Al-Ikhlas", "jumlah_ayat": "4", "start_page": "604"}, 
+        "113": {"name_latin": "Al-Falaq", "jumlah_ayat": "5", "start_page": "604"}, 
+        "114": {"name_latin": "An-Nas", "jumlah_ayat": "6", "start_page": "604"}     
+    },
+    "juz" : {
+        "1": {
+            "start": {
+                "page": "1",
+                "surah": "1",
+                "ayat": "1",
+                "name_latin": "Al-Fatihah"
+            },
+            "end": {
+                "page": "21",
+                "surah": "2",
+                "ayat": "141",
+                "name_latin": "Al-Baqarah"
+            }
+        },
+        "2": {
+            "start": {
+                "page": "22",
+                "surah": "2",
+                "ayat": "142",
+                "name_latin": "Al-Baqarah"
+            },
+            "end": {
+                "page": "41",
+                "surah": "2",
+                "ayat": "252",
+                "name_latin": "Al-Baqarah"
+            }
+        },
+        "3": {
+            "start": {
+                "page": "42",
+                "surah": "2",
+                "ayat": "253",
+                "name_latin": "Al-Baqarah"
+            },
+            "end": {
+                "page": "61",
+                "surah": "3",
+                "ayat": "92",
+                "name_latin": "Ali `Imran"
+            }
+        },
+        "4": {
+            "start": {
+                "page": "62",
+                "surah": "3",
+                "ayat": "93",
+                "name_latin": "Ali `Imran"
+            },
+            "end": {
+                "page": "81",
+                "surah": "4",
+                "ayat": "23",
+                "name_latin": "An-Nisa`"
+            }
+        },
+        "5": {
+            "start": {
+                "page": "82",
+                "surah": "4",
+                "ayat": "24",
+                "name_latin": "An-Nisa`"
+            },
+            "end": {
+                "page": "101",
+                "surah": "4",
+                "ayat": "147",
+                "name_latin": "An-Nisa`"
+            }
+        },
+        "6": {
+            "start": {
+                "page": "102",
+                "surah": "4",
+                "ayat": "148",
+                "name_latin": "An-Nisa`"
+            },
+            "end": {
+                "page": "121",
+                "surah": "5",
+                "ayat": "81",
+                "name_latin": "Al-Ma`idah"
+            }
+        },
+        "7": {
+            "start": {
+                "page": "121",
+                "surah": "5",
+                "ayat": "82",
+                "name_latin": "Al-Ma`idah"
+            },
+            "end": {
+                "page": "141",
+                "surah": "6",
+                "ayat": "110",
+                "name_latin": "Al-An`am"
+            }
+        },
+        "8": {
+            "start": {
+                "page": "142",
+                "surah": "6",
+                "ayat": "111",
+                "name_latin": "Al-An`am"
+            },
+            "end": {
+                "page": "161",
+                "surah": "7",
+                "ayat": "87",
+                "name_latin": "Al-A`raf"
+            }
+        },
+        "9": {
+            "start": {
+                "page": "162",
+                "surah": "7",
+                "ayat": "88",
+                "name_latin": "Al-A`raf"
+            },
+            "end": {
+                "page": "181",
+                "surah": "8",
+                "ayat": "40",
+                "name_latin": "Al-Anfal"
+            }
+        },
+        "10": {
+            "start": {
+                "page": "182",
+                "surah": "8",
+                "ayat": "41",
+                "name_latin": "Al-Anfal"
+            },
+            "end": {
+                "page": "201",
+                "surah": "9",
+                "ayat": "92",
+                "name_latin": "At-Taubah"
+            }
+        },
+        "11": {
+            "start": {
+                "page": "201",
+                "surah": "9",
+                "ayat": "93",
+                "name_latin": "At-Taubah"
+            },
+            "end": {
+                "page": "221",
+                "surah": "11",
+                "ayat": "5",
+                "name_latin": "Hud"
+            }
+        },
+        "12": {
+            "start": {
+                "page": "221",
+                "surah": "11",
+                "ayat": "6",
+                "name_latin": "Hud"
+            },
+            "end": {
+                "page": "241",
+                "surah": "12",
+                "ayat": "52",
+                "name_latin": "Yusuf"
+            }
+        },
+        "13": {
+            "start": {
+                "page": "242",
+                "surah": "12",
+                "ayat": "53",
+                "name_latin": "Yusuf"
+            },
+            "end": {
+                "page": "261",
+                "surah": "14",
+                "ayat": "52",
+                "name_latin": "Ibrahim"
+            }
+        },
+        "14": {
+            "start": {
+                "page": "261",
+                "surah": "15",
+                "ayat": "1",
+                "name_latin": "Al-Hijr"
+            },
+            "end": {
+                "page": "281",
+                "surah": "16",
+                "ayat": "128",
+                "name_latin": "An-Nahl"
+            }
+        },
+        "15": {
+            "start": {
+                "page": "282",
+                "surah": "17",
+                "ayat": "1",
+                "name_latin": "Al-Isra`"
+            },
+            "end": {
+                "page": "301",
+                "surah": "18",
+                "ayat": "74",
+                "name_latin": "Al-Kahf"
+            }
+        },
+        "16": {
+            "start": {
+                "page": "302",
+                "surah": "18",
+                "ayat": "75",
+                "name_latin": "Al-Kahf"
+            },
+            "end": {
+                "page": "321",
+                "surah": "20",
+                "ayat": "135",
+                "name_latin": "Taha"
+            }
+        },
+        "17": {
+            "start": {
+                "page": "322",
+                "surah": "21",
+                "ayat": "1",
+                "name_latin": "Al-Anbiya`"
+            },
+            "end": {
+                "page": "341",
+                "surah": "22",
+                "ayat": "78",
+                "name_latin": "Al-Hajj"
+            }
+        },
+        "18": {
+            "start": {
+                "page": "342",
+                "surah": "23",
+                "ayat": "1",
+                "name_latin": "Al-Mu`minun"
+            },
+            "end": {
+                "page": "362",
+                "surah": "25",
+                "ayat": "20",
+                "name_latin": "Al-Furqan"
+            }
+        },
+        "19": {
+            "start": {
+                "page": "363",
+                "surah": "25",
+                "ayat": "21",
+                "name_latin": "Al-Furqan"
+            },
+            "end": {
+                "page": "381",
+                "surah": "27",
+                "ayat": "55",
+                "name_latin": "An-Naml"
+            }
+        },
+        "20": {
+            "start": {
+                "page": "382",
+                "surah": "27",
+                "ayat": "56",
+                "name_latin": "An-Naml"
+            },
+            "end": {
+                "page": "401",
+                "surah": "29",
+                "ayat": "45",
+                "name_latin": "Al-`Ankabut"
+            }
+        },
+        "21": {
+            "start": {
+                "page": "402",
+                "surah": "29",
+                "ayat": "46",
+                "name_latin": "Al-`Ankabut"
+            },
+            "end": {
+                "page": "421",
+                "surah": "33",
+                "ayat": "30",
+                "name_latin": "Al-Ahzab"
+            }
+        },
+        "22": {
+            "start": {
+                "page": "422",
+                "surah": "33",
+                "ayat": "31",
+                "name_latin": "Al-Ahzab"
+            },
+            "end": {
+                "page": "441",
+                "surah": "36",
+                "ayat": "27",
+                "name_latin": "Yasin"
+            }
+        },
+        "23": {
+            "start": {
+                "page": "442",
+                "surah": "36",
+                "ayat": "28",
+                "name_latin": "Yasin"
+            },
+            "end": {
+                "page": "461",
+                "surah": "39",
+                "ayat": "31",
+                "name_latin": "Az-Zumar"
+            }
+        },
+        "24": {
+            "start": {
+                "page": "461",
+                "surah": "39",
+                "ayat": "32",
+                "name_latin": "Az-Zumar"
+            },
+            "end": {
+                "page": "481",
+                "surah": "41",
+                "ayat": "46",
+                "name_latin": "Fussilat"
+            }
+        },
+        "25": {
+            "start": {
+                "page": "482",
+                "surah": "41",
+                "ayat": "47",
+                "name_latin": "Fussilat"
+            },
+            "end": {
+                "page": "502",
+                "surah": "45",
+                "ayat": "37",
+                "name_latin": "Al-Jasiyah"
+            }
+        },
+        "26": {
+            "start": {
+                "page": "502",
+                "surah": "46",
+                "ayat": "1",
+                "name_latin": "Al-Ahqaf"
+            },
+            "end": {
+                "page": "521",
+                "surah": "51",
+                "ayat": "30",
+                "name_latin": "Az-Zariyat"
+            }
+        },
+        "27": {
+            "start": {
+                "page": "522",
+                "surah": "51",
+                "ayat": "31",
+                "name_latin": "Az-Zariyat"
+            },
+            "end": {
+                "page": "541",
+                "surah": "57",
+                "ayat": "29",
+                "name_latin": "Al-Hadid"
+            }
+        },
+        "28": {
+            "start": {
+                "page": "542",
+                "surah": "58",
+                "ayat": "1",
+                "name_latin": "Al-Mujadalah"
+            },
+            "end": {
+                "page": "561",
+                "surah": "66",
+                "ayat": "12",
+                "name_latin": "At-Tahrim"
+            }
+        },
+        "29": {
+            "start": {
+                "page": "562",
+                "surah": "67",
+                "ayat": "1",
+                "name_latin": "Al-Mulk"
+            },
+            "end": {
+                "page": "581",
+                "surah": "77",
+                "ayat": "50",
+                "name_latin": "Al-Mursalat"
+            }
+        },
+        "30": {
+            "start": {
+                "page": "582",
+                "surah": "78",
+                "ayat": "1",
+                "name_latin": "An-Naba`"
+            },
+            "end": {
+                "page": "604",
+                "surah": "114",
+                "ayat": "6",
+                "name_latin": "An-Nas"
+            }
+        }
+    }
+}

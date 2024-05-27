@@ -1,0 +1,29 @@
+{
+	"94" :{
+		"number" : "94",
+		"name" : "الشرح",
+		"name_latin" : "Asy-Syarh",
+		"number_of_ayah" : "8",
+		"text" : {
+			"1" : {"1" : "أَلَمْ", "2" : "نَشْرَحْ", "3" : "لَكَ", "4" : "صَدْرَكَ"},
+			"2" : {"1" : "وَوَضَعْنَا", "2" : "عَنكَ", "3" : "وِزْرَكَ"},
+			"3" : {"1" : "ٱلَّذِىٓ", "2" : "أَنقَضَ", "3" : "ظَهْرَكَ"},
+			"4" : {"1" : "وَرَفَعْنَا", "2" : "لَكَ", "3" : "ذِكْرَكَ"},
+			"5" : {"1" : "فَإِنَّ", "2" : "مَعَ", "3" : "ٱلْعُسْرِ", "4" : "يُسْرًا"},
+			"6" : {"1" : "إِنَّ", "2" : "مَعَ", "3" : "ٱلْعُسْرِ", "4" : "يُسْرًا"},
+			"7" : {"1" : "فَإِذَا", "2" : "فَرَغْتَ", "3" : "فَٱنصَبْ"},
+			"8" : {"1" : "وَإِلَىٰ", "2" : "رَبِّكَ", "3" : "فَٱرْغَب"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "apakah tidak/bukankah", "2" : "Kami melapangkan", "3" : "bagimu", "4" : "dadamu"},
+			"2" : {"1" : "dan Kami letakkan/turunkan", "2" : "dari kamu", "3" : "bebanmu"},
+			"3" : {"1" : "yang", "2" : "memberatkan", "3" : "punggungmu"},
+			"4" : {"1" : "dan Kami tinggikan", "2" : "bagimu", "3" : "sebutanmu"},
+			"5" : {"1" : "maka sesungguhnya", "2" : "beserta", "3" : "kesulitan", "4" : "kemudahan"},
+			"6" : {"1" : "sesungguhnya", "2" : "beserta", "3" : "kesulitan", "4" : "kemudahan"},
+			"7" : {"1" : "maka apabila", "2" : "kamu telah selesai", "3" : "maka kerja keraslah kamu"},
+			"8" : {"1" : "dan hanya", "2" : "Tuhanmu", "3" : "maka kamu berharap"}
+
+		}
+	}
+}

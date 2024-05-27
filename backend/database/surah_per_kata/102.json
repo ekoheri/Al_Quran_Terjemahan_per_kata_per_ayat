@@ -1,0 +1,29 @@
+{
+	"102" :{
+		"number" : "102",
+		"name" : "التكاثر",
+		"name_latin" : "At-Takasur",
+		"number_of_ayah" : "8",
+		"text" : {
+			"1" : {"1" : "أَلْهَىٰكُمُ", "2" : "ٱلتَّكَاثُرُ"},
+			"2" : {"1" : "حَتَّىٰ", "2" : "زُرْتُمُ", "3" : "ٱلْمَقَابِرَ"},
+			"3" : {"1" : "كَلَّا", "2" : "سَوْفَ", "3" : "تَعْلَمُونَ"},
+			"4" : {"1" : "ثُمَّ", "2" : "كَلَّا", "3" : "سَوْفَ", "4" : "تَعْلَمُونَ"},
+			"5" : {"1" : "كَلَّا", "2" : "لَوْ", "3" : "تَعْلَمُونَ", "4" : "عِلْمَ", "5" : "ٱلْيَقِينِ"},
+			"6" : {"1" : "لَتَرَوُنَّ", "2" : "ٱلْجَحِيمَ"},
+			"7" : {"1" : "ثُمَّ", "2" : "لَتَرَوُنَّهَا", "3" : "عَيْنَ", "4" : "ٱلْيَقِينِ"},
+			"8" : {"1" : "ثُمَّ", "2" : "لَتُسْـَٔلُنَّ", "3" : "يَوْمَئِذٍ", "4" : "عَنِ", "5" : "ٱلنَّعِيمِ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "telah melalaikan kamu", "2" : "berbanyak-banyak/bermegah-megah"},
+			"2" : {"1" : "hingga", "2" : "kamu melewati/masuk", "3" : "kuburan-kuburan"},
+			"3" : {"1" : "sekali-kali tidak", "2" : "kelak", "3" : "(kalian) mengetahui"},
+			"4" : {"1" : "kemudian", "2" : "sekali-kali tidak", "3" : "kelak", "4" : "(kalian) mengetahui"},
+			"5" : {"1" : "sekali-kali tidak", "2" : "jika", "3" : "(kalian) mengetahui", "4" : "pengetahuan", "5" : "pasti/yakin"},
+			"6" : {"1" : "sungguh kamu akan melihat", "2" : "neraka Jahim"},
+			"7" : {"1" : "kemudian", "2" : "sungguh kamu akan melihatnya", "3" : "mata/penglihatan", "4" : "pasti/yakin"},
+			"8" : {"1" : "kemudian", "2" : "sungguh kamu akan ditanya", "3" : "pada hari itu", "4" : "dari/tetang", "5" : "kenikmatan"}
+
+		}
+	}
+}

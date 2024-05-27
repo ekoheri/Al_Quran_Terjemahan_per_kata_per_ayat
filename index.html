@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Al-Quran Online Terjemah per Kata dan Per Ayat | Simetri Salam</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="description" content="Al-Quran Online Terjemah Per Kata dan per Ayat serta Tafsir Ayat | Simetri Salam">
+    <meta data-rh="true" name="description" content="Baca Al-Quran 30 Juz dengan Terjemah per Kata dan Per Ayat Bahasa Indonesia, Tanda Waqaf & Tafsir Ayat Lengkap. Baca Al Quran Online Lebih Mudah di Simetri Salam">
+    <meta data-rh="true" property="og:url" content="https://quran.simetri.io/">
+    <meta data-rh="true" property="og:site_name" content="Simetri">
+    <meta data-rh="true" property="og:title" content="Al-Quran Online Terjemah Per Ayat dan per Kata serta Tafsir Ayat | Simetri Salam">
+    <meta data-rh="true" property="og:description" content="Baca Al-Quran 30 Juz dengan Terjemah per Kata dan Per Ayat Bahasa Indonesia, Tanda Waqaf & Tafsir Ayat Lengkap. Baca Al Quran Online Lebih Mudah di Simetri Salam">
+    <meta name="keywords" content="Al Quran terjemah per kata, Al Quran terjemah per ayat, tafsir Al Quran, Al Quran per kata, Al Quran per ayat, Al Quran Online, Al Quran per kata online, Al Quran per ayat online, Al quran terjemahan online">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <section id ="header">
+          <nav class="navbar navbar-expand-sm navbar-custom fixed-top">
+            <div class="container-fluid">
+              <div class="d-flex justify-content-start">
+                  <button class="nav-link" id="btnJuz">1</button>
+              </div>
+              <div class="d-flex justify-content-center">
+                  <button class="nav-link" id="btnHalamanSurah">1</button>
+              </div>
+              <div class="d-flex justify-content-end">
+                  <button class="nav-link" id="btnNamaSurah">1. Al-Fatihah</button>
+              </div>
+          </div>
+        </nav>
+    </section>
+    
+    <section id = "content" class="py-9 px-10 flex items-start w-full justify-end">
+        <div class="SMT_content" style="min-height: auto;">
+            <!-- div id='divContentCanvasPerAyat' adalah tempat untuk menampilkan per ayat -->
+            <div class="SMT_Content_Canvas" id="divContentCanvasPerAyat"></div>
+            <!-- div id='divContentCanvasPerAyat' adalah tempat untuk menampilkan per ayat -->
+            <div class="SMT_Content_Canvas" id="divContentCanvasPerKata"></div>
+          </div> <!-- GW_Content_Canvas -->
+        </div> <!-- Content -->
+    </section>
+
+    <section id="footer">
+        <nav class="navbar navbar-expand-sm navbar-bottom fixed-bottom">
+            <div class="container-fluid">
+                <div class="d-flex justify-content-start">
+                  <button id="btnPengaturan" class="nav-link" href="#">Pengaturan</button>
+                </div>
+                <div class="d-flex justify-content-end">
+                  <button id="btnNext" class="nav-link" href="#">Lanjut</button>
+                  &nbsp;
+                  <button id="btnPrev" class="nav-link" href="#">Sebelumnya</button>                    
+                </div>
+            </div>
+          </nav>
+    </section>
+
+    <section id="modal_form">
+      <div id="ModalPengaturan" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalPengaturanLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="ModalPengaturanLabel">Pengaturan</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <ul class="list-group">
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-1 me-auto">
+                    <div class="fw-bold">Tampilan</div>
+                      <button id = "btnPerAyat" type="button" class="btn btn-primary">Per Ayat</button>
+                      <button id = "btnPerKata" type="button" class="btn btn-outline-primary">Per Kata</button>
+                  </div>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-1 me-auto">
+                    <div class="fw-bold">Terjemahan</div>
+                    <button id = "btnShowHideTerjemah" type="button" class="btn btn-outline-primary">Tidak ditampilkan</button>
+                  </div>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-1 me-auto">
+                    <div class="fw-bold">Ukuran Huruf</div>
+                    <button id = "btnFontBesar" type="button" class="btn btn-outline-primary">Besar</button>
+                    <button id = "btnFontSedang" type="button" class="btn btn-primary">Sedang</button>
+                    <button id = "btnFontKecil" type="button" class="btn btn-outline-primary">Kecil</button>
+                  </div>
+                </li>
+                <li class="list-group-item d-flex justify-content-between align-items-start">
+                  <div class="ms-1 me-auto">
+                    <div class="fw-bold">Basis Data Al Qur`an</div>
+                    <div style="margin-bottom: 10px;">
+                      <button id = "btnDownloadData" type="button" class="btn btn-outline-primary" style="margin-bottom: 10px;">Unduh Data Dari Server</button>
+                      <div id = "divProgressLocalStrg" class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                        <div id= "divProgressBarLocalStrg" class="progress-bar bg-danger" style="width: 50%">50%</div>
+                      </div>
+                    </div>
+                    <button id = "btnClearData" type="button" class="btn btn-outline-danger">Hapus Data LocalStorage</button>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="ModalMarkOpened" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalMarkOpenedLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="ModalMarkOpenedLabel">Ayat yang Ditandai</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <div id="MarkOpenedIsEmpty">
+                <p>Belum ada ayat yang anda tandai!</p>
+                <p>Untuk menandai ayat terakhir yang dibaca, silahkan lakukan :</p>
+                <ol>
+                  <li>Click nomor ayat <span style="height: 25px;width: 25px;background-color: #504e4e;border-radius: 50%;display: inline-block;"></span></li>
+                  <li>pilih menu <strong>Tandai Terakhir Baca</strong></li>
+                </ol>
+              </div>
+              <div id="MarkOpenedExist">
+                <p>Ayat terakhir yang anda baca adalah : <strong id ="AyatLastRead"></strong></p>
+                <button id ="OpenAyatLastRead" type="button" class="btn btn-primary">Buka Ayat</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="ModalTafsir" class="modal fade" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="ModalTafsirLabel" aria-hidden="true">
+        <div class="modal-dialog  modal-dialog-centered modal-lg modal-dialog-scrollable" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="ModalTafsirLabel">Tafsir Kemenag RI</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <div id="divIsiTafsir"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal Pilihan Ayat -->
+      <div class="modal fade" id="ModalPilihAyat" tabindex="-1" aria-labelledby="ModalPilihAyatLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="ModalPilihAyatModalLabel">Modal title</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <input type = "text" id="txtInfoModal" style="display: none;"/>
+              <div class="list-group">
+                <a href="#" id = "lnkTafsirAyat" class="list-group-item list-group-item-action">Tampilkan Tafsir</a>
+                <a href="#" id = "lnkCopyAyat" class="list-group-item list-group-item-action">Salin ayat</a>
+                <a href="#" id = "lnkAkhirBaca" class="list-group-item list-group-item-action">Tandai Terakhir Baca</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal fade" id="ModalJuzSurah" tabindex="-1" aria-labelledby="ModalJuzSurahLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable"  role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="ModalJuzSurahLabel">Daftar Juz</h1>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <div class="list-group" id="divListJuzSurah"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+          <div class="toast-header">
+            <strong class="me-auto">&copy; <a href = "https://simetri.io/">Simetri</a></strong>
+            <small>Created on 2024</small>
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+          </div>
+          <div class="toast-body">
+            <p>This software license is GPL (General Public License).</p>
+            <p>Source code : <a href="https://github.com/ekoheri/Al_Quran_Terjemahan_per_kata_per_ayat">https://github.com/ekoheri/Al_Quran_Terjemahan_per_kata_per_ayat</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery-3.4.1.slim.min.js"></script>
+    <script src="assets/js/handler.js"></script>
+  </body>
+</html>

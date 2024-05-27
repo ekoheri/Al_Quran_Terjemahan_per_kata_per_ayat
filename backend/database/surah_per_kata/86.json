@@ -1,0 +1,47 @@
+{
+	"86" :{
+		"number" : "86",
+		"name" : "الطارق",
+		"name_latin" : "At-Tariq",
+		"number_of_ayah" : "17",
+		"text" : {
+			"1" : {"1" : "وَٱلسَّمَآءِ", "2" : "وَٱلطَّارِقِ"},
+			"2" : {"1" : "وَمَآ", "2" : "أَدْرَىٰكَ", "3" : "مَا", "4" : "ٱلطَّارِقُ"},
+			"3" : {"1" : "ٱلنَّجْمُ", "2" : "ٱلثَّاقِبُ"},
+			"4" : {"1" : "إِن", "2" : "كُلُّ", "3" : "نَفْسٍ", "4" : "لَّمَّا", "5" : "عَلَيْهَا", "6" : "حَافِظٌ"},
+			"5" : {"1" : "فَلْيَنظُرِ", "2" : "ٱلْإِنسَٰنُ", "3" : "مِمَّ", "4" : "خُلِقَ"},
+			"6" : {"1" : "خُلِقَ", "2" : "مِن", "3" : "مَّآءٍ", "4" : "دَافِقٍ"},
+			"7" : {"1" : "يَخْرُجُ", "2" : "مِنۢ", "3" : "بَيْنِ", "4" : "ٱلصُّلْبِ", "5" : "وَٱلتَّرَآئِبِ"},
+			"8" : {"1" : "إِنَّهُۥ", "2" : "عَلَىٰ", "3" : "رَجْعِهِۦ", "4" : "لَقَادِرٌ"},
+			"9" : {"1" : "يَوْمَ", "2" : "تُبْلَى", "3" : "ٱلسَّرَآئِرُ"},
+			"10" : {"1" : "فَمَا", "2" : "لَهُۥ", "3" : "مِن", "4" : "قُوَّةٍ", "5" : "وَلَا", "6" : "نَاصِرٍ"},
+			"11" : {"1" : "وَٱلسَّمَآءِ", "2" : "ذَاتِ", "3" : "ٱلرَّجْعِ"},
+			"12" : {"1" : "وَٱلْأَرْضِ", "2" : "ذَاتِ", "3" : "ٱلصَّدْعِ"},
+			"13" : {"1" : "إِنَّهُۥ", "2" : "لَقَوْلٌ", "3" : "فَصْلٌ"},
+			"14" : {"1" : "وَمَا", "2" : "هُوَ", "3" : "بِٱلْهَزْلِ"},
+			"15" : {"1" : "إِنَّهُمْ", "2" : "يَكِيدُونَ", "3" : "كَيْدًا"},
+			"16" : {"1" : "وَأَكِيدُ", "2" : "كَيْدًا"},
+			"17" : {"1" : "فَمَهِّلِ", "2" : "ٱلْكَٰفِرِينَ", "3" : "أَمْهِلْهُمْ", "4" : "رُوَيْدًۢا"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "dan langit", "2" : "dan yang datang di malam hari"},
+			"2" : {"1" : "dan apa", "2" : "kamu tahu", "3" : "apa", "4" : "yang datang dimalam hari"},
+			"3" : {"1" : "bintang", "2" : "cemerlang/menembus"},
+			"4" : {"1" : "tidak", "2" : "setiap", "3" : "jiwa/diri", "4" : "melainkan", "5" : "atasnya", "6" : "penjaga"},
+			"5" : {"1" : "maka hendaklah memperhatikan", "2" : "manusia", "3" : "dari apa", "4" : "ia diciptakan"},
+			"6" : {"1" : "ia diciptakan", "2" : "dari", "3" : "air", "4" : "terpancar"},
+			"7" : {"1" : "ia keluar", "2" : "dari", "3" : "antara", "4" : "tulang belakang", "5" : "dan tulang dada"},
+			"8" : {"1" : "sesungguhnya Dia", "2" : "atas", "3" : "mengembalikanya", "4" : "benar-benar berkuasa"},
+			"9" : {"1" : "hari", "2" : "dibuka/dinampakkan", "3" : "rahasia-rahasia"},
+			"10" : {"1" : "maka tidak", "2" : "baginya", "3" : "dari", "4" : "kekuatan", "5" : "dan tidak", "6" : "seorang penolong"},
+			"11" : {"1" : "dan langit", "2" : "mempunyai/mengandung", "3" : "air/hujan"},
+			"12" : {"1" : "dan bumi", "2" : "mempunyai", "3" : "tumbuh-tumbuhan"},
+			"13" : {"1" : "sesungguhnya ia (Al Qur'an)", "2" : "perkataan/firman", "3" : "terpisah"},
+			"14" : {"1" : "dan tidak", "2" : "ia (Al Qur'an)", "3" : "dengan sia-sia/senda gurau"},
+			"15" : {"1" : "sesungguhnya mereka", "2" : "mereka membuat tipu daya", "3" : "tipu daya"},
+			"16" : {"1" : "dan AKu membuat tipu daya", "2" : "tipu daya"},
+			"17" : {"1" : "maka beri tangguhlah", "2" : "orang-orang kafir", "3" : "beritangguhlah mereka", "4" : "sedikit/sebentar"}
+
+		}
+	}
+}

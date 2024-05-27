@@ -1,0 +1,23 @@
+{
+	"105" :{
+		"number" : "105",
+		"name" : "الفيل",
+		"name_latin" : "Al-Fil",
+		"number_of_ayah" : "5",
+		"text" : {
+			"1" : {"1" : "أَلَمْ", "2" : "تَرَ", "3" : "كَيْفَ", "4" : "فَعَلَ", "5" : "رَبُّكَ", "6" : "بِأَصْحَٰبِ", "7" : "ٱلْفِيلِ"},
+			"2" : {"1" : "أَلَمْ", "2" : "يَجْعَلْ", "3" : "كَيْدَهُمْ", "4" : "فِى", "5" : "تَضْلِيلٍ"},
+			"3" : {"1" : "وَأَرْسَلَ", "2" : "عَلَيْهِمْ", "3" : "طَيْرًا", "4" : "أَبَابِيلَ"},
+			"4" : {"1" : "تَرْمِيهِم", "2" : "بِحِجَارَةٍ", "3" : "مِّن", "4" : "سِجِّيلٍ"},
+			"5" : {"1" : "فَجَعَلَهُمْ", "2" : "كَعَصْفٍ", "3" : "مَّأْكُولٍۭ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "apakah tidak", "2" : "kamu perhatikan", "3" : "bagaimana", "4" : "berbuat/bertindak", "5" : "Tuhanmu", "6" : "terhadap golongan (tentara)", "7" : "gajah"},
+			"2" : {"1" : "apakah tidak", "2" : "Dia jadikan", "3" : "tipu daya mereka", "4" : "dalam", "5" : "kesesatan/sia-sia"},
+			"3" : {"1" : "dan Dia mengirimkan", "2" : "kepada mereka", "3" : "burung", "4" : "yang berbondong-bondong"},
+			"4" : {"1" : "yang melempari mereka", "2" : "dengan batu-batu", "3" : "dari", "4" : "tanah keras/terbakar"},
+			"5" : {"1" : "lalu Dia menjadikan mereka", "2" : "seperti daun", "3" : "dimakan"}
+
+		}
+	}
+}

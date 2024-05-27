@@ -1,0 +1,230 @@
+
+@font-face {
+    font-family: arabic;
+    src: url(../font/IsepMisbah.ttf);
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.SMT_content {
+    width: 100%;
+    min-height:90%;
+    margin: 20px auto;
+    --tw-bg-opacity: 1;
+    background-color: rgba(255, 255, 255, var(--tw-bg-opacity));
+    top : 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1280px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    /*border: 5px solid #8B4513;*/ /* Warna bingkai coklat */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media(min-width:640px) {
+    .SMT_content {
+        max-width: 640px;
+        min-height:auto;
+    }
+}
+@media(min-width:768px) {
+    .SMT_content {
+        max-width: 768px;
+        min-height:auto;
+    }
+}
+@media(min-width:1024px) {
+    .SMT_content {
+        max-width: 1024px;
+        min-height:auto;
+    }
+}
+@media(min-width:1280px) {
+    .SMT_content {
+        max-width: 1280px;
+        min-height:auto;
+    }
+}
+@media(min-width:1536px) {
+    .SMT_content {
+        max-width: 1536px;
+        min-height:auto;
+    }
+}
+
+@media(max-width:1024px) {
+    .SMT_content {
+        width: 95%;
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+}
+
+@media(max-width:768px) {
+    .SMT_content {
+        width: 95% auto;
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+}
+
+.SMT_Content_Canvas {
+    width: 97%;
+}
+
+.navbar-custom {
+    /*background-color: #fff;
+    border-bottom: 5px solid #D4AF37; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;*/
+
+    background-color: #fff;
+    border-bottom: 5px solid #D4AF37; /* Warna bingkai emas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.navbar-bottom {
+    background-color: #fff;
+    border-top: 5px solid #D4AF37; /* Warna bingkai emas */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+}
+
+.navbar-custom .navbar-brand {
+    font-family: arabic;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #333;
+}
+
+.navbar-custom .nav-link,
+.navbar-bottom .nav-link {
+    color: #8B4513;
+    font-size: 15px;
+    padding: 5px 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-bottom .nav-link:hover {
+    border: 2px solid #D4AF37; /* Warna bingkai emas pada hover */
+    background-color: #D4AF37;
+    border-radius: 5px;
+}
+
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+    direction: ltr; /* Menjaga arah tulisan dalam separator tetap ltr */
+}
+.separator::before,
+.separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #D4AF37;
+    border-style: double;
+}
+.separator:not(:empty)::before {
+    margin-left: .25em; /* Margin diubah untuk RTL */
+}
+.separator:not(:empty)::after {
+    margin-right: .25em; /* Margin diubah untuk RTL */
+}
+.separator span {
+    font-family: arabic;
+    display: inline-block;
+    padding: 10px 10px;
+    border: 1px solid #D4AF37;
+    border-radius: 10%; /* Membuat lingkaran */
+    line-height: 1.5;
+}
+
+.ayat-container {
+    /*background-color: #fff;
+    border: 1px solid #ddd;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;*/
+    margin: 25px 0 0 0;
+    border: 1px solid #D4AF37; /* Warna bingkai emas dalam */
+    /*padding: 20px;*/
+    border-radius: 5px;
+    text-align: right;
+    direction: rtl; /* Mengatur teks dari kanan ke kiri */
+    position: relative;
+}
+
+.ayat {
+    /*margin-bottom: 20px;*/
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    position: relative; /* Untuk penempatan nomor ayat */
+}
+
+.ayat:last-child {
+    border-bottom: none;
+}
+
+.ayat-number {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #504e4e;
+    color: #f0f0f0;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.kata-container {
+    display: inline-block; /* Mengatur setiap kontainer kata dalam satu baris */
+    /*text-align: center;*/
+    margin: 5px;
+    padding: 10px;
+    transition: background-color 0.3s ease; /* Menambahkan transisi untuk efek hover */
+}
+
+.kata-container:hover {
+    background-color: #f0f0f0; /* Warna latar belakang saat di-hover */
+    border-radius: 5px;
+}
+
+.kata {
+    /*font-weight: bold;*/
+    font-family: arabic;
+    font-size: 1.5em;
+    line-height: 2.5;
+    color: #333;
+    display: block; /* Memastikan kata dan artinya berada di baris terpisah */
+    margin-bottom: 20px;
+}
+
+.arti {
+    font-style: italic;
+    color: #555;
+    font-size: 1em;
+    display: block; /* Memastikan kata dan artinya berada di baris terpisah */
+}
+
+.akhir_baca {
+    background-color: #f3da4b;
+    border-radius: 5px;
+}
+

@@ -1,0 +1,51 @@
+{
+	"82" :{
+		"number" : "82",
+		"name" : "الإنفطار",
+		"name_latin" : "Al-Infitar",
+		"number_of_ayah" : "19",
+		"text" : {
+			"1" : {"1" : "إِذَا", "2" : "ٱلسَّمَآءُ", "3" : "ٱنفَطَرَتْ"},
+			"2" : {"1" : "وَإِذَا", "2" : "ٱلْكَوَاكِبُ", "3" : "ٱنتَثَرَتْ"},
+			"3" : {"1" : "وَإِذَا", "2" : "ٱلْبِحَارُ", "3" : "فُجِّرَتْ"},
+			"4" : {"1" : "وَإِذَا", "2" : "ٱلْقُبُورُ", "3" : "بُعْثِرَتْ"},
+			"5" : {"1" : "عَلِمَتْ", "2" : "نَفْسٌ", "3" : "مَّا", "4" : "قَدَّمَتْ", "5" : "وَأَخَّرَتْ"},
+			"6" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلْإِنسَٰنُ", "3" : "مَا", "4" : "غَرَّكَ", "5" : "بِرَبِّكَ", "6" : "ٱلْكَرِيمِ"},
+			"7" : {"1" : "ٱلَّذِى", "2" : "خَلَقَكَ", "3" : "فَسَوَّىٰكَ", "4" : "فَعَدَلَكَ"},
+			"8" : {"1" : "فِىٓ", "2" : "أَىِّ", "3" : "صُورَةٍ", "4" : "مَّا", "5" : "شَآءَ", "6" : "رَكَّبَكَ"},
+			"9" : {"1" : "كَلَّا", "2" : "بَلْ", "3" : "تُكَذِّبُونَ", "4" : "بِٱلدِّينِ"},
+			"10" : {"1" : "وَإِنَّ", "2" : "عَلَيْكُمْ", "3" : "لَحَٰفِظِينَ"},
+			"11" : {"1" : "كِرَامًا", "2" : "كَٰتِبِينَ"},
+			"12" : {"1" : "يَعْلَمُونَ", "2" : "مَا", "3" : "تَفْعَلُونَ"},
+			"13" : {"1" : "إِنَّ", "2" : "ٱلْأَبْرَارَ", "3" : "لَفِى", "4" : "نَعِيمٍ"},
+			"14" : {"1" : "وَإِنَّ", "2" : "ٱلْفُجَّارَ", "3" : "لَفِى", "4" : "جَحِيمٍ"},
+			"15" : {"1" : "يَصْلَوْنَهَا", "2" : "يَوْمَ", "3" : "ٱلدِّينِ"},
+			"16" : {"1" : "وَمَا", "2" : "هُمْ", "3" : "عَنْهَا", "4" : "بِغَآئِبِينَ"},
+			"17" : {"1" : "وَمَآ", "2" : "أَدْرَىٰكَ", "3" : "مَا", "4" : "يَوْمُ", "5" : "ٱلدِّينِ"},
+			"18" : {"1" : "ثُمَّ", "2" : "مَآ", "3" : "أَدْرَىٰكَ", "4" : "مَا", "5" : "يَوْمُ", "6" : "ٱلدِّينِ"},
+			"19" : {"1" : "يَوْمَ", "2" : "لَا", "3" : "تَمْلِكُ", "4" : "نَفْسٌ", "5" : "لِّنَفْسٍ", "6" : "شَيْـًٔاۖ", "7" : "وَٱلْأَمْرُ", "8" : "يَوْمَئِذٍ", "9" : "لِّلَّهِ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "apabila", "2" : "langit", "3" : "terbelah"},
+			"2" : {"1" : "dan apabila", "2" : "bintang-bintang", "3" : "jatuh bertaburan"},
+			"3" : {"1" : "dan apabila", "2" : "lautan", "3" : "dijadikan meluap"},
+			"4" : {"1" : "dan apabila", "2" : "kuburan-kuburan", "3" : "di bongkar"},
+			"5" : {"1" : "mengetahui", "2" : "jiwa", "3" : "apa", "4" : "diusahakan", "5" : "dan ditinggalkan"},
+			"6" : {"1" : "wahai", "2" : "manusia", "3" : "apa", "4" : "yang menipu kamu", "5" : "terhadap Tuhanmu", "6" : "Mulia/Pemurah"},
+			"7" : {"1" : "yang", "2" : "telah menciptakan kamu", "3" : "lalu Dia menyempurnakan kamu", "4" : "lalu Dia menjadikan kamu seimbang"},
+			"8" : {"1" : "dalam", "2" : "apa saja", "3" : "gambar/bentuk", "4" : "apa", "5" : "yang Dia kehendaki", "6" : "Dia menyusunmu"},
+			"9" : {"1" : "sekali-kali jangan", "2" : "tetap/bahkan", "3" : "kamu mendustakan", "4" : "pada hari pembalasan"},
+			"10" : {"1" : "dan sesungguhnya", "2" : "atas kalian", "3" : "sungguh ada penjaga"},
+			"11" : {"1" : "yang mulia", "2" : "yang mencatat"},
+			"12" : {"1" : "mereka mengetahui", "2" : "apa", "3" : "kamu kerjakan"},
+			"13" : {"1" : "sesungguhnya", "2" : "orang-orang yang baik", "3" : "benar-benar dalam", "4" : "kesenangan/kenikmatan"},
+			"14" : {"1" : "dan sesungguhnya", "2" : "orang-orang durhaka", "3" : "dalam", "4" : "neraka"},
+			"15" : {"1" : "mereka masuk kedalamnya", "2" : "hari", "3" : "pembalasan"},
+			"16" : {"1" : "dan tidaklah", "2" : "mereka", "3" : "dari padanya", "4" : "dengan gaib/meloloskan diri"},
+			"17" : {"1" : "dan apakah", "2" : "kamu melihat", "3" : "apa", "4" : "hari", "5" : "pembalasan"},
+			"18" : {"1" : "kemudian", "2" : "apakah", "3" : "kamu melihat", "4" : "apa", "5" : "hari", "6" : "pembalasan"},
+			"19" : {"1" : "hari", "2" : "tidak", "3" : "berdaya/berkuasa", "4" : "manusia", "5" : "bagi diri/seseorang", "6" : "sesuatu/sedikitpun", "7" : "dan urusan", "8" : "pada hari itu", "9" : "bagi Allah"}
+
+		}
+	}
+}

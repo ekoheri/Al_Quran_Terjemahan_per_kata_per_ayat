@@ -1,0 +1,21 @@
+{
+	"106" :{
+		"number" : "106",
+		"name" : "قريش",
+		"name_latin" : "Quraisy",
+		"number_of_ayah" : "4",
+		"text" : {
+			"1" : {"1" : "لِإِيلَٰفِ", "2" : "قُرَيْشٍ"},
+			"2" : {"1" : "إِۦلَٰفِهِمْ", "2" : "رِحْلَةَ", "3" : "ٱلشِّتَآءِ", "4" : "وَٱلصَّيْفِ"},
+			"3" : {"1" : "فَلْيَعْبُدُوا۟", "2" : "رَبَّ", "3" : "هَٰذَا", "4" : "ٱلْبَيْتِ"},
+			"4" : {"1" : "ٱلَّذِىٓ", "2" : "أَطْعَمَهُم", "3" : "مِّن", "4" : "جُوعٍ", "5" : "وَءَامَنَهُم", "6" : "مِّنْ", "7" : "خَوْفٍۭ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "karena kebiasaan", "2" : "orang-orang Qurais"},
+			"2" : {"1" : "kebiasaan mereka", "2" : "perjalanan/bepergian", "3" : "dimusim dingin", "4" : "dan musim panas"},
+			"3" : {"1" : "maka hendaklah mereka menyembah", "2" : "Tuhan", "3" : "ini", "4" : "rumah"},
+			"4" : {"1" : "yang", "2" : "Dia memberi makan mereka", "3" : "dari", "4" : "kelaparan", "5" : "dan Dia memberikan keamanan mereka", "6" : "dari", "7" : "ketakutan"}
+
+		}
+	}
+}

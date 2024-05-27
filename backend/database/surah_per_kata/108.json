@@ -1,0 +1,19 @@
+{
+	"108" :{
+		"number" : "108",
+		"name" : "الكوثر",
+		"name_latin" : "Al-Kausar",
+		"number_of_ayah" : "3",
+		"text" : {
+			"1" : {"1" : "إِنَّآ", "2" : "أَعْطَيْنَٰكَ", "3" : "ٱلْكَوْثَرَ"},
+			"2" : {"1" : "فَصَلِّ", "2" : "لِرَبِّكَ", "3" : "وَٱنْحَرْ"},
+			"3" : {"1" : "إِنَّ", "2" : "شَانِئَكَ", "3" : "هُوَ", "4" : "ٱلْأَبْتَرُ"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "sesungguhnya", "2" : "Aku telah memberikan", "3" : "nikmat yang banyak"},
+			"2" : {"1" : "maka dirikanlah sholat", "2" : "karena Tuhanmu", "3" : "dan berkurbanlah"},
+			"3" : {"1" : "sesungguhnya", "2" : "orang yang membencimu", "3" : "dia", "4" : "terputus"}
+
+		}
+	}
+}

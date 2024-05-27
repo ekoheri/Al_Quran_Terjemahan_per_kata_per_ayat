@@ -1,0 +1,43 @@
+{
+	"91" :{
+		"number" : "91",
+		"name" : "الشمس",
+		"name_latin" : "Asy-Syams",
+		"number_of_ayah" : "15",
+		"text" : {
+			"1" : {"1" : "وَٱلشَّمْسِ", "2" : "وَضُحَىٰهَا"},
+			"2" : {"1" : "وَٱلْقَمَرِ", "2" : "إِذَا", "3" : "تَلَىٰهَا"},
+			"3" : {"1" : "وَٱلنَّهَارِ", "2" : "إِذَا", "3" : "جَلَّىٰهَا"},
+			"4" : {"1" : "وَٱلَّيْلِ", "2" : "إِذَا", "3" : "يَغْشَىٰهَا"},
+			"5" : {"1" : "وَٱلسَّمَآءِ", "2" : "وَمَا", "3" : "بَنَىٰهَا"},
+			"6" : {"1" : "وَٱلْأَرْضِ", "2" : "وَمَا", "3" : "طَحَىٰهَا"},
+			"7" : {"1" : "وَنَفْسٍ", "2" : "وَمَا", "3" : "سَوَّىٰهَا"},
+			"8" : {"1" : "فَأَلْهَمَهَا", "2" : "فُجُورَهَا", "3" : "وَتَقْوَىٰهَا"},
+			"9" : {"1" : "قَدْ", "2" : "أَفْلَحَ", "3" : "مَن", "4" : "زَكَّىٰهَا"},
+			"10" : {"1" : "وَقَدْ", "2" : "خَابَ", "3" : "مَن", "4" : "دَسَّىٰهَا"},
+			"11" : {"1" : "كَذَّبَتْ", "2" : "ثَمُودُ", "3" : "بِطَغْوَىٰهَآ"},
+			"12" : {"1" : "إِذِ", "2" : "ٱنۢبَعَثَ", "3" : "أَشْقَىٰهَا"},
+			"13" : {"1" : "فَقَالَ", "2" : "لَهُمْ", "3" : "رَسُولُ", "4" : "ٱللَّهِ", "5" : "نَاقَةَ", "6" : "ٱللَّهِ", "7" : "وَسُقْيَٰهَا"},
+			"14" : {"1" : "فَكَذَّبُوهُ", "2" : "فَعَقَرُوهَا", "3" : "فَدَمْدَمَ", "4" : "عَلَيْهِمْ", "5" : "رَبُّهُم", "6" : "بِذَنۢبِهِمْ", "7" : "فَسَوَّىٰهَا"},
+			"15" : {"1" : "وَلَا", "2" : "يَخَافُ", "3" : "عُقْبَٰهَا"}
+		},
+		"terjemah" : {
+			"1" : {"1" : "demi matahari", "2" : "dan cahayanya pagi hari"},
+			"2" : {"1" : "dan bulan", "2" : "apabila", "3" : "mengiringinya"},
+			"3" : {"1" : "dan siang", "2" : "apabila", "3" : "menampakkannya"},
+			"4" : {"1" : "dan malam", "2" : "apabila", "3" : "menutupinya"},
+			"5" : {"1" : "dan langit", "2" : "dan apa", "3" : "pembinaannya"},
+			"6" : {"1" : "dan bumi", "2" : "dan apa", "3" : "penghamparannya"},
+			"7" : {"1" : "dan manusia/jiwa", "2" : "dan apa", "3" : "penyempurnaanya"},
+			"8" : {"1" : "maka Dia mengilhamkan padanya", "2" : "kedurhakaanya", "3" : "dan ketaqwaannya"},
+			"9" : {"1" : "sesungguhnya", "2" : "beruntung", "3" : "siapa/orang", "4" : "mensucikannya"},
+			"10" : {"1" : "dan sesungguhnya", "2" : "celaka/rugi", "3" : "orang", "4" : "mengotorinya"},
+			"11" : {"1" : "telah mendustakan", "2" : "Samud", "3" : "dan melampui batas"},
+			"12" : {"1" : "ketika", "2" : "bangkit", "3" : "orang yang lebih celaka diantaranya"},
+			"13" : {"1" : "dan berkata", "2" : "kepada mereka", "3" : "rasul", "4" : "Allah", "5" : "unta betina", "6" : "Allah", "7" : "dan minumannya"},
+			"14" : {"1" : "dan mendustakan", "2" : "maka mereka melukai/menyembelih", "3" : "maka menurunkan azab/membinasakan", "4" : "atas mereka", "5" : "Tuhan mereka", "6" : "dengan dosa-dosa mereka", "7" : "dan Dia meratakannya"},
+			"15" : {"1" : "dan tidak", "2" : "takut", "3" : "akibatnya"}
+
+		}
+	}
+}
