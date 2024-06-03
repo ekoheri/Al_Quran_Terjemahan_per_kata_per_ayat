@@ -161,8 +161,7 @@ body {
     border: 1px solid #D4AF37; /* Warna bingkai emas dalam */
     /*padding: 20px;*/
     border-radius: 5px;
-    text-align: right;
-    direction: rtl; /* Mengatur teks dari kanan ke kiri */
+    
     position: relative;
 }
 
@@ -171,6 +170,8 @@ body {
     padding: 10px;
     border-bottom: 1px solid #eee;
     position: relative; /* Untuk penempatan nomor ayat */
+    text-align: right;
+    direction: rtl; /* Mengatur teks dari kanan ke kiri */
 }
 
 .ayat:last-child {
@@ -181,14 +182,23 @@ body {
     position: absolute;
     top: 10px;
     left: 10px;
-    background-color: #504e4e;
-    color: #f0f0f0;
-    width: 30px;
+    /*background-color: #504e4e;
+    color: #f0f0f0;*/
+    /*width: 30px;
     height: 30px;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    border-radius: 50%;*/
+    
+    width:41px;
+    height:48px;
+    background-image:url(/assets/images/ic-frame-number.svg);
+    background-size:contain;
+    background-position:center;
+    background-repeat:no-repeat;
+    
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
     font-size: 1em;
     cursor: pointer;
 }
@@ -208,6 +218,7 @@ body {
 
 .kata {
     /*font-weight: bold;*/
+    margin-top: 30px;
     font-family: arabic;
     font-size: 1.5em;
     line-height: 2.5;
@@ -221,6 +232,8 @@ body {
     color: #555;
     font-size: 1em;
     display: block; /* Memastikan kata dan artinya berada di baris terpisah */
+    text-align: right;
+    direction: ltr; /* Mengatur teks dari kanan ke kiri */
 }
 
 .akhir_baca {

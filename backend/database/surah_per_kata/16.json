@@ -4,6 +4,7 @@
 		"name" : "النحل",
 		"name_latin" : "An-Nahl",
 		"number_of_ayah" : "128",
+		"number_of_words" : "1844",
 		"text" : {
 			"1" : {"1" : "أَتَىٰٓ", "2" : "أَمْرُ", "3" : "ٱللَّهِ", "4" : "فَلَا", "5" : "تَسْتَعْجِلُوهُۚ", "6" : "سُبْحَٰنَهُۥ", "7" : "وَتَعَٰلَىٰ", "8" : "عَمَّا", "9" : "يُشْرِكُونَ"},
 			"2" : {"1" : "يُنَزِّلُ", "2" : "ٱلْمَلَٰٓئِكَةَ", "3" : "بِٱلرُّوحِ", "4" : "مِنْ", "5" : "أَمْرِهِۦ", "6" : "عَلَىٰ", "7" : "مَن", "8" : "يَشَآءُ", "9" : "مِنْ", "10" : "عِبَادِهِۦٓ", "11" : "أَنْ", "12" : "أَنذِرُوٓا۟", "13" : "أَنَّهُۥ", "14" : "لَآ", "15" : "إِلَٰهَ", "16" : "إِلَّآ", "17" : "أَنَا۠", "18" : "فَٱتَّقُونِ"},
@@ -263,7 +264,6 @@
 			"126" : {"1" : "dan jika", "2" : "kamu membalas", "3" : "maka balaslah mereka", "4" : "dengan semisal/sebanding", "5" : "apa", "6" : "kamu dibalas/ditimpa", "7" : "dengannya", "8" : "dan jika", "9" : "kamu bersabar", "10" : "sesungguhnya itu", "11" : "lebih baik", "12" : "bagi orang-orang yang bersabar"},
 			"127" : {"1" : "dan bersabar", "2" : "dan tidaklah", "3" : "kesabaranmu", "4" : "melainkan", "5" : "dengan Allah", "6" : "dan jangan", "7" : "kamu bersedih hati", "8" : "atas mereka", "9" : "dan jangan", "10" : "kamu adalah", "11" : "dalam", "12" : "kesempitan", "13" : "dari/terhadap apa", "14" : "mereka tipu dayakan"},
 			"128" : {"1" : "sesungguhnya", "2" : "Allah", "3" : "beserta", "4" : "orang-orang yang", "5" : "(mereka) bertakwa", "6" : "dan orang-orang yang", "7" : "mereka", "8" : "orang-orang yang berbuat kebaikan"}
-
 		}
 	}
 }

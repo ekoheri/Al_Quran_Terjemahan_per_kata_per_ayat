@@ -4,6 +4,7 @@
 		"name" : "الطلاق",
 		"name_latin" : "At-Talaq",
 		"number_of_ayah" : "12",
+		"number_of_words" : "287",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلنَّبِىُّ", "3" : "إِذَا", "4" : "طَلَّقْتُمُ", "5" : "ٱلنِّسَآءَ", "6" : "فَطَلِّقُوهُنَّ", "7" : "لِعِدَّتِهِنَّ", "8" : "وَأَحْصُوا۟", "9" : "ٱلْعِدَّةَۖ", "10" : "وَٱتَّقُوا۟", "11" : "ٱللَّهَ", "12" : "رَبَّكُمْۖ", "13" : "لَا", "14" : "تُخْرِجُوهُنَّ", "15" : "مِنۢ", "16" : "بُيُوتِهِنَّ", "17" : "وَلَا", "18" : "يَخْرُجْنَ", "19" : "إِلَّآ", "20" : "أَن", "21" : "يَأْتِينَ", "22" : "بِفَٰحِشَةٍ", "23" : "مُّبَيِّنَةٍۚ", "24" : "وَتِلْكَ", "25" : "حُدُودُ", "26" : "ٱللَّهِۚ", "27" : "وَمَن", "28" : "يَتَعَدَّ", "29" : "حُدُودَ", "30" : "ٱللَّهِ", "31" : "فَقَدْ", "32" : "ظَلَمَ", "33" : "نَفْسَهُۥۚ", "34" : "لَا", "35" : "تَدْرِى", "36" : "لَعَلَّ", "37" : "ٱللَّهَ", "38" : "يُحْدِثُ", "39" : "بَعْدَ", "40" : "ذَٰلِكَ", "41" : "أَمْرًا"},
 			"2" : {"1" : "فَإِذَا", "2" : "بَلَغْنَ", "3" : "أَجَلَهُنَّ", "4" : "فَأَمْسِكُوهُنَّ", "5" : "بِمَعْرُوفٍ", "6" : "أَوْ", "7" : "فَارِقُوهُنَّ", "8" : "بِمَعْرُوفٍ", "9" : "وَأَشْهِدُوا۟", "10" : "ذَوَىْ", "11" : "عَدْلٍ", "12" : "مِّنكُمْ", "13" : "وَأَقِيمُوا۟", "14" : "ٱلشَّهَٰدَةَ", "15" : "لِلَّهِۚ", "16" : "ذَٰلِكُمْ", "17" : "يُوعَظُ", "18" : "بِهِۦ", "19" : "مَن", "20" : "كَانَ", "21" : "يُؤْمِنُ", "22" : "بِٱللَّهِ", "23" : "وَٱلْيَوْمِ", "24" : "ٱلْءَاخِرِۚ", "25" : "وَمَن", "26" : "يَتَّقِ", "27" : "ٱللَّهَ", "28" : "يَجْعَل", "29" : "لَّهُۥ", "30" : "مَخْرَجًا"},
@@ -31,7 +32,6 @@
 			"10" : {"1" : "menyediakan", "2" : "Allah", "3" : "bagi mereka", "4" : "azab", "5" : "sangat/keras", "6" : "maka bertakwalah", "7" : "Allah", "8" : "wahai orang-orang", "9" : "pikiran/akal", "10" : "orang-orang yang", "11" : "(mereka) beriman", "12" : "sesungguhnya", "13" : "menurunkan", "14" : "Allah", "15" : "kepadamu", "16" : "pikiran/Al Qur'an"},
 			"11" : {"1" : "seorang Rasul", "2" : "membacakan", "3" : "atas kalian", "4" : "ayat-ayat", "5" : "Allah", "6" : "yang menjelaskan", "7" : "karena Dia akan mengeluarkan", "8" : "orang-orang yang", "9" : "beriman", "10" : "dan berbuat/beramal", "11" : "kebajikan/saleh", "12" : "dari", "13" : "kegelapan", "14" : "kepada", "15" : "cahaya", "16" : "dan barang siapa", "17" : "beriman", "18" : "kepada Allah", "19" : "dan berbuat/beramal", "20" : "kebajikan/saleh", "21" : "Dia memasukkannya", "22" : "surga", "23" : "mengalir", "24" : "dari", "25" : "bawahnya", "26" : "sungai-sungai", "27" : "mereka kekal", "28" : "di dalamnya", "29" : "selama-lamanya", "30" : "sesungguhnya", "31" : "membaguskan", "32" : "Allah", "33" : "kepadanya", "34" : "rizki"},
 			"12" : {"1" : "Allah", "2" : "yang", "3" : "menciptkan", "4" : "tujuh", "5" : "langit", "6" : "dan dari", "7" : "bumi", "8" : "seperti itu", "9" : "turun/berlaku", "10" : "perintah", "11" : "diantara mereka/diantaranya", "12" : "supaya kamu mengetahui", "13" : "bahwa sesungguhnya", "14" : "Allah", "15" : "atas", "16" : "segala", "17" : "sesuatu", "18" : "Maha Kuasa", "19" : "dan bahwa sesungguhnya", "20" : "Allah", "21" : "sungguh/benar-benar", "22" : "meliputi", "23" : "dengan segala", "24" : "sesuatu", "25" : "ilmu"}
-
 		}
 	}
 }

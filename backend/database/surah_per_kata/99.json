@@ -4,6 +4,7 @@
 		"name" : "الزلزلة",
 		"name_latin" : "Az-Zalzalah",
 		"number_of_ayah" : "8",
+		"number_of_words" : "36",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "زُلْزِلَتِ", "3" : "ٱلْأَرْضُ", "4" : "زِلْزَالَهَا"},
 			"2" : {"1" : "وَأَخْرَجَتِ", "2" : "ٱلْأَرْضُ", "3" : "أَثْقَالَهَا"},
@@ -23,7 +24,6 @@
 			"6" : {"1" : "pada hari itu", "2" : "keluar", "3" : "manusia", "4" : "bermacam-macam", "5" : "untuk mereka lihat", "6" : "amal-amal mereka"},
 			"7" : {"1" : "maka barang siapa", "2" : "dia mengerjakan/beramal", "3" : "seberat", "4" : "zarrah/atom", "5" : "kebaikan", "6" : "dia melihatnya"},
 			"8" : {"1" : "dan barang siapa", "2" : "dia mengerjakan/beramal", "3" : "seberat", "4" : "zarrah/atom", "5" : "kejahatan", "6" : "dia melihatnya"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الطارق",
 		"name_latin" : "At-Tariq",
 		"number_of_ayah" : "17",
+		"number_of_words" : "61",
 		"text" : {
 			"1" : {"1" : "وَٱلسَّمَآءِ", "2" : "وَٱلطَّارِقِ"},
 			"2" : {"1" : "وَمَآ", "2" : "أَدْرَىٰكَ", "3" : "مَا", "4" : "ٱلطَّارِقُ"},
@@ -41,7 +42,6 @@
 			"15" : {"1" : "sesungguhnya mereka", "2" : "mereka membuat tipu daya", "3" : "tipu daya"},
 			"16" : {"1" : "dan AKu membuat tipu daya", "2" : "tipu daya"},
 			"17" : {"1" : "maka beri tangguhlah", "2" : "orang-orang kafir", "3" : "beritangguhlah mereka", "4" : "sedikit/sebentar"}
-
 		}
 	}
 }

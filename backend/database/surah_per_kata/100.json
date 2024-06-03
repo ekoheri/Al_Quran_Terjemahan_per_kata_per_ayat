@@ -4,6 +4,7 @@
 		"name" : "العاديات",
 		"name_latin" : "Al-'Adiyat",
 		"number_of_ayah" : "11",
+		"number_of_words" : "40",
 		"text" : {
 			"1" : {"1" : "وَٱلْعَٰدِيَٰتِ", "2" : "ضَبْحًا"},
 			"2" : {"1" : "فَٱلْمُورِيَٰتِ", "2" : "قَدْحًا"},
@@ -29,7 +30,6 @@
 			"9" : {"1" : "maka apakah tidak", "2" : "dia mengetahui", "3" : "apabila", "4" : "dibangkitkan", "5" : "apa", "6" : "dalam", "7" : "kubur"},
 			"10" : {"1" : "dan dilahirkan", "2" : "apa", "3" : "dalam", "4" : "dada"},
 			"11" : {"1" : "sesungguhnya", "2" : "Tuhan mereka", "3" : "pada mereka", "4" : "pada hari itu", "5" : "benar-benar Maha Mengetahui"}
-
 		}
 	}
 }

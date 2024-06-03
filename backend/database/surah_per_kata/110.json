@@ -4,6 +4,7 @@
 		"name" : "النصر",
 		"name_latin" : "An-Nasr",
 		"number_of_ayah" : "3",
+		"number_of_words" : "19",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "جَآءَ", "3" : "نَصْرُ", "4" : "ٱللَّهِ", "5" : "وَٱلْفَتْحُ"},
 			"2" : {"1" : "وَرَأَيْتَ", "2" : "ٱلنَّاسَ", "3" : "يَدْخُلُونَ", "4" : "فِى", "5" : "دِينِ", "6" : "ٱللَّهِ", "7" : "أَفْوَاجًا"},
@@ -13,7 +14,6 @@
 			"1" : {"1" : "apabila", "2" : "datang", "3" : "pertolongan", "4" : "Allah", "5" : "dan kemenangan"},
 			"2" : {"1" : "dan kamu lihat", "2" : "manusia", "3" : "masuk", "4" : "kedalam", "5" : "agama", "6" : "Allah", "7" : "berbondong-bondong"},
 			"3" : {"1" : "maka bertasbihlah", "2" : "dengan memuji", "3" : "Tuhanmu", "4" : "dan mohonlah ampun", "5" : "sesungguhnya Dia", "6" : "adalah Dia", "7" : "Maha Penerima Taubat"}
-
 		}
 	}
 }

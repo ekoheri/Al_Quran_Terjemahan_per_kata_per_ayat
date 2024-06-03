@@ -4,6 +4,7 @@
 		"name" : "الأنبياء",
 		"name_latin" : "Al-Anbiya'",
 		"number_of_ayah" : "112",
+		"number_of_words" : "1169",
 		"text" : {
 			"1" : {"1" : "ٱقْتَرَبَ", "2" : "لِلنَّاسِ", "3" : "حِسَابُهُمْ", "4" : "وَهُمْ", "5" : "فِى", "6" : "غَفْلَةٍ", "7" : "مُّعْرِضُونَ"},
 			"2" : {"1" : "مَا", "2" : "يَأْتِيهِم", "3" : "مِّن", "4" : "ذِكْرٍ", "5" : "مِّن", "6" : "رَّبِّهِم", "7" : "مُّحْدَثٍ", "8" : "إِلَّا", "9" : "ٱسْتَمَعُوهُ", "10" : "وَهُمْ", "11" : "يَلْعَبُونَ"},
@@ -231,7 +232,6 @@
 			"110" : {"1" : "sesungguhnya Dia", "2" : "Dia mengetahui", "3" : "keras/terus terang", "4" : "dari", "5" : "perkataan", "6" : "dan Dia mengetahui", "7" : "apa", "8" : "kamu sembunyikan/rahasiakan"},
 			"111" : {"1" : "dan jika/tidak", "2" : "aku mengetahui", "3" : "boleh jadi ia/hal itu", "4" : "fitnah/cobaan", "5" : "bagi kalian", "6" : "dan kesenangan", "7" : "sampai", "8" : "waktu tertentu"},
 			"112" : {"1" : "(Muhammad) berkata", "2" : "ya Tuhanku", "3" : "berilah keputusan", "4" : "dengan benar", "5" : "dan Tuhan kami", "6" : "Maha Pengasih", "7" : "tempat dimintai pertolongan", "8" : "atas", "9" : "apa", "10" : "kamu sifatkan/katakan"}
-
 		}
 	}
 }

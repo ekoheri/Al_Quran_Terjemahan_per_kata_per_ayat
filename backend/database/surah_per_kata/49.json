@@ -4,6 +4,7 @@
 		"name" : "الحجرات",
 		"name_latin" : "Al-Hujurat",
 		"number_of_ayah" : "18",
+		"number_of_words" : "347",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلَّذِينَ", "3" : "ءَامَنُوا۟", "4" : "لَا", "5" : "تُقَدِّمُوا۟", "6" : "بَيْنَ", "7" : "يَدَىِ", "8" : "ٱللَّهِ", "9" : "وَرَسُولِهِۦۖ", "10" : "وَٱتَّقُوا۟", "11" : "ٱللَّهَۚ", "12" : "إِنَّ", "13" : "ٱللَّهَ", "14" : "سَمِيعٌ", "15" : "عَلِيمٌ"},
 			"2" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلَّذِينَ", "3" : "ءَامَنُوا۟", "4" : "لَا", "5" : "تَرْفَعُوٓا۟", "6" : "أَصْوَٰتَكُمْ", "7" : "فَوْقَ", "8" : "صَوْتِ", "9" : "ٱلنَّبِىِّ", "10" : "وَلَا", "11" : "تَجْهَرُوا۟", "12" : "لَهُۥ", "13" : "بِٱلْقَوْلِ", "14" : "كَجَهْرِ", "15" : "بَعْضِكُمْ", "16" : "لِبَعْضٍ", "17" : "أَن", "18" : "تَحْبَطَ", "19" : "أَعْمَٰلُكُمْ", "20" : "وَأَنتُمْ", "21" : "لَا", "22" : "تَشْعُرُونَ"},
@@ -43,7 +44,6 @@
 			"16" : {"1" : "katakanlah", "2" : "apakah kamu akan memberitahukan", "3" : "Allah", "4" : "tentang agamamu", "5" : "dan Allah", "6" : "mengetahui", "7" : "apa yang ada", "8" : "di", "9" : "langit(jamak)", "10" : "dan apa yang ada", "11" : "di", "12" : "bumi", "13" : "dan Allah", "14" : "terhadap segala", "15" : "sesuatu", "16" : "Maha Mengetahui"},
 			"17" : {"1" : "mereka merasa memberi nikmat", "2" : "atas kamu", "3" : "bahwa", "4" : "mereka masuk Islam", "5" : "katakan", "6" : "jangan", "7" : "kamu merasa memberi nikmat", "8" : "atas", "9" : "keislamanmu", "10" : "bahkan", "11" : "Allah", "12" : "memberi nikmat", "13" : "atas kalian", "14" : "bahwa", "15" : "Dia memberi petunjuk kepadamu", "16" : "kepada keimanan", "17" : "jika", "18" : "kalian adalah", "19" : "orang-orang yang benar"},
 			"18" : {"1" : "sesungguhnya", "2" : "Allah", "3" : "Maha Mengetahui", "4" : "kegaiban", "5" : "langit(jamak)", "6" : "dan bumi", "7" : "dan Allah", "8" : "Maha Melihat", "9" : "terhadap apa", "10" : "kamu kerjakan"}
-
 		}
 	}
 }

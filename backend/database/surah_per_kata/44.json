@@ -4,6 +4,7 @@
 		"name" : "الدخان",
 		"name_latin" : "Ad-Dukhan",
 		"number_of_ayah" : "59",
+		"number_of_words" : "346",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "وَٱلْكِتَٰبِ", "2" : "ٱلْمُبِينِ"},
@@ -125,7 +126,6 @@
 			"57" : {"1" : "karunia", "2" : "dari", "3" : "Tuhanmu", "4" : "demikian itu", "5" : "ia/itu", "6" : "keuntungan", "7" : "yang besar"},
 			"58" : {"1" : "maka sesungguhnya", "2" : "Kami mudahkannya", "3" : "dengan lisan/bahasamu", "4" : "supaya mereka", "5" : "mereka mendapat pelajaran"},
 			"59" : {"1" : "maka tunggulah", "2" : "sesungguhnya mereka", "3" : "orang-orang yang menunggu"}
-
 		}
 	}
 }

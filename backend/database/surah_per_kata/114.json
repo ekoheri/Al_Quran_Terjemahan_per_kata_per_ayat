@@ -4,6 +4,7 @@
 		"name" : "الناس",
 		"name_latin" : "An-Nas",
 		"number_of_ayah" : "6",
+		"number_of_words" : "20",
 		"text" : {
 			"1" : {"1" : "قُلْ", "2" : "أَعُوذُ", "3" : "بِرَبِّ", "4" : "ٱلنَّاسِ"},
 			"2" : {"1" : "مَلِكِ", "2" : "ٱلنَّاسِ"},
@@ -19,7 +20,6 @@
 			"4" : {"1" : "dari", "2" : "kejahatan", "3" : "bisikkan", "4" : "menunggu-nunggu/bersembunyi"},
 			"5" : {"1" : "yang", "2" : "membisik-bisikan", "3" : "dalam", "4" : "dada", "5" : "manusia"},
 			"6" : {"1" : "dari", "2" : "jin", "3" : "dan manusia"}
-
 		}
 	}
 }

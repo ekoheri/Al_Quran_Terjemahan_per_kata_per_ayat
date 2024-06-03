@@ -4,6 +4,7 @@
 		"name" : "ق",
 		"name_latin" : "Qaf",
 		"number_of_ayah" : "45",
+		"number_of_words" : "373",
 		"text" : {
 			"1" : {"1" : "قٓۚ", "2" : "وَٱلْقُرْءَانِ", "3" : "ٱلْمَجِيدِ"},
 			"2" : {"1" : "بَلْ", "2" : "عَجِبُوٓا۟", "3" : "أَن", "4" : "جَآءَهُم", "5" : "مُّنذِرٌ", "6" : "مِّنْهُمْ", "7" : "فَقَالَ", "8" : "ٱلْكَٰفِرُونَ", "9" : "هَٰذَا", "10" : "شَىْءٌ", "11" : "عَجِيبٌ"},
@@ -52,7 +53,7 @@
 			"45" : {"1" : "نَّحْنُ", "2" : "أَعْلَمُ", "3" : "بِمَا", "4" : "يَقُولُونَۖ", "5" : "وَمَآ", "6" : "أَنتَ", "7" : "عَلَيْهِم", "8" : "بِجَبَّارٍۖ", "9" : "فَذَكِّرْ", "10" : "بِٱلْقُرْءَانِ", "11" : "مَن", "12" : "يَخَافُ", "13" : "وَعِيدِ"}
 		},
 		"terjemah" : {
-			"1" : {"1" : "Qâf", "2" : "demi Al Qur'an", "3" : "yang mulia"},
+			"1" : {"1" : "Q\u00e2f", "2" : "demi Al Qur'an", "3" : "yang mulia"},
 			"2" : {"1" : "bahkan", "2" : "mereka heran", "3" : "bahwa", "4" : "telah datang pada mereka", "5" : "seorang pemberi peringatan", "6" : "dari mereka", "7" : "maka berkata", "8" : "orang-orang kafir", "9" : "ini", "10" : "sesuatu", "11" : "sangat aneh"},
 			"3" : {"1" : "apakah apabila", "2" : "kami telah mati", "3" : "dan kami adalah", "4" : "tanah/debu", "5" : "demikian itu", "6" : "pengembalian", "7" : "yang jauh"},
 			"4" : {"1" : "sesungguhnya", "2" : "Kami mengetahui", "3" : "apa yang", "4" : "merusak", "5" : "bumi", "6" : "dari mereka", "7" : "dan di sisi Kami", "8" : "kitab", "9" : "penjaga"},
@@ -97,7 +98,6 @@
 			"43" : {"1" : "sesungguhnya Kami", "2" : "Kami", "3" : "Kami menghidupi", "4" : "dan Kami mematikan", "5" : "dan kepada Kami", "6" : "tempat kembali"},
 			"44" : {"1" : "pada hari", "2" : "terbelah-belah", "3" : "bumi", "4" : "dari mereka", "5" : "dengan cepat", "6" : "demikian itu", "7" : "pengumpulan", "8" : "atas Kami", "9" : "mudah"},
 			"45" : {"1" : "Kami", "2" : "lebih mengetahui", "3" : "dengan apa", "4" : "mereka berkata-kata", "5" : "dan tidaklah", "6" : "kamu", "7" : "atas  mereka", "8" : "dengan memaksa", "9" : "maka berilah peringatan", "10" : "dengan Al Qur'an", "11" : "orang yang", "12" : "ia takut", "13" : "ancaman-Ku"}
-
 		}
 	}
 }

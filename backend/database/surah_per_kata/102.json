@@ -4,6 +4,7 @@
 		"name" : "التكاثر",
 		"name_latin" : "At-Takasur",
 		"number_of_ayah" : "8",
+		"number_of_words" : "28",
 		"text" : {
 			"1" : {"1" : "أَلْهَىٰكُمُ", "2" : "ٱلتَّكَاثُرُ"},
 			"2" : {"1" : "حَتَّىٰ", "2" : "زُرْتُمُ", "3" : "ٱلْمَقَابِرَ"},
@@ -23,7 +24,6 @@
 			"6" : {"1" : "sungguh kamu akan melihat", "2" : "neraka Jahim"},
 			"7" : {"1" : "kemudian", "2" : "sungguh kamu akan melihatnya", "3" : "mata/penglihatan", "4" : "pasti/yakin"},
 			"8" : {"1" : "kemudian", "2" : "sungguh kamu akan ditanya", "3" : "pada hari itu", "4" : "dari/tetang", "5" : "kenikmatan"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "المطففين",
 		"name_latin" : "Al-Mutaffifin",
 		"number_of_ayah" : "36",
+		"number_of_words" : "169",
 		"text" : {
 			"1" : {"1" : "وَيْلٌ", "2" : "لِّلْمُطَفِّفِينَ"},
 			"2" : {"1" : "ٱلَّذِينَ", "2" : "إِذَا", "3" : "ٱكْتَالُوا۟", "4" : "عَلَى", "5" : "ٱلنَّاسِ", "6" : "يَسْتَوْفُونَ"},
@@ -79,7 +80,6 @@
 			"34" : {"1" : "maka pada hari", "2" : "orang-orang yang", "3" : "beriman", "4" : "dari", "5" : "orang-orang kafir", "6" : "menertawakan mereka"},
 			"35" : {"1" : "atas", "2" : "dipan", "3" : "mereka memandang/melihat"},
 			"36" : {"1" : "apakah", "2" : "diberi ganjaran/balasan", "3" : "orang-orang kafir", "4" : "apa", "5" : "adalah mereka", "6" : "mereka kerjakan"}
-
 		}
 	}
 }

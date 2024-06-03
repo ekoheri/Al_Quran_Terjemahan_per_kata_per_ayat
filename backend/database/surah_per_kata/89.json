@@ -4,6 +4,7 @@
 		"name" : "الفجر",
 		"name_latin" : "Al-Fajr",
 		"number_of_ayah" : "30",
+		"number_of_words" : "137",
 		"text" : {
 			"1" : {"1" : "وَٱلْفَجْرِ"},
 			"2" : {"1" : "وَلَيَالٍ", "2" : "عَشْرٍ"},
@@ -67,7 +68,6 @@
 			"28" : {"1" : "kembalilah", "2" : "kepada", "3" : "Tuhanmu", "4" : "rida/puas", "5" : "diridhoi"},
 			"29" : {"1" : "maka masuklah", "2" : "dalam", "3" : "hamba-Ku"},
 			"30" : {"1" : "dan masuklah", "2" : "surga-Ku"}
-
 		}
 	}
 }

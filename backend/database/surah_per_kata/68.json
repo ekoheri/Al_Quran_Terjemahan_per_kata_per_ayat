@@ -4,6 +4,7 @@
 		"name" : "القلم",
 		"name_latin" : "Al-Qalam",
 		"number_of_ayah" : "52",
+		"number_of_words" : "300",
 		"text" : {
 			"1" : {"1" : "نٓۚ", "2" : "وَٱلْقَلَمِ", "3" : "وَمَا", "4" : "يَسْطُرُونَ"},
 			"2" : {"1" : "مَآ", "2" : "أَنتَ", "3" : "بِنِعْمَةِ", "4" : "رَبِّكَ", "5" : "بِمَجْنُونٍ"},
@@ -111,7 +112,6 @@
 			"50" : {"1" : "lalu memilihnya", "2" : "Tuhannya", "3" : "maka Dia menjadikannya", "4" : "dari/termasuk", "5" : "orang-orang yang saleh"},
 			"51" : {"1" : "dan sesungguhnya", "2" : "hampir", "3" : "orang-orang yang", "4" : "kafir/ingkar", "5" : "benar-benar akan menggelincirkan kamu", "6" : "dengan pandangan mereka", "7" : "tatkala", "8" : "mereka mendengar", "9" : "peringatan/Al Qur'an", "10" : "dan mereka berkata", "11" : "sesungguhnya", "12" : "benar-benar orang gila"},
 			"52" : {"1" : "dan tidaklah", "2" : "ia", "3" : "kecuali", "4" : "peringatan/pelajaran", "5" : "bagi alam semesta"}
-
 		}
 	}
 }

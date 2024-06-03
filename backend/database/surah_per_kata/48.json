@@ -4,6 +4,7 @@
 		"name" : "الفتح",
 		"name_latin" : "Al-Fath",
 		"number_of_ayah" : "29",
+		"number_of_words" : "560",
 		"text" : {
 			"1" : {"1" : "إِنَّا", "2" : "فَتَحْنَا", "3" : "لَكَ", "4" : "فَتْحًا", "5" : "مُّبِينًا"},
 			"2" : {"1" : "لِّيَغْفِرَ", "2" : "لَكَ", "3" : "ٱللَّهُ", "4" : "مَا", "5" : "تَقَدَّمَ", "6" : "مِن", "7" : "ذَنۢبِكَ", "8" : "وَمَا", "9" : "تَأَخَّرَ", "10" : "وَيُتِمَّ", "11" : "نِعْمَتَهُۥ", "12" : "عَلَيْكَ", "13" : "وَيَهْدِيَكَ", "14" : "صِرَٰطًا", "15" : "مُّسْتَقِيمًا"},
@@ -65,7 +66,6 @@
 			"27" : {"1" : "sesungguhnya", "2" : "membenarkan", "3" : "Allah", "4" : "rasul-Nya", "5" : "mimpi", "6" : "dengan benar", "7" : "sungguh kamu akan memasuki", "8" : "Masjid", "9" : "Haram", "10" : "jika", "11" : "menghendaki", "12" : "Allah", "13" : "dengan aman", "14" : "mencukur rambut", "15" : "kepala kamu", "16" : "dan memendekkan guntingan rambut", "17" : "tidak", "18" : "kamu merasa takut", "19" : "maka Dia mengetahui", "20" : "apa yang", "21" : "tidak", "22" : "kamu ketahui", "23" : "maka Dia menjadikan", "24" : "dari", "25" : "selain", "26" : "demikian itu", "27" : "kemenangan", "28" : "dekat"},
 			"28" : {"1" : "Dia", "2" : "yang", "3" : "mengutus", "4" : "rasul-Nya", "5" : "dengan petunjuk", "6" : "dan agama", "7" : "benar", "8" : "karena Dia hendak memenangkannya", "9" : "atas", "10" : "agama", "11" : "semuanya", "12" : "dan cukup", "13" : "dengan Allah", "14" : "saksi"},
 			"29" : {"1" : "Muhammad", "2" : "rasul", "3" : "Allah", "4" : "dan orang-orang yang", "5" : "bersama dia", "6" : "sangat keras", "7" : "terhadap", "8" : "orang-orang kafir", "9" : "kasih sayang", "10" : "diantara mereka", "11" : "kamu melihat mereka", "12" : "ruku'", "13" : "sujud", "14" : "mereka mencari", "15" : "karunia", "16" : "dari", "17" : "Allah", "18" : "dan keridhaan", "19" : "tanda-tanda mereka", "20" : "dalam", "21" : "muka-muka mereka", "22" : "dari", "23" : "bekas", "24" : "sujud", "25" : "demikian itu", "26" : "perumpamaan mereka", "27" : "dalam", "28" : "Taurat", "29" : "dan perumpamaan mereka", "30" : "dalam", "31" : "injil", "32" : "seperti tanaman", "33" : "ia mengeluarkan", "34" : "tumbuhnya/tunasnya", "35" : "maka ia menguatkan", "36" : "lalu ia menjadi besar", "37" : "maka ia tegak", "38" : "atas", "39" : "batangnya", "40" : "menakjubkan/menyenangkan", "41" : "penanam-penanam", "42" : "karena Dia hendak menjengkelkan", "43" : "dengan mereka", "44" : "orang-orang kafir", "45" : "telah menjanjikan", "46" : "Allah", "47" : "orang-orang yang", "48" : "beriman", "49" : "dan beramal", "50" : "kebaikan", "51" : "dari mereka", "52" : "ampunan", "53" : "dan pahala", "54" : "besar"}
-
 		}
 	}
 }

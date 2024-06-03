@@ -4,6 +4,7 @@
 		"name" : "عبس",
 		"name_latin" : "'Abasa",
 		"number_of_ayah" : "42",
+		"number_of_words" : "133",
 		"text" : {
 			"1" : {"1" : "عَبَسَ", "2" : "وَتَوَلَّىٰٓ"},
 			"2" : {"1" : "أَن", "2" : "جَآءَهُ", "3" : "ٱلْأَعْمَىٰ"},
@@ -91,7 +92,6 @@
 			"40" : {"1" : "dan wajah-wajah", "2" : "pada hari itu", "3" : "atasnya", "4" : "tertutup debu"},
 			"41" : {"1" : "menutupinya", "2" : "kegelapan"},
 			"42" : {"1" : "mereka itulah", "2" : "mereka", "3" : "orang-orang kafir", "4" : "durhaka"}
-
 		}
 	}
 }

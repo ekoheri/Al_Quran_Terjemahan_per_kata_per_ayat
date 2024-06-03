@@ -4,6 +4,7 @@
 		"name" : "ابراهيم",
 		"name_latin" : "Ibrahim",
 		"number_of_ayah" : "52",
+		"number_of_words" : "830",
 		"text" : {
 			"1" : {"1" : "الٓرۚ", "2" : "كِتَٰبٌ", "3" : "أَنزَلْنَٰهُ", "4" : "إِلَيْكَ", "5" : "لِتُخْرِجَ", "6" : "ٱلنَّاسَ", "7" : "مِنَ", "8" : "ٱلظُّلُمَٰتِ", "9" : "إِلَى", "10" : "ٱلنُّورِ", "11" : "بِإِذْنِ", "12" : "رَبِّهِمْ", "13" : "إِلَىٰ", "14" : "صِرَٰطِ", "15" : "ٱلْعَزِيزِ", "16" : "ٱلْحَمِيدِ"},
 			"2" : {"1" : "ٱللَّهِ", "2" : "ٱلَّذِى", "3" : "لَهُۥ", "4" : "مَا", "5" : "فِى", "6" : "ٱلسَّمَٰوَٰتِ", "7" : "وَمَا", "8" : "فِى", "9" : "ٱلْأَرْضِۗ", "10" : "وَوَيْلٌ", "11" : "لِّلْكَٰفِرِينَ", "12" : "مِنْ", "13" : "عَذَابٍ", "14" : "شَدِيدٍ"},
@@ -93,7 +94,7 @@
 			"32" : {"1" : "Allah", "2" : "yang", "3" : "menciptakan", "4" : "langit(jamak)", "5" : "dan bumi", "6" : "dan Dia menurunkan", "7" : "dari", "8" : "langit", "9" : "air/hujan", "10" : "lalu Dia mengeluarkan", "11" : "dengannya", "12" : "dari", "13" : "buah-buahan", "14" : "rizki", "15" : "bagi kalian", "16" : "dan Dia menundukkan", "17" : "bagi kalian", "18" : "bahtera", "19" : "untuk berlayar/berjalan", "20" : "di", "21" : "lautan", "22" : "dengan perintahNya", "23" : "dan Dia menundukan", "24" : "bagi kalian", "25" : "sungai-sungai"},
 			"33" : {"1" : "dan Dia menundukkan", "2" : "bagi kalian", "3" : "matahari", "4" : "dan bulan", "5" : "keduanya tetap beredar", "6" : "dan Dia menundukkan", "7" : "bagi kalian", "8" : "malam", "9" : "dan siang"},
 			"34" : {"1" : "dan Dia memberikan kepadamu", "2" : "dari", "3" : "segala", "4" : "apa", "5" : "kamu mohonkan kepadaNya", "6" : "dan jika", "7" : "kamu menghitung", "8" : "nikmat", "9" : "Allah", "10" : "tidak (dapat)", "11" : "menghitungnya", "12" : "sesungguhnya", "13" : "manusia", "14" : "sungguh sangat zalim", "15" : "sangat ingkar"},
-			"35" : {"1" : "dan ketika", "2" : "berkata", "3" : "Ibrahîm", "4" : "ya Tuhanku", "5" : "jadikanlah", "6" : "ini", "7" : "negeri", "8" : "aman", "9" : "dan jauhkan aku", "10" : "dan anak-anakku", "11" : "bahwa", "12" : "kami menyembah", "13" : "berhala"},
+			"35" : {"1" : "dan ketika", "2" : "berkata", "3" : "Ibrah\u00eem", "4" : "ya Tuhanku", "5" : "jadikanlah", "6" : "ini", "7" : "negeri", "8" : "aman", "9" : "dan jauhkan aku", "10" : "dan anak-anakku", "11" : "bahwa", "12" : "kami menyembah", "13" : "berhala"},
 			"36" : {"1" : "ya Tuhanku", "2" : "sesungguhnya mereka", "3" : "mereka telah menyesatkan", "4" : "kebanyakan", "5" : "dari", "6" : "manusia", "7" : "maka barangsiapa", "8" : "mengikuti aku", "9" : "maka sesungguhnya dia", "10" : "dariku", "11" : "dan barang siapa", "12" : "mendurhakai aku", "13" : "maka sesungguhnya Engkau", "14" : "Maha Pengampun", "15" : "Maha Penyayang"},
 			"37" : {"1" : "ya Tuhan kami", "2" : "sesungguhnya aku", "3" : "aku menempatkan", "4" : "dari", "5" : "anak-cucuku/keturunanku", "6" : "di lembah", "7" : "tidak", "8" : "mempunyai", "9" : "tanaman", "10" : "di sisi/di dekat", "11" : "rumah Engkau", "12" : "dihormati", "13" : "ya Tuhan kami", "14" : "agar mereka mendirikan", "15" : "sholat", "16" : "maka jadikanlah", "17" : "hati", "18" : "dari", "19" : "manusia", "20" : "cenderung", "21" : "kepada mereka", "22" : "dan beri rezkilah mereka", "23" : "dari", "24" : "buah-buahan", "25" : "agar mereka", "26" : "mereka bersyukur"},
 			"38" : {"1" : "ya Tuhan kami", "2" : "sesungguhnya Engkau", "3" : "Engkau ketahui", "4" : "apa", "5" : "kami sembunyikan", "6" : "dan apa", "7" : "kami lahirkan", "8" : "dan tidak", "9" : "tersembunyi", "10" : "atas", "11" : "Allah", "12" : "dari", "13" : "sesuatu", "14" : "di", "15" : "bumi", "16" : "dan tidak", "17" : "di", "18" : "langit"},
@@ -111,7 +112,6 @@
 			"50" : {"1" : "pakaian mereka", "2" : "dari", "3" : "kuningan yang panas", "4" : "dan menutupi", "5" : "muka mereka", "6" : "api neraka"},
 			"51" : {"1" : "karena akan memberi balasan", "2" : "Allah", "3" : "tiap-tiap", "4" : "diri/orang", "5" : "apa", "6" : "ia usahakan", "7" : "sesungguhnya", "8" : "Allah", "9" : "sangat cepat", "10" : "perhitungan"},
 			"52" : {"1" : "ini", "2" : "penyampaian/penjelasan", "3" : "bagi manusia", "4" : "dan supaya diberi peringatan", "5" : "dengannya", "6" : "dan supaya mereka mengetahui", "7" : "bahwasanya", "8" : "Dia", "9" : "Tuhan", "10" : "Maha Esa", "11" : "dan supaya mengambil pelajaran", "12" : "orang-orang yang mempunyai", "13" : "akal"}
-
 		}
 	}
 }

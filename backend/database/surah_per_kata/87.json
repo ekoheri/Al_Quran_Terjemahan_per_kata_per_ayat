@@ -4,6 +4,7 @@
 		"name" : "الأعلى",
 		"name_latin" : "Al-A'la",
 		"number_of_ayah" : "19",
+		"number_of_words" : "72",
 		"text" : {
 			"1" : {"1" : "سَبِّحِ", "2" : "ٱسْمَ", "3" : "رَبِّكَ", "4" : "ٱلْأَعْلَى"},
 			"2" : {"1" : "ٱلَّذِى", "2" : "خَلَقَ", "3" : "فَسَوَّىٰ"},
@@ -45,7 +46,6 @@
 			"17" : {"1" : "dan akherat", "2" : "lebih baik", "3" : "dan lebih kekal"},
 			"18" : {"1" : "sungguh", "2" : "ini", "3" : "benar-benar dalam", "4" : "kitab-kitab", "5" : "terdahulu"},
 			"19" : {"1" : "kitab", "2" : "Ibrahim", "3" : "dan Musa"}
-
 		}
 	}
 }

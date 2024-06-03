@@ -4,6 +4,7 @@
 		"name" : "المزمل",
 		"name_latin" : "Al-Muzzammil",
 		"number_of_ayah" : "20",
+		"number_of_words" : "199",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلْمُزَّمِّلُ"},
 			"2" : {"1" : "قُمِ", "2" : "ٱلَّيْلَ", "3" : "إِلَّا", "4" : "قَلِيلًا"},
@@ -47,7 +48,6 @@
 			"18" : {"1" : "langit", "2" : "terbelah", "3" : "karenanya/hari itu", "4" : "adalah", "5" : "janji-Nya", "6" : "terlaksana"},
 			"19" : {"1" : "sesungguhnya", "2" : "ini", "3" : "peringatan", "4" : "maka barang siapa", "5" : "menghendaki", "6" : "ia mengambil", "7" : "kepada", "8" : "Tuhannya", "9" : "jalan"},
 			"20" : {"1" : "sesungguhnya", "2" : "Tuhanmu", "3" : "mengetahui", "4" : "bahwa kamu", "5" : "kamu berdiri", "6" : "kurang", "7" : "dari", "8" : "dua pertiga", "9" : "malam", "10" : "dan/atau separuhnya", "11" : "dan/atau sepertiganya", "12" : "dan segolongan", "13" : "dari", "14" : "orang-orang yang", "15" : "bersama kamu", "16" : "dan Allah", "17" : "menetapkan", "18" : "malam", "19" : "dan siang", "20" : "Dia mengetahui", "21" : "bahwa", "22" : "tidak dapat", "23" : "menentukannya", "24" : "maka Dia menerima taubat", "25" : "atas kalian", "26" : "maka bacalah", "27" : "apa", "28" : "kamu mudah", "29" : "dari", "30" : "Al Qur'an ini", "31" : "Dia mengetahui", "32" : "bahwa", "33" : "akan ada", "34" : "diantara kamu", "35" : "orang-orang yang sakit", "36" : "dan yang lain", "37" : "mereka berjalan", "38" : "di", "39" : "bumi", "40" : "mereka mencari", "41" : "dari", "42" : "karunia", "43" : "Allah", "44" : "dan yang lain", "45" : "mereka berperang", "46" : "di/pada", "47" : "jalan", "48" : "Allah", "49" : "maka bacalah", "50" : "apa", "51" : "kamu mudah", "52" : "daripadanya", "53" : "dan dirikanlah", "54" : "sholat", "55" : "dan tunaikan", "56" : "zakat", "57" : "dan berikan pinjaman", "58" : "Allah", "59" : "pinjaman", "60" : "yang baik", "61" : "dan apa", "62" : "kamu kerjakan", "63" : "untuk dirimu", "64" : "dari", "65" : "kebaikan", "66" : "kamu perolehnya", "67" : "di sisi", "68" : "Allah", "69" : "Dia", "70" : "baik", "71" : "dan lebih besar", "72" : "pahala", "73" : "dan mohon ampunlah", "74" : "Allah", "75" : "sesungguhnya", "76" : "Allah", "77" : "Maha Pengampun", "78" : "Maha penyayang"}
-
 		}
 	}
 }

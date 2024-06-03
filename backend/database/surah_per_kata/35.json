@@ -4,6 +4,7 @@
 		"name" : "فاطر",
 		"name_latin" : "Fatir",
 		"number_of_ayah" : "45",
+		"number_of_words" : "775",
 		"text" : {
 			"1" : {"1" : "ٱلْحَمْدُ", "2" : "لِلَّهِ", "3" : "فَاطِرِ", "4" : "ٱلسَّمَٰوَٰتِ", "5" : "وَٱلْأَرْضِ", "6" : "جَاعِلِ", "7" : "ٱلْمَلَٰٓئِكَةِ", "8" : "رُسُلًا", "9" : "أُو۟لِىٓ", "10" : "أَجْنِحَةٍ", "11" : "مَّثْنَىٰ", "12" : "وَثُلَٰثَ", "13" : "وَرُبَٰعَۚ", "14" : "يَزِيدُ", "15" : "فِى", "16" : "ٱلْخَلْقِ", "17" : "مَا", "18" : "يَشَآءُۚ", "19" : "إِنَّ", "20" : "ٱللَّهَ", "21" : "عَلَىٰ", "22" : "كُلِّ", "23" : "شَىْءٍ", "24" : "قَدِيرٌ"},
 			"2" : {"1" : "مَّا", "2" : "يَفْتَحِ", "3" : "ٱللَّهُ", "4" : "لِلنَّاسِ", "5" : "مِن", "6" : "رَّحْمَةٍ", "7" : "فَلَا", "8" : "مُمْسِكَ", "9" : "لَهَاۖ", "10" : "وَمَا", "11" : "يُمْسِكْ", "12" : "فَلَا", "13" : "مُرْسِلَ", "14" : "لَهُۥ", "15" : "مِنۢ", "16" : "بَعْدِهِۦۚ", "17" : "وَهُوَ", "18" : "ٱلْعَزِيزُ", "19" : "ٱلْحَكِيمُ"},
@@ -97,7 +98,6 @@
 			"43" : {"1" : "karena kesombongan", "2" : "pada/di", "3" : "bumi", "4" : "dan rencana", "5" : "jelek/jahat", "6" : "dan tidak", "7" : "menimpa", "8" : "rencana", "9" : "jelek/jahat", "10" : "kecuali", "11" : "kepada ahlinya/yang empunya", "12" : "maka tidakkah", "13" : "mereka menanti-nanti", "14" : "kecuali", "15" : "sunnah", "16" : "orang-orang terdahulu", "17" : "maka tidaklah", "18" : "kamu dapati", "19" : "bagi sunnah", "20" : "Allah", "21" : "berubah", "22" : "dan tidaklah", "23" : "kamu dapati", "24" : "bagi sunnah", "25" : "Allah", "26" : "menyimpang"},
 			"44" : {"1" : "ataukah tidak", "2" : "mereka berjalan", "3" : "pada/di", "4" : "bumi", "5" : "lalu mereka memperhatikan", "6" : "bagaimana", "7" : "adalah", "8" : "akibat", "9" : "orang-orang yang", "10" : "dari", "11" : "sebelum mereka", "12" : "dan adalah orang-orang itu", "13" : "sangat/lebih besar", "14" : "daripada mereka", "15" : "kekuatan", "16" : "dan tidak", "17" : "adalah", "18" : "Allah", "19" : "untuk melemahkan-Nya", "20" : "dari", "21" : "sesuatu", "22" : "pada/di", "23" : "langit(jamak)", "24" : "dan tidak", "25" : "di", "26" : "bumi", "27" : "sesungguhnya Dia", "28" : "adalah", "29" : "Maha Mengetahui", "30" : "Maha Kuasa"},
 			"45" : {"1" : "dan jika sekiranya", "2" : "mengambil/menyiksa", "3" : "Allah", "4" : "manusia", "5" : "dengan apa/sebab", "6" : "mereka perbuatan", "7" : "tidak", "8" : "Dia meninggalkan", "9" : "atas", "10" : "permukaannya/bumi", "11" : "dari", "12" : "makhluk/binatang melata", "13" : "akan tetapi", "14" : "Dia menangguhkan mereka", "15" : "sampai", "16" : "waktu", "17" : "tertentu", "18" : "maka apabila", "19" : "datang", "20" : "ajal/waktu mereka", "21" : "maka sesungguh-Nya", "22" : "Allah", "23" : "adalah", "24" : "dengan hamba-hamba-Nya", "25" : "Maha Melihat"}
-
 		}
 	}
 }

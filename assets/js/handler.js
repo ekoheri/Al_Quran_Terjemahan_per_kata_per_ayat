@@ -1,7 +1,8 @@
 class Ajax {
     constructor() {
         /* Sesuaikan URL API dengan alamat backend */
-        this.url_api = 'https://quran.simetri.io/backend/index.php/api/';
+        this.url_api = 'http://localhost:8080/backend/index.php/api/';
+        //this.url_api = 'https://quran.simetri.io/backend/index.php/api/';
 
         /* Sesuaikan API KEy dengan API Key yang terdaftar di backend */
         //this.api_key = 'e41d1f4ac632e4adf91ebf087a487ba4';
@@ -348,7 +349,7 @@ class HandleUI{
         this.dataHandler = null;    //instance variable untuk IndexedDB
 
         this.current_page = 1;
-        this.tampilan = 'kata';
+        this.tampilan = 'ayat';
         this.terjemah = 'show';
         this.UkuranFont = 'sedang';
 
@@ -443,6 +444,8 @@ class HandleUI{
                     halaman = 604;
                 }
                 this.current_page = halaman;
+                this.scrollPosition = 0
+                window.scrollTo(0, this.scrollPosition);
             }
 
         }.bind(this));
@@ -460,6 +463,8 @@ class HandleUI{
                     halaman = 1;
                 }
                 this.current_page = halaman;
+                this.scrollPosition = 0
+                window.scrollTo(0, this.scrollPosition);
             }
 
         }.bind(this));
@@ -656,6 +661,7 @@ class HandleUI{
         var kata_container;
         var kata;
         var arti;
+        var latin;
         var tafsir;
 
         var mark_halaman = "";
@@ -703,7 +709,7 @@ class HandleUI{
                 kata.className = "kata";
                 kata.innerHTML = bismillah;
                 kata_container.appendChild(kata);
-
+                
                 arti = document.createElement("span");
                 arti.className = "arti";
                 arti.innerHTML = terjemah_bismillah;
@@ -744,6 +750,15 @@ class HandleUI{
                 kata.innerHTML = dataAyat[i]["isi_surah"][nomor]['per_ayat']["text_arab"]+ " " +this.LatinToArab(j.toString());
                 kata_container.appendChild(kata);
 
+                latin = document.createElement("span");
+                latin.className = "arti";
+                latin.innerHTML = dataAyat[i]["isi_surah"][nomor]['per_ayat']["latin"];
+                kata_container.appendChild(latin);
+
+                var hr = document.createElement("hr");
+                hr.className = "arti";
+                kata_container.appendChild(hr);
+
                 arti = document.createElement("span");
                 arti.className = "arti";
                 arti.innerHTML = dataAyat[i]["isi_surah"][nomor]['per_ayat']["terjemah"];
@@ -752,7 +767,8 @@ class HandleUI{
                 tafsir = document.createElement("p");
                 tafsir.id = "tafsir_"+nomor_surah + '_' + nomor;
                 tafsir.style.display = "none";
-                tafsir.innerHTML = dataAyat[i]["isi_surah"][nomor]["tafsir"];
+                tafsir.innerHTML = "<strong>Tafsir Kemenag RI</strong><br /><hr />" + dataAyat[i]["isi_surah"][nomor]["tafsir_wajiz"]
+                +"<br /><hr /><strong>Tafsir Tahlili</strong><br /><hr />" + dataAyat[i]["isi_surah"][nomor]["tafsir_tahlili"] ;
                 kata_container.appendChild(tafsir);
                 
                 ayat.appendChild(kata_container);
@@ -943,9 +959,9 @@ class HandleUI{
                 small_2.className = "text-body-secondary";
                 var surah_awal = arr_juz[i][1]["start"]["name_latin"];
                 var surah_akhir = arr_juz[i][1]["end"]["name_latin"];
-                small_2.innerHTML = surah_awal +' : '+ arr_juz[i][1]["start"]["ayat"] + ' - ' + surah_akhir  +' : '+ arr_juz[i][1]["end"]["ayat"];
+                small_2.innerHTML = surah_awal +' : '+ arr_juz[i][1]["start"]["ayah"] + ' - ' + surah_akhir  +' : '+ arr_juz[i][1]["end"]["ayah"];
                 if(surah_awal == surah_akhir) {
-                    small_2.innerHTML = surah_awal + ' : '+ arr_juz[i][1]["start"]["ayat"] + ' - ' + arr_juz[i][1]["end"]["ayat"];
+                    small_2.innerHTML = surah_awal + ' : '+ arr_juz[i][1]["start"]["ayah"] + ' - ' + arr_juz[i][1]["end"]["ayah"];
                 }
 
                 a.appendChild(div);
@@ -1010,7 +1026,7 @@ class HandleUI{
 
                 var h5 = document.createElement("h5");
                 h5.className = "mb-1";
-                h5.innerHTML = arr_surah[i][1]["name_latin"];
+                h5.innerHTML = (i+1).toString() + ". "+ arr_surah[i][1]["name_latin"];
                 div.appendChild(h5);
 
                 var small_1 = document.createElement("small");
@@ -1020,7 +1036,7 @@ class HandleUI{
 
                 var small_2 = document.createElement("small");
                 small_2.className = "text-body-secondary";
-                small_2.innerHTML = 'Jumlah ayat : '+ arr_surah[i][1]["jumlah_ayat"];
+                small_2.innerHTML = 'Jumlah ayat : '+ arr_surah[i][1]["number_of_ayah"];
 
                 a.appendChild(div);
                 a.appendChild(small_2);
@@ -1174,8 +1190,9 @@ class HandleUI{
         const ayat_copy = document.getElementById('per_ayat_' + id_element);
         try {
             navigator.clipboard.writeText(
-                ayat_copy.childNodes[1].childNodes[0].innerHTML + '\n' +
-                ayat_copy.childNodes[1].childNodes[1].innerHTML
+                ayat_copy.childNodes[1].childNodes[0].innerHTML + '\n\n' +
+                ayat_copy.childNodes[1].childNodes[1].innerHTML + '\n\n' +
+                ayat_copy.childNodes[1].childNodes[3].innerHTML
             );
         } catch(err) {
             ayat_copy.focus();

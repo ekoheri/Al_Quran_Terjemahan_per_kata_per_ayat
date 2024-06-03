@@ -4,6 +4,7 @@
 		"name" : "المدثر",
 		"name_latin" : "Al-Muddassir",
 		"number_of_ayah" : "56",
+		"number_of_words" : "255",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلْمُدَّثِّرُ"},
 			"2" : {"1" : "قُمْ", "2" : "فَأَنذِرْ"},
@@ -119,7 +120,6 @@
 			"54" : {"1" : "sekali-kali tidak", "2" : "sesungguhnya ia", "3" : "peringatan/pelajaran"},
 			"55" : {"1" : "maka barangsiapa", "2" : "dia menghendaki", "3" : "dia mengingatnya"},
 			"56" : {"1" : "dan tidak", "2" : "mereka mengingat", "3" : "kecuali", "4" : "bahwa", "5" : "menghendaki", "6" : "Allah", "7" : "Dia", "8" : "berhak/patut", "9" : "takwa/taat", "10" : "dan berhak/patut", "11" : "ampunan"}
-
 		}
 	}
 }

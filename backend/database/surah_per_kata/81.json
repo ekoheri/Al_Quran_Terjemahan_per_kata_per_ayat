@@ -4,6 +4,7 @@
 		"name" : "التكوير",
 		"name_latin" : "At-Takwir",
 		"number_of_ayah" : "29",
+		"number_of_words" : "104",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "ٱلشَّمْسُ", "3" : "كُوِّرَتْ"},
 			"2" : {"1" : "وَإِذَا", "2" : "ٱلنُّجُومُ", "3" : "ٱنكَدَرَتْ"},
@@ -65,7 +66,6 @@
 			"27" : {"1" : "sesungguhnya", "2" : "ia", "3" : "kecuali", "4" : "peringatan", "5" : "bagi semesta alam"},
 			"28" : {"1" : "bagi siapa", "2" : "menghendaki", "3" : "diantara kamu", "4" : "untuk", "5" : "menempuh jalan yang lurus"},
 			"29" : {"1" : "dan tidak", "2" : "kamu menghendaki", "3" : "kecuali", "4" : "bahwa", "5" : "menghendaki", "6" : "Allah", "7" : "Tuhan/Pemelihara", "8" : "semesta alam"}
-
 		}
 	}
 }

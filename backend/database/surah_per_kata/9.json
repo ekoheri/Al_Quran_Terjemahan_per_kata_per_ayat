@@ -4,6 +4,7 @@
 		"name" : "التوبة",
 		"name_latin" : "At-Taubah",
 		"number_of_ayah" : "129",
+		"number_of_words" : "2498",
 		"text" : {
 			"1" : {"1" : "بَرَآءَةٌ", "2" : "مِّنَ", "3" : "ٱللَّهِ", "4" : "وَرَسُولِهِۦٓ", "5" : "إِلَى", "6" : "ٱلَّذِينَ", "7" : "عَٰهَدتُّم", "8" : "مِّنَ", "9" : "ٱلْمُشْرِكِينَ"},
 			"2" : {"1" : "فَسِيحُوا۟", "2" : "فِى", "3" : "ٱلْأَرْضِ", "4" : "أَرْبَعَةَ", "5" : "أَشْهُرٍ", "6" : "وَٱعْلَمُوٓا۟", "7" : "أَنَّكُمْ", "8" : "غَيْرُ", "9" : "مُعْجِزِى", "10" : "ٱللَّهِۙ", "11" : "وَأَنَّ", "12" : "ٱللَّهَ", "13" : "مُخْزِى", "14" : "ٱلْكَٰفِرِينَ"},
@@ -265,7 +266,6 @@
 			"127" : {"1" : "dan apabila", "2" : "apa", "3" : "diturunkan", "4" : "suatu surat", "5" : "memandang", "6" : "sebagian mereka", "7" : "kepada", "8" : "sebagian lainnya", "9" : "apakah", "10" : "melihatmu", "11" : "dari", "12" : "seorang", "13" : "kemudian", "14" : "mereka berpaling/pergi", "15" : "memalingkan", "16" : "Allah", "17" : "hati mereka", "18" : "karena sesungguhnya mereka", "19" : "kaum", "20" : "tidak", "21" : "mereka mengerti"},
 			"128" : {"1" : "sesungguhnya", "2" : "telah datang kepadamu", "3" : "seorang Rasul", "4" : "dari", "5" : "diantara/golonganmu sendiri", "6" : "terasa berat", "7" : "atasnya/olehnya", "8" : "apa", "9" : "kamu derita", "10" : "sangat menginginkan", "11" : "atas kalian", "12" : "dengan/terhadap orang-orang mukmin", "13" : "amat penyantun", "14" : "penyayang"},
 			"129" : {"1" : "maka jika", "2" : "mereka berpaling", "3" : "maka katakanlah", "4" : "cukuplah bagiku", "5" : "Allah", "6" : "tidak ada", "7" : "Tuhan", "8" : "selain/kecuali", "9" : "Dia", "10" : "atas-Nya/kepada-Nya", "11" : "aku bertawakkal", "12" : "dan Dia", "13" : "Tuhan", "14" : "'Arsy", "15" : "besar/agung"}
-
 		}
 	}
 }

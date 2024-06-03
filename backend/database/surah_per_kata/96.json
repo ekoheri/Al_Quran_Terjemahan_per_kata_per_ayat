@@ -4,6 +4,7 @@
 		"name" : "العلق",
 		"name_latin" : "Al-'Alaq",
 		"number_of_ayah" : "19",
+		"number_of_words" : "72",
 		"text" : {
 			"1" : {"1" : "ٱقْرَأْ", "2" : "بِٱسْمِ", "3" : "رَبِّكَ", "4" : "ٱلَّذِى", "5" : "خَلَقَ"},
 			"2" : {"1" : "خَلَقَ", "2" : "ٱلْإِنسَٰنَ", "3" : "مِنْ", "4" : "عَلَقٍ"},
@@ -45,7 +46,6 @@
 			"17" : {"1" : "maka hendaklah dia memanggil", "2" : "kaum/golongannya"},
 			"18" : {"1" : "kelak Kami memanggil", "2" : "Zabaniyah"},
 			"19" : {"1" : "sekali-kali", "2" : "jangan", "3" : "kamu patuh kepadanya", "4" : "dan sujudlah", "5" : "dan dekatkanlah"}
-
 		}
 	}
 }

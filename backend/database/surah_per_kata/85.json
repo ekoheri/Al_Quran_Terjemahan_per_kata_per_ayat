@@ -4,6 +4,7 @@
 		"name" : "البروج",
 		"name_latin" : "Al-Buruj",
 		"number_of_ayah" : "22",
+		"number_of_words" : "109",
 		"text" : {
 			"1" : {"1" : "وَٱلسَّمَآءِ", "2" : "ذَاتِ", "3" : "ٱلْبُرُوجِ"},
 			"2" : {"1" : "وَٱلْيَوْمِ", "2" : "ٱلْمَوْعُودِ"},
@@ -51,7 +52,6 @@
 			"20" : {"1" : "dan Allah", "2" : "dari", "3" : "belakang mereka", "4" : "meliputi/mengepung"},
 			"21" : {"1" : "bahkan", "2" : "dia", "3" : "Quran", "4" : "agung/mulia"},
 			"22" : {"1" : "pada", "2" : "papan/batu tulis", "3" : "terpelihara"}
-
 		}
 	}
 }

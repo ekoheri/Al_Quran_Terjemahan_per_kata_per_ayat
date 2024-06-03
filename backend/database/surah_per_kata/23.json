@@ -4,6 +4,7 @@
 		"name" : "المؤمنون",
 		"name_latin" : "Al-Mu'minun",
 		"number_of_ayah" : "118",
+		"number_of_words" : "1050",
 		"text" : {
 			"1" : {"1" : "قَدْ", "2" : "أَفْلَحَ", "3" : "ٱلْمُؤْمِنُونَ"},
 			"2" : {"1" : "ٱلَّذِينَ", "2" : "هُمْ", "3" : "فِى", "4" : "صَلَاتِهِمْ", "5" : "خَٰشِعُونَ"},
@@ -243,7 +244,6 @@
 			"116" : {"1" : "maka Maha Tinggi", "2" : "Allah", "3" : "Raja", "4" : "sebenarnya", "5" : "tidak ada", "6" : "tuhan", "7" : "melainkan", "8" : "Dia", "9" : "Tuhan Pemelihara", "10" : "'Arasy", "11" : "yang mulia"},
 			"117" : {"1" : "dan barangsiapa", "2" : "berseru/menyembah", "3" : "bersama/di samping", "4" : "Allah", "5" : "tuhan", "6" : "lain", "7" : "tidak ada", "8" : "dalil/beralasan", "9" : "baginya", "10" : "dengannya/tentang itu", "11" : "maka sesungguhnya hanyalah", "12" : "perhitungannya", "13" : "di sisi", "14" : "Tuhannya", "15" : "sesungguhnya ia", "16" : "tidak", "17" : "beruntung", "18" : "orang-orang kafir"},
 			"118" : {"1" : "dan katakanlah", "2" : "ya Tuhanku", "3" : "berilah ampunan", "4" : "dan rahmat", "5" : "dan Engkau", "6" : "sebaik-baik", "7" : "Pemberi Rahmat"}
-
 		}
 	}
 }

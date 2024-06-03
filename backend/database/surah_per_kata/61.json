@@ -4,6 +4,7 @@
 		"name" : "الصف",
 		"name_latin" : "As-Saff",
 		"number_of_ayah" : "14",
+		"number_of_words" : "221",
 		"text" : {
 			"1" : {"1" : "سَبَّحَ", "2" : "لِلَّهِ", "3" : "مَا", "4" : "فِى", "5" : "ٱلسَّمَٰوَٰتِ", "6" : "وَمَا", "7" : "فِى", "8" : "ٱلْأَرْضِۖ", "9" : "وَهُوَ", "10" : "ٱلْعَزِيزُ", "11" : "ٱلْحَكِيمُ"},
 			"2" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلَّذِينَ", "3" : "ءَامَنُوا۟", "4" : "لِمَ", "5" : "تَقُولُونَ", "6" : "مَا", "7" : "لَا", "8" : "تَفْعَلُونَ"},
@@ -35,7 +36,6 @@
 			"12" : {"1" : "Dia (allah) mengampuni", "2" : "bagi kalian", "3" : "dosa-dosamu", "4" : "dan Dia memasukkan kamu", "5" : "surga", "6" : "mengalir", "7" : "dari", "8" : "bawahnya", "9" : "sungai-sungai", "10" : "dan tempat-tempat tinggal", "11" : "baik", "12" : "pada", "13" : "surga", "14" : "Adn", "15" : "demikian itu", "16" : "keuntungan", "17" : "besar"},
 			"13" : {"1" : "dan yang lain", "2" : "kamu menyukainya", "3" : "pertolongan", "4" : "dari", "5" : "Allah", "6" : "dan kemenangan", "7" : "dekat", "8" : "dan berilah kabar gembira", "9" : "orang-orang yang beriman"},
 			"14" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "adalah/jadilah kamu", "5" : "penolong-penolong", "6" : "Allah", "7" : "sebagaimana", "8" : "berkata", "9" : "Isa", "10" : "anak", "11" : "Maryam", "12" : "kepada pengikut-pengikut setia", "13" : "siapakah", "14" : "penolong-penolongku", "15" : "kepada", "16" : "Allah", "17" : "berkata", "18" : "pengikut-pengikut yang setia", "19" : "kami", "20" : "penolong-penolong", "21" : "Allah", "22" : "maka berimanlah", "23" : "segolongan", "24" : "dari", "25" : "bani", "26" : "Israil", "27" : "dan kafir", "28" : "segolongan", "29" : "maka Kami beri kekuatan", "30" : "orang-orang yang", "31" : "beriman", "32" : "atas", "33" : "musuh-musuh mereka", "34" : "maka jadilah mereka", "35" : "orang-orang yang menang"}
-
 		}
 	}
 }

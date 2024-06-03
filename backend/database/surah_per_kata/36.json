@@ -4,6 +4,7 @@
 		"name" : "يس",
 		"name_latin" : "Yasin",
 		"number_of_ayah" : "83",
+		"number_of_words" : "725",
 		"text" : {
 			"1" : {"1" : "يسٓ"},
 			"2" : {"1" : "وَٱلْقُرْءَانِ", "2" : "ٱلْحَكِيمِ"},
@@ -90,7 +91,7 @@
 			"83" : {"1" : "فَسُبْحَٰنَ", "2" : "ٱلَّذِى", "3" : "بِيَدِهِۦ", "4" : "مَلَكُوتُ", "5" : "كُلِّ", "6" : "شَىْءٍ", "7" : "وَإِلَيْهِ", "8" : "تُرْجَعُونَ"}
 		},
 		"terjemah" : {
-			"1" : {"1" : "Yâ­Sîn"},
+			"1" : {"1" : "Y\u00e2\u00adS\u00een"},
 			"2" : {"1" : "demi Al Qur'an", "2" : "penuh hikmat"},
 			"3" : {"1" : "sesungguhnya kamu", "2" : "sungguh dari (salah seorang)", "3" : "para rasul"},
 			"4" : {"1" : "atas", "2" : "jalan", "3" : "yang lurus"},
@@ -173,7 +174,6 @@
 			"81" : {"1" : "ataukah bukan", "2" : "yang", "3" : "menciptakan", "4" : "langit(jamak)", "5" : "dan bumi", "6" : "berkuasa", "7" : "atas", "8" : "bahwa", "9" : "menciptakan", "10" : "serupa mereka itu", "11" : "ya/benar", "12" : "dan Dia", "13" : "Maha Pencipta", "14" : "Maha Mengetahui"},
 			"82" : {"1" : "sesungguhnya hanyalah", "2" : "urusan-Nya/perintah-Nya", "3" : "apabila", "4" : "Dia menghendaki", "5" : "sesuatu", "6" : "bahwa", "7" : "Dia berkata", "8" : "kepadanya", "9" : "jadi", "10" : "maka jadilah"},
 			"83" : {"1" : "maka Maha Suci", "2" : "yang", "3" : "di tangan-Nya", "4" : "kekuasaan", "5" : "segala", "6" : "sesuatu", "7" : "dan kepadaNya", "8" : "kalian dikembalikan"}
-
 		}
 	}
 }

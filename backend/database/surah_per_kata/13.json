@@ -4,6 +4,7 @@
 		"name" : "الرعد",
 		"name_latin" : "Ar-Ra'd",
 		"number_of_ayah" : "43",
+		"number_of_words" : "853",
 		"text" : {
 			"1" : {"1" : "الٓمٓرۚ", "2" : "تِلْكَ", "3" : "ءَايَٰتُ", "4" : "ٱلْكِتَٰبِۗ", "5" : "وَٱلَّذِىٓ", "6" : "أُنزِلَ", "7" : "إِلَيْكَ", "8" : "مِن", "9" : "رَّبِّكَ", "10" : "ٱلْحَقُّ", "11" : "وَلَٰكِنَّ", "12" : "أَكْثَرَ", "13" : "ٱلنَّاسِ", "14" : "لَا", "15" : "يُؤْمِنُونَ"},
 			"2" : {"1" : "ٱللَّهُ", "2" : "ٱلَّذِى", "3" : "رَفَعَ", "4" : "ٱلسَّمَٰوَٰتِ", "5" : "بِغَيْرِ", "6" : "عَمَدٍ", "7" : "تَرَوْنَهَاۖ", "8" : "ثُمَّ", "9" : "ٱسْتَوَىٰ", "10" : "عَلَى", "11" : "ٱلْعَرْشِۖ", "12" : "وَسَخَّرَ", "13" : "ٱلشَّمْسَ", "14" : "وَٱلْقَمَرَۖ", "15" : "كُلٌّ", "16" : "يَجْرِى", "17" : "لِأَجَلٍ", "18" : "مُّسَمًّىۚ", "19" : "يُدَبِّرُ", "20" : "ٱلْأَمْرَ", "21" : "يُفَصِّلُ", "22" : "ٱلْءَايَٰتِ", "23" : "لَعَلَّكُم", "24" : "بِلِقَآءِ", "25" : "رَبِّكُمْ", "26" : "تُوقِنُونَ"},
@@ -93,7 +94,6 @@
 			"41" : {"1" : "ataukah tidak / bukan", "2" : "mereka melihat", "3" : "bahwasanya Kami", "4" : "Kami mendatangi", "5" : "bumi/daerah", "6" : "Kami menguranginya", "7" : "dari", "8" : "tepi-tepinya", "9" : "dan Allah", "10" : "menetapkan", "11" : "tidak", "12" : "dapat menolak", "13" : "bagi ketetapan hukumNya", "14" : "dan Dia", "15" : "Maha Cepat", "16" : "perhitungan"},
 			"42" : {"1" : "dan sungguh", "2" : "telah mengadakan tipu daya", "3" : "orang-orang yang", "4" : "dari", "5" : "sebelum mereka", "6" : "maka bagi Allah", "7" : "tipu daya", "8" : "semuanya", "9" : "Dia mengetahui", "10" : "apa yang", "11" : "diusahakan", "12" : "setiap", "13" : "diri", "14" : "dan akan mengetahui", "15" : "orang-orang", "16" : "untuk siapa", "17" : "kesudahan", "18" : "tempat"},
 			"43" : {"1" : "dan berkata", "2" : "orang-orang yang", "3" : "kafir/ingkar", "4" : "kamu bukan", "5" : "dijadikan seorang Rasul", "6" : "katakanlah", "7" : "cukuplah", "8" : "dengan Allah", "9" : "menjadi saksi", "10" : "antara aku", "11" : "dan antara kamu", "12" : "dan orang", "13" : "disisinya/mempunyai", "14" : "ilmu", "15" : "Al Kitab"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الروم",
 		"name_latin" : "Ar-Rum",
 		"number_of_ayah" : "60",
+		"number_of_words" : "817",
 		"text" : {
 			"1" : {"1" : "الٓمٓ"},
 			"2" : {"1" : "غُلِبَتِ", "2" : "ٱلرُّومُ"},
@@ -127,7 +128,6 @@
 			"58" : {"1" : "dan sesungguhnya", "2" : "Kami telah membuat", "3" : "untuk manusia", "4" : "dalam", "5" : "ini", "6" : "Al-Qur'an", "7" : "dari", "8" : "segala", "9" : "perumpamaan", "10" : "dan sungguh jika", "11" : "kamu datang pada mereka", "12" : "dengan suatu ayat", "13" : "pasti akan berkata", "14" : "orang-orang yang", "15" : "kafir/ingkar", "16" : "tidaklah", "17" : "kamu", "18" : "kecuali", "19" : "orang-orang yang membuat kepalsuan"},
 			"59" : {"1" : "seperti demikian", "2" : "mengunci mati/mencap", "3" : "Allah", "4" : "atas", "5" : "hati-hati", "6" : "orang-orang yang", "7" : "(mereka) tidak", "8" : "mengetahui/memahami"},
 			"60" : {"1" : "maka bersabarlah kamu", "2" : "sesungguhnya", "3" : "janji", "4" : "Allah", "5" : "hak/benar", "6" : "dan jangan", "7" : "sekali-kali menggelisahkan kamu", "8" : "orang-orang yang", "9" : "(mereka) tidak", "10" : "meyakini"}
-
 		}
 	}
 }

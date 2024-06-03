@@ -4,6 +4,7 @@
 		"name" : "الإنفطار",
 		"name_latin" : "Al-Infitar",
 		"number_of_ayah" : "19",
+		"number_of_words" : "80",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "ٱلسَّمَآءُ", "3" : "ٱنفَطَرَتْ"},
 			"2" : {"1" : "وَإِذَا", "2" : "ٱلْكَوَاكِبُ", "3" : "ٱنتَثَرَتْ"},
@@ -45,7 +46,6 @@
 			"17" : {"1" : "dan apakah", "2" : "kamu melihat", "3" : "apa", "4" : "hari", "5" : "pembalasan"},
 			"18" : {"1" : "kemudian", "2" : "apakah", "3" : "kamu melihat", "4" : "apa", "5" : "hari", "6" : "pembalasan"},
 			"19" : {"1" : "hari", "2" : "tidak", "3" : "berdaya/berkuasa", "4" : "manusia", "5" : "bagi diri/seseorang", "6" : "sesuatu/sedikitpun", "7" : "dan urusan", "8" : "pada hari itu", "9" : "bagi Allah"}
-
 		}
 	}
 }

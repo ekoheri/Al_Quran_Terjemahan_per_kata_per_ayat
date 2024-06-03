@@ -4,6 +4,7 @@
 		"name" : "القارعة",
 		"name_latin" : "Al-Qari'ah",
 		"number_of_ayah" : "11",
+		"number_of_words" : "36",
 		"text" : {
 			"1" : {"1" : "ٱلْقَارِعَةُ"},
 			"2" : {"1" : "مَا", "2" : "ٱلْقَارِعَةُ"},
@@ -29,7 +30,6 @@
 			"9" : {"1" : "maka tempat kembalinya", "2" : "jurang yang dalam/neraka Hawiyah"},
 			"10" : {"1" : "dan apakah", "2" : "kamu tahu", "3" : "apa", "4" : "itu"},
 			"11" : {"1" : "api", "2" : "sangat panas"}
-
 		}
 	}
 }

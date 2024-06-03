@@ -4,6 +4,7 @@
 		"name" : "المجادلة",
 		"name_latin" : "Al-Mujadalah",
 		"number_of_ayah" : "22",
+		"number_of_words" : "472",
 		"text" : {
 			"1" : {"1" : "قَدْ", "2" : "سَمِعَ", "3" : "ٱللَّهُ", "4" : "قَوْلَ", "5" : "ٱلَّتِى", "6" : "تُجَٰدِلُكَ", "7" : "فِى", "8" : "زَوْجِهَا", "9" : "وَتَشْتَكِىٓ", "10" : "إِلَى", "11" : "ٱللَّهِ", "12" : "وَٱللَّهُ", "13" : "يَسْمَعُ", "14" : "تَحَاوُرَكُمَآۚ", "15" : "إِنَّ", "16" : "ٱللَّهَ", "17" : "سَمِيعٌۢ", "18" : "بَصِيرٌ"},
 			"2" : {"1" : "ٱلَّذِينَ", "2" : "يُظَٰهِرُونَ", "3" : "مِنكُم", "4" : "مِّن", "5" : "نِّسَآئِهِم", "6" : "مَّا", "7" : "هُنَّ", "8" : "أُمَّهَٰتِهِمْۖ", "9" : "إِنْ", "10" : "أُمَّهَٰتُهُمْ", "11" : "إِلَّا", "12" : "ٱلَّٰٓـِٔى", "13" : "وَلَدْنَهُمْۚ", "14" : "وَإِنَّهُمْ", "15" : "لَيَقُولُونَ", "16" : "مُنكَرًا", "17" : "مِّنَ", "18" : "ٱلْقَوْلِ", "19" : "وَزُورًاۚ", "20" : "وَإِنَّ", "21" : "ٱللَّهَ", "22" : "لَعَفُوٌّ", "23" : "غَفُورٌ"},
@@ -51,7 +52,6 @@
 			"20" : {"1" : "sesunguhnya", "2" : "orang-orang yang", "3" : "(mereka) menentang", "4" : "Allah", "5" : "dan rasul-Nya", "6" : "mereka itu", "7" : "dalam", "8" : "orang-orang yang hina"},
 			"21" : {"1" : "menulis/menetapkan", "2" : "Allah", "3" : "pasti mengalahkan", "4" : "Aku", "5" : "dan rasul-Ku", "6" : "sesungguhnya", "7" : "Allah", "8" : "Maha Kuat", "9" : "Maha Perkasa"},
 			"22" : {"1" : "tidak", "2" : "akan mendapati", "3" : "suatu kaum", "4" : "mereka beriman", "5" : "kepada Allah", "6" : "dan hari", "7" : "akhir", "8" : "mereka berkasih sayang", "9" : "siapa/orang", "10" : "ia menentang", "11" : "Allah", "12" : "dan rasul-Nya", "13" : "walaupun", "14" : "adalah mereka", "15" : "bapak-bapak mereka", "16" : "atau", "17" : "anak-anak mereka", "18" : "atau", "19" : "saudara-saudara mereka", "20" : "atau", "21" : "keluarga mereka", "22" : "mereka itu", "23" : "(Allah) menetapkan", "24" : "dalam", "25" : "hati mereka", "26" : "keimanan", "27" : "dan Dia menguatkan mereka", "28" : "dengan roh pertolongan", "29" : "dari pada-Nya", "30" : "dan Dia memasukkan mereka", "31" : "surga", "32" : "mengalir", "33" : "dari", "34" : "bawahnya", "35" : "sungai-sungai", "36" : "mereka kekal", "37" : "di dalamnya", "38" : "meridai", "39" : "Allah", "40" : "dari mereka", "41" : "dan mereka rida", "42" : "dari pada-Nya", "43" : "mereka itu", "44" : "golongan", "45" : "Allah", "46" : "ketahuilah", "47" : "sesungguhnya", "48" : "golongan", "49" : "Allah", "50" : "mereka", "51" : "orang-orang yang beruntung"}
-
 		}
 	}
 }

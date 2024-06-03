@@ -4,6 +4,7 @@
 		"name" : "البينة",
 		"name_latin" : "Al-Bayyinah",
 		"number_of_ayah" : "8",
+		"number_of_words" : "94",
 		"text" : {
 			"1" : {"1" : "لَمْ", "2" : "يَكُنِ", "3" : "ٱلَّذِينَ", "4" : "كَفَرُوا۟", "5" : "مِنْ", "6" : "أَهْلِ", "7" : "ٱلْكِتَٰبِ", "8" : "وَٱلْمُشْرِكِينَ", "9" : "مُنفَكِّينَ", "10" : "حَتَّىٰ", "11" : "تَأْتِيَهُمُ", "12" : "ٱلْبَيِّنَةُ"},
 			"2" : {"1" : "رَسُولٌ", "2" : "مِّنَ", "3" : "ٱللَّهِ", "4" : "يَتْلُوا۟", "5" : "صُحُفًا", "6" : "مُّطَهَّرَةً"},
@@ -23,7 +24,6 @@
 			"6" : {"1" : "sesungguhnya", "2" : "orang-orang yang", "3" : "kafir/ingkar", "4" : "dari", "5" : "ahli", "6" : "kitab", "7" : "dan orang-orang musyrik", "8" : "dalam", "9" : "neraka", "10" : "jahanam", "11" : "mereka kekal", "12" : "di dalammnya", "13" : "mereka itu", "14" : "mereka", "15" : "seburuk-buruk", "16" : "makhluk"},
 			"7" : {"1" : "sesungguhnya", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mereka berbuat/beramal", "5" : "kebajikan/saleh", "6" : "mereka itu", "7" : "mereka", "8" : "sebaik-baik", "9" : "makhluk"},
 			"8" : {"1" : "balasan mereka", "2" : "disisi", "3" : "Tuhan mereka", "4" : "surga", "5" : "'Adn", "6" : "mengalir", "7" : "dari", "8" : "bawah", "9" : "sungai", "10" : "mereka kekal", "11" : "didalamnya", "12" : "selamanya", "13" : "suka/rida/puas", "14" : "Allah", "15" : "terhadap mereka", "16" : "dan mereka suka/rida/puas", "17" : "dari pada-Nya/kepada-Nya", "18" : "demikian itu", "19" : "bagi orang", "20" : "ia takut", "21" : "Tuhannya"}
-
 		}
 	}
 }

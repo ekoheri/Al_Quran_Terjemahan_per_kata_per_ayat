@@ -4,6 +4,7 @@
 		"name" : "الحاقة",
 		"name_latin" : "Al-Haqqah",
 		"number_of_ayah" : "52",
+		"number_of_words" : "258",
 		"text" : {
 			"1" : {"1" : "ٱلْحَآقَّةُ"},
 			"2" : {"1" : "مَا", "2" : "ٱلْحَآقَّةُ"},
@@ -111,7 +112,6 @@
 			"50" : {"1" : "dan sesungguhnya ia (Al Qur'an)", "2" : "benar-benar penyesalan", "3" : "atas", "4" : "orang-orang kafir"},
 			"51" : {"1" : "dan sesungguhnya (Al Qur'an)", "2" : "nyata-nyata kebenaran", "3" : "yang diyakini"},
 			"52" : {"1" : "maka bertasbihlah", "2" : "dengan nama", "3" : "Tuhanmu", "4" : "Maha Besar/Agung"}
-
 		}
 	}
 }

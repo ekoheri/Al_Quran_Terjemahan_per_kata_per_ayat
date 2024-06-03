@@ -4,6 +4,7 @@
 		"name" : "فصلت",
 		"name_latin" : "Fussilat",
 		"number_of_ayah" : "54",
+		"number_of_words" : "794",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "تَنزِيلٌ", "2" : "مِّنَ", "3" : "ٱلرَّحْمَٰنِ", "4" : "ٱلرَّحِيمِ"},
@@ -115,7 +116,6 @@
 			"52" : {"1" : "katakanlah", "2" : "bagaimana pendapatmu", "3" : "jika", "4" : "ia adalah", "5" : "dari", "6" : "sisi", "7" : "Allah", "8" : "kemudian", "9" : "kamu ingkar", "10" : "padanya", "11" : "siapakah", "12" : "lebih sesat", "13" : "dari pada orang", "14" : "dia", "15" : "dalam", "16" : "perselisihan", "17" : "jauh"},
 			"53" : {"1" : "akan Kami perlihatkan kepada mereka", "2" : "tanda-tanda Kami", "3" : "pada", "4" : "segenap penjuru", "5" : "dan pada", "6" : "diri mereka", "7" : "sehingga", "8" : "jelas", "9" : "bagi mereka", "10" : "bahwasanya ia", "11" : "hak/benar", "12" : "ataukah tidak", "13" : "cukup", "14" : "dengan Tuhanmu", "15" : "bahwasanya Dia", "16" : "atas", "17" : "segala", "18" : "sesuatu", "19" : "menjadi saksi"},
 			"54" : {"1" : "ingatlah", "2" : "sesungguhnya mereka", "3" : "dalam", "4" : "keraguan", "5" : "dari", "6" : "pertemuan", "7" : "Tuhan mereka", "8" : "ingatlah", "9" : "sesungguhnya Dia", "10" : "dengan segala", "11" : "sesuatu", "12" : "Maha Meliputi"}
-
 		}
 	}
 }

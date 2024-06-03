@@ -4,6 +4,7 @@
 		"name" : "الرحمن",
 		"name_latin" : "Ar-Rahman",
 		"number_of_ayah" : "78",
+		"number_of_words" : "351",
 		"text" : {
 			"1" : {"1" : "ٱلرَّحْمَٰنُ"},
 			"2" : {"1" : "عَلَّمَ", "2" : "ٱلْقُرْءَانَ"},
@@ -163,7 +164,6 @@
 			"76" : {"1" : "mereka bersandar", "2" : "diatas", "3" : "bantal-bantal", "4" : "hijau", "5" : "dan permandani", "6" : "bagus indah"},
 			"77" : {"1" : "maka yang mana", "2" : "ni'mat", "3" : "Tuhanmu berdua", "4" : "kamu dustakan"},
 			"78" : {"1" : "Maha Tinggi/Agung", "2" : "nama", "3" : "Tuhanmu", "4" : "memiliki/mempunyai", "5" : "Kebesaran", "6" : "dan Kemuliaan"}
-
 		}
 	}
 }

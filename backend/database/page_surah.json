@@ -765,133 +765,133 @@
         ]
     },
     "surah" : {
-        "1": {"name_latin": "Al-Fatihah", "jumlah_ayat": "7", "start_page": "1"}, 
-        "2": {"name_latin": "Al-Baqarah", "jumlah_ayat": "286", "start_page": "2"}, 
-        "3": {"name_latin": "Ali `Imran", "jumlah_ayat": "200", "start_page": "50"}, 
-        "4": {"name_latin": "An-Nisa`", "jumlah_ayat": "176", "start_page": "77"}, 
-        "5": {"name_latin": "Al-Ma`idah", "jumlah_ayat": "120", "start_page": "106"}, 
-        "6": {"name_latin": "Al-An`am", "jumlah_ayat": "165", "start_page": "128"}, 
-        "7": {"name_latin": "Al-A`raf", "jumlah_ayat": "206", "start_page": "151"}, 
-        "8": {"name_latin": "Al-Anfal", "jumlah_ayat": "75", "start_page": "177"}, 
-        "9": {"name_latin": "At-Taubah", "jumlah_ayat": "129", "start_page": "187"}, 
-        "10": {"name_latin": "Yunus", "jumlah_ayat": "109", "start_page": "208"}, 
-        "11": {"name_latin": "Hud", "jumlah_ayat": "123", "start_page": "221"}, 
-        "12": {"name_latin": "Yusuf", "jumlah_ayat": "111", "start_page": "235"}, 
-        "13": {"name_latin": "Ar-Ra`d", "jumlah_ayat": "43", "start_page": "249"}, 
-        "14": {"name_latin": "Ibrahim", "jumlah_ayat": "52", "start_page": "255"}, 
-        "15": {"name_latin": "Al-Hijr", "jumlah_ayat": "99", "start_page": "262"}, 
-        "16": {"name_latin": "An-Nahl", "jumlah_ayat": "128", "start_page": "267"}, 
-        "17": {"name_latin": "Al-Isra`", "jumlah_ayat": "111", "start_page": "282"}, 
-        "18": {"name_latin": "Al-Kahf", "jumlah_ayat": "110", "start_page": "293"}, 
-        "19": {"name_latin": "Maryam", "jumlah_ayat": "98", "start_page": "305"}, 
-        "20": {"name_latin": "Taha", "jumlah_ayat": "135", "start_page": "312"}, 
-        "21": {"name_latin": "Al-Anbiya`", "jumlah_ayat": "112", "start_page": "322"}, 
-        "22": {"name_latin": "Al-Hajj", "jumlah_ayat": "78", "start_page": "332"}, 
-        "23": {"name_latin": "Al-Mu`minun", "jumlah_ayat": "118", "start_page": "342"}, 
-        "24": {"name_latin": "An-Nur", "jumlah_ayat": "64", "start_page": "350"}, 
-        "25": {"name_latin": "Al-Furqan", "jumlah_ayat": "77", "start_page": "359"}, 
-        "26": {"name_latin": "Asy-Syu`ara`", "jumlah_ayat": "227", "start_page": "367"}, 
-        "27": {"name_latin": "An-Naml", "jumlah_ayat": "93", "start_page": "377"}, 
-        "28": {"name_latin": "Al-Qasas", "jumlah_ayat": "88", "start_page": "385"}, 
-        "29": {"name_latin": "Al-`Ankabut", "jumlah_ayat": "69", "start_page": "396"}, 
-        "30": {"name_latin": "Ar-Rum", "jumlah_ayat": "60", "start_page": "404"}, 
-        "31": {"name_latin": "Luqman", "jumlah_ayat": "34", "start_page": "411"}, 
-        "32": {"name_latin": "As-Sajdah", "jumlah_ayat": "30", "start_page": "415"}, 
-        "33": {"name_latin": "Al-Ahzab", "jumlah_ayat": "73", "start_page": "418"}, 
-        "34": {"name_latin": "Saba`", "jumlah_ayat": "54", "start_page": "428"}, 
-        "35": {"name_latin": "Fatir", "jumlah_ayat": "45", "start_page": "434"}, 
-        "36": {"name_latin": "Yasin", "jumlah_ayat": "83", "start_page": "440"}, 
-        "37": {"name_latin": "As-Saffat", "jumlah_ayat": "182", "start_page": "446"}, 
-        "38": {"name_latin": "Sad", "jumlah_ayat": "88", "start_page": "453"}, 
-        "39": {"name_latin": "Az-Zumar", "jumlah_ayat": "75", "start_page": "458"}, 
-        "40": {"name_latin": "Gafir", "jumlah_ayat": "85", "start_page": "467"}, 
-        "41": {"name_latin": "Fussilat", "jumlah_ayat": "54", "start_page": "477"}, 
-        "42": {"name_latin": "Asy-Syura", "jumlah_ayat": "53", "start_page": "483"}, 
-        "43": {"name_latin": "Az-Zukhruf", "jumlah_ayat": "89", "start_page": "489"}, 
-        "44": {"name_latin": "Ad-Dukhan", "jumlah_ayat": "59", "start_page": "496"}, 
-        "45": {"name_latin": "Al-Jasiyah", "jumlah_ayat": "37", "start_page": "499"}, 
-        "46": {"name_latin": "Al-Ahqaf", "jumlah_ayat": "35", "start_page": "502"}, 
-        "47": {"name_latin": "Muhammad", "jumlah_ayat": "38", "start_page": "507"}, 
-        "48": {"name_latin": "Al-Fath", "jumlah_ayat": "29", "start_page": "511"}, 
-        "49": {"name_latin": "Al-Hujurat", "jumlah_ayat": "18", "start_page": "515"}, 
-        "50": {"name_latin": "Qaf", "jumlah_ayat": "45", "start_page": "518"}, 
-        "51": {"name_latin": "Az-Zariyat", "jumlah_ayat": "60", "start_page": "520"}, 
-        "52": {"name_latin": "At-Tur", "jumlah_ayat": "49", "start_page": "523"}, 
-        "53": {"name_latin": "An-Najm", "jumlah_ayat": "62", "start_page": "526"}, 
-        "54": {"name_latin": "Al-Qamar", "jumlah_ayat": "55", "start_page": "528"}, 
-        "55": {"name_latin": "Ar-Rahman", "jumlah_ayat": "78", "start_page": "531"}, 
-        "56": {"name_latin": "Al-Waqi`ah", "jumlah_ayat": "96", "start_page": "534"}, 
-        "57": {"name_latin": "Al-Hadid", "jumlah_ayat": "29", "start_page": "537"}, 
-        "58": {"name_latin": "Al-Mujadalah", "jumlah_ayat": "22", "start_page": "542"}, 
-        "59": {"name_latin": "Al-Hasyr", "jumlah_ayat": "24", "start_page": "545"}, 
-        "60": {"name_latin": "Al-Mumtahanah", "jumlah_ayat": "13", "start_page": "549"}, 
-        "61": {"name_latin": "As-Saff", "jumlah_ayat": "14", "start_page": "551"}, 
-        "62": {"name_latin": "Al-Jumu`ah", "jumlah_ayat": "11", "start_page": "553"}, 
-        "63": {"name_latin": "Al-Munafiqun", "jumlah_ayat": "11", "start_page": "554"}, 
-        "64": {"name_latin": "At-Tagabun", "jumlah_ayat": "18", "start_page": "556"}, 
-        "65": {"name_latin": "At-Talaq", "jumlah_ayat": "12", "start_page": "558"}, 
-        "66": {"name_latin": "At-Tahrim", "jumlah_ayat": "12", "start_page": "560"}, 
-        "67": {"name_latin": "Al-Mulk", "jumlah_ayat": "30", "start_page": "562"}, 
-        "68": {"name_latin": "Al-Qalam", "jumlah_ayat": "52", "start_page": "564"}, 
-        "69": {"name_latin": "Al-Haqqah", "jumlah_ayat": "52", "start_page": "566"}, 
-        "70": {"name_latin": "Al-Ma`arij", "jumlah_ayat": "44", "start_page": "568"}, 
-        "71": {"name_latin": "Nuh", "jumlah_ayat": "28", "start_page": "570"}, 
-        "72": {"name_latin": "Al-Jinn", "jumlah_ayat": "28", "start_page": "572"}, 
-        "73": {"name_latin": "Al-Muzzammil", "jumlah_ayat": "20", "start_page": "574"}, 
-        "74": {"name_latin": "Al-Muddassir", "jumlah_ayat": "56", "start_page": "575"}, 
-        "75": {"name_latin": "Al-Qiyamah", "jumlah_ayat": "40", "start_page": "577"}, 
-        "76": {"name_latin": "Al-Insan", "jumlah_ayat": "31", "start_page": "578"}, 
-        "77": {"name_latin": "Al-Mursalat", "jumlah_ayat": "50", "start_page": "580"}, 
-        "78": {"name_latin": "An-Naba`", "jumlah_ayat": "40", "start_page": "582"}, 
-        "79": {"name_latin": "An-Nazi`at", "jumlah_ayat": "46", "start_page": "583"}, 
-        "80": {"name_latin": "`Abasa", "jumlah_ayat": "42", "start_page": "585"}, 
-        "81": {"name_latin": "At-Takwir", "jumlah_ayat": "29", "start_page": "586"}, 
-        "82": {"name_latin": "Al-Infitar", "jumlah_ayat": "19", "start_page": "587"}, 
-        "83": {"name_latin": "Al-Mutaffifin", "jumlah_ayat": "36", "start_page": "587"}, 
-        "84": {"name_latin": "Al-Insyiqaq", "jumlah_ayat": "25", "start_page": "589"}, 
-        "85": {"name_latin": "Al-Buruj", "jumlah_ayat": "22", "start_page": "590"}, 
-        "86": {"name_latin": "At-Tariq", "jumlah_ayat": "17", "start_page": "591"}, 
-        "87": {"name_latin": "Al-A`la", "jumlah_ayat": "19", "start_page": "591"}, 
-        "88": {"name_latin": "Al-Gasyiyah", "jumlah_ayat": "26", "start_page": "592"}, 
-        "89": {"name_latin": "Al-Fajr", "jumlah_ayat": "30", "start_page": "593"}, 
-        "90": {"name_latin": "Al-Balad", "jumlah_ayat": "20", "start_page": "594"}, 
-        "91": {"name_latin": "Asy-Syams", "jumlah_ayat": "15", "start_page": "595"}, 
-        "92": {"name_latin": "Al-Lail", "jumlah_ayat": "21", "start_page": "595"}, 
-        "93": {"name_latin": "Ad-Duha", "jumlah_ayat": "11", "start_page": "596"}, 
-        "94": {"name_latin": "Asy-Syarh", "jumlah_ayat": "8", "start_page": "596"}, 
-        "95": {"name_latin": "At-Tin", "jumlah_ayat": "8", "start_page": "597"}, 
-        "96": {"name_latin": "Al-`Alaq", "jumlah_ayat": "19", "start_page": "597"}, 
-        "97": {"name_latin": "Al-Qadr", "jumlah_ayat": "5", "start_page": "598"}, 
-        "98": {"name_latin": "Al-Bayyinah", "jumlah_ayat": "8", "start_page": "598"}, 
-        "99": {"name_latin": "Az-Zalzalah", "jumlah_ayat": "8", "start_page": "599"}, 
-        "100": {"name_latin": "Al-`Adiyat", "jumlah_ayat": "11", "start_page": "599"}, 
-        "101": {"name_latin": "Al-Qari`ah", "jumlah_ayat": "11", "start_page": "600"}, 
-        "102": {"name_latin": "At-Takasur", "jumlah_ayat": "8", "start_page": "600"}, 
-        "103": {"name_latin": "Al-`Asr", "jumlah_ayat": "3", "start_page": "601"}, 
-        "104": {"name_latin": "Al-Humazah", "jumlah_ayat": "9", "start_page": "601"}, 
-        "105": {"name_latin": "Al-Fil", "jumlah_ayat": "5", "start_page": "601"}, 
-        "106": {"name_latin": "Quraisy", "jumlah_ayat": "4", "start_page": "602"}, 
-        "107": {"name_latin": "Al-Ma`un", "jumlah_ayat": "7", "start_page": "602"}, 
-        "108": {"name_latin": "Al-Kausar", "jumlah_ayat": "3", "start_page": "602"}, 
-        "109": {"name_latin": "Al-Kafirun", "jumlah_ayat": "6", "start_page": "603"}, 
-        "110": {"name_latin": "An-Nasr", "jumlah_ayat": "3", "start_page": "603"}, 
-        "111": {"name_latin": "Al-Lahab", "jumlah_ayat": "5", "start_page": "603"}, 
-        "112": {"name_latin": "Al-Ikhlas", "jumlah_ayat": "4", "start_page": "604"}, 
-        "113": {"name_latin": "Al-Falaq", "jumlah_ayat": "5", "start_page": "604"}, 
-        "114": {"name_latin": "An-Nas", "jumlah_ayat": "6", "start_page": "604"}     
+        "1": {"name_latin": "Al-Fatihah", "number_of_ayah": "7", "start_page": "1"}, 
+        "2": {"name_latin": "Al-Baqarah", "number_of_ayah": "286", "start_page": "2"}, 
+        "3": {"name_latin": "Ali `Imran", "number_of_ayah": "200", "start_page": "50"}, 
+        "4": {"name_latin": "An-Nisa`", "number_of_ayah": "176", "start_page": "77"}, 
+        "5": {"name_latin": "Al-Ma`idah", "number_of_ayah": "120", "start_page": "106"}, 
+        "6": {"name_latin": "Al-An`am", "number_of_ayah": "165", "start_page": "128"}, 
+        "7": {"name_latin": "Al-A`raf", "number_of_ayah": "206", "start_page": "151"}, 
+        "8": {"name_latin": "Al-Anfal", "number_of_ayah": "75", "start_page": "177"}, 
+        "9": {"name_latin": "At-Taubah", "number_of_ayah": "129", "start_page": "187"}, 
+        "10": {"name_latin": "Yunus", "number_of_ayah": "109", "start_page": "208"}, 
+        "11": {"name_latin": "Hud", "number_of_ayah": "123", "start_page": "221"}, 
+        "12": {"name_latin": "Yusuf", "number_of_ayah": "111", "start_page": "235"}, 
+        "13": {"name_latin": "Ar-Ra`d", "number_of_ayah": "43", "start_page": "249"}, 
+        "14": {"name_latin": "Ibrahim", "number_of_ayah": "52", "start_page": "255"}, 
+        "15": {"name_latin": "Al-Hijr", "number_of_ayah": "99", "start_page": "262"}, 
+        "16": {"name_latin": "An-Nahl", "number_of_ayah": "128", "start_page": "267"}, 
+        "17": {"name_latin": "Al-Isra`", "number_of_ayah": "111", "start_page": "282"}, 
+        "18": {"name_latin": "Al-Kahf", "number_of_ayah": "110", "start_page": "293"}, 
+        "19": {"name_latin": "Maryam", "number_of_ayah": "98", "start_page": "305"}, 
+        "20": {"name_latin": "Taha", "number_of_ayah": "135", "start_page": "312"}, 
+        "21": {"name_latin": "Al-Anbiya`", "number_of_ayah": "112", "start_page": "322"}, 
+        "22": {"name_latin": "Al-Hajj", "number_of_ayah": "78", "start_page": "332"}, 
+        "23": {"name_latin": "Al-Mu`minun", "number_of_ayah": "118", "start_page": "342"}, 
+        "24": {"name_latin": "An-Nur", "number_of_ayah": "64", "start_page": "350"}, 
+        "25": {"name_latin": "Al-Furqan", "number_of_ayah": "77", "start_page": "359"}, 
+        "26": {"name_latin": "Asy-Syu`ara`", "number_of_ayah": "227", "start_page": "367"}, 
+        "27": {"name_latin": "An-Naml", "number_of_ayah": "93", "start_page": "377"}, 
+        "28": {"name_latin": "Al-Qasas", "number_of_ayah": "88", "start_page": "385"}, 
+        "29": {"name_latin": "Al-`Ankabut", "number_of_ayah": "69", "start_page": "396"}, 
+        "30": {"name_latin": "Ar-Rum", "number_of_ayah": "60", "start_page": "404"}, 
+        "31": {"name_latin": "Luqman", "number_of_ayah": "34", "start_page": "411"}, 
+        "32": {"name_latin": "As-Sajdah", "number_of_ayah": "30", "start_page": "415"}, 
+        "33": {"name_latin": "Al-Ahzab", "number_of_ayah": "73", "start_page": "418"}, 
+        "34": {"name_latin": "Saba`", "number_of_ayah": "54", "start_page": "428"}, 
+        "35": {"name_latin": "Fatir", "number_of_ayah": "45", "start_page": "434"}, 
+        "36": {"name_latin": "Yasin", "number_of_ayah": "83", "start_page": "440"}, 
+        "37": {"name_latin": "As-Saffat", "number_of_ayah": "182", "start_page": "446"}, 
+        "38": {"name_latin": "Sad", "number_of_ayah": "88", "start_page": "453"}, 
+        "39": {"name_latin": "Az-Zumar", "number_of_ayah": "75", "start_page": "458"}, 
+        "40": {"name_latin": "Gafir", "number_of_ayah": "85", "start_page": "467"}, 
+        "41": {"name_latin": "Fussilat", "number_of_ayah": "54", "start_page": "477"}, 
+        "42": {"name_latin": "Asy-Syura", "number_of_ayah": "53", "start_page": "483"}, 
+        "43": {"name_latin": "Az-Zukhruf", "number_of_ayah": "89", "start_page": "489"}, 
+        "44": {"name_latin": "Ad-Dukhan", "number_of_ayah": "59", "start_page": "496"}, 
+        "45": {"name_latin": "Al-Jasiyah", "number_of_ayah": "37", "start_page": "499"}, 
+        "46": {"name_latin": "Al-Ahqaf", "number_of_ayah": "35", "start_page": "502"}, 
+        "47": {"name_latin": "Muhammad", "number_of_ayah": "38", "start_page": "507"}, 
+        "48": {"name_latin": "Al-Fath", "number_of_ayah": "29", "start_page": "511"}, 
+        "49": {"name_latin": "Al-Hujurat", "number_of_ayah": "18", "start_page": "515"}, 
+        "50": {"name_latin": "Qaf", "number_of_ayah": "45", "start_page": "518"}, 
+        "51": {"name_latin": "Az-Zariyat", "number_of_ayah": "60", "start_page": "520"}, 
+        "52": {"name_latin": "At-Tur", "number_of_ayah": "49", "start_page": "523"}, 
+        "53": {"name_latin": "An-Najm", "number_of_ayah": "62", "start_page": "526"}, 
+        "54": {"name_latin": "Al-Qamar", "number_of_ayah": "55", "start_page": "528"}, 
+        "55": {"name_latin": "Ar-Rahman", "number_of_ayah": "78", "start_page": "531"}, 
+        "56": {"name_latin": "Al-Waqi`ah", "number_of_ayah": "96", "start_page": "534"}, 
+        "57": {"name_latin": "Al-Hadid", "number_of_ayah": "29", "start_page": "537"}, 
+        "58": {"name_latin": "Al-Mujadalah", "number_of_ayah": "22", "start_page": "542"}, 
+        "59": {"name_latin": "Al-Hasyr", "number_of_ayah": "24", "start_page": "545"}, 
+        "60": {"name_latin": "Al-Mumtahanah", "number_of_ayah": "13", "start_page": "549"}, 
+        "61": {"name_latin": "As-Saff", "number_of_ayah": "14", "start_page": "551"}, 
+        "62": {"name_latin": "Al-Jumu`ah", "number_of_ayah": "11", "start_page": "553"}, 
+        "63": {"name_latin": "Al-Munafiqun", "number_of_ayah": "11", "start_page": "554"}, 
+        "64": {"name_latin": "At-Tagabun", "number_of_ayah": "18", "start_page": "556"}, 
+        "65": {"name_latin": "At-Talaq", "number_of_ayah": "12", "start_page": "558"}, 
+        "66": {"name_latin": "At-Tahrim", "number_of_ayah": "12", "start_page": "560"}, 
+        "67": {"name_latin": "Al-Mulk", "number_of_ayah": "30", "start_page": "562"}, 
+        "68": {"name_latin": "Al-Qalam", "number_of_ayah": "52", "start_page": "564"}, 
+        "69": {"name_latin": "Al-Haqqah", "number_of_ayah": "52", "start_page": "566"}, 
+        "70": {"name_latin": "Al-Ma`arij", "number_of_ayah": "44", "start_page": "568"}, 
+        "71": {"name_latin": "Nuh", "number_of_ayah": "28", "start_page": "570"}, 
+        "72": {"name_latin": "Al-Jinn", "number_of_ayah": "28", "start_page": "572"}, 
+        "73": {"name_latin": "Al-Muzzammil", "number_of_ayah": "20", "start_page": "574"}, 
+        "74": {"name_latin": "Al-Muddassir", "number_of_ayah": "56", "start_page": "575"}, 
+        "75": {"name_latin": "Al-Qiyamah", "number_of_ayah": "40", "start_page": "577"}, 
+        "76": {"name_latin": "Al-Insan", "number_of_ayah": "31", "start_page": "578"}, 
+        "77": {"name_latin": "Al-Mursalat", "number_of_ayah": "50", "start_page": "580"}, 
+        "78": {"name_latin": "An-Naba`", "number_of_ayah": "40", "start_page": "582"}, 
+        "79": {"name_latin": "An-Nazi`at", "number_of_ayah": "46", "start_page": "583"}, 
+        "80": {"name_latin": "`Abasa", "number_of_ayah": "42", "start_page": "585"}, 
+        "81": {"name_latin": "At-Takwir", "number_of_ayah": "29", "start_page": "586"}, 
+        "82": {"name_latin": "Al-Infitar", "number_of_ayah": "19", "start_page": "587"}, 
+        "83": {"name_latin": "Al-Mutaffifin", "number_of_ayah": "36", "start_page": "587"}, 
+        "84": {"name_latin": "Al-Insyiqaq", "number_of_ayah": "25", "start_page": "589"}, 
+        "85": {"name_latin": "Al-Buruj", "number_of_ayah": "22", "start_page": "590"}, 
+        "86": {"name_latin": "At-Tariq", "number_of_ayah": "17", "start_page": "591"}, 
+        "87": {"name_latin": "Al-A`la", "number_of_ayah": "19", "start_page": "591"}, 
+        "88": {"name_latin": "Al-Gasyiyah", "number_of_ayah": "26", "start_page": "592"}, 
+        "89": {"name_latin": "Al-Fajr", "number_of_ayah": "30", "start_page": "593"}, 
+        "90": {"name_latin": "Al-Balad", "number_of_ayah": "20", "start_page": "594"}, 
+        "91": {"name_latin": "Asy-Syams", "number_of_ayah": "15", "start_page": "595"}, 
+        "92": {"name_latin": "Al-Lail", "number_of_ayah": "21", "start_page": "595"}, 
+        "93": {"name_latin": "Ad-Duha", "number_of_ayah": "11", "start_page": "596"}, 
+        "94": {"name_latin": "Asy-Syarh", "number_of_ayah": "8", "start_page": "596"}, 
+        "95": {"name_latin": "At-Tin", "number_of_ayah": "8", "start_page": "597"}, 
+        "96": {"name_latin": "Al-`Alaq", "number_of_ayah": "19", "start_page": "597"}, 
+        "97": {"name_latin": "Al-Qadr", "number_of_ayah": "5", "start_page": "598"}, 
+        "98": {"name_latin": "Al-Bayyinah", "number_of_ayah": "8", "start_page": "598"}, 
+        "99": {"name_latin": "Az-Zalzalah", "number_of_ayah": "8", "start_page": "599"}, 
+        "100": {"name_latin": "Al-`Adiyat", "number_of_ayah": "11", "start_page": "599"}, 
+        "101": {"name_latin": "Al-Qari`ah", "number_of_ayah": "11", "start_page": "600"}, 
+        "102": {"name_latin": "At-Takasur", "number_of_ayah": "8", "start_page": "600"}, 
+        "103": {"name_latin": "Al-`Asr", "number_of_ayah": "3", "start_page": "601"}, 
+        "104": {"name_latin": "Al-Humazah", "number_of_ayah": "9", "start_page": "601"}, 
+        "105": {"name_latin": "Al-Fil", "number_of_ayah": "5", "start_page": "601"}, 
+        "106": {"name_latin": "Quraisy", "number_of_ayah": "4", "start_page": "602"}, 
+        "107": {"name_latin": "Al-Ma`un", "number_of_ayah": "7", "start_page": "602"}, 
+        "108": {"name_latin": "Al-Kausar", "number_of_ayah": "3", "start_page": "602"}, 
+        "109": {"name_latin": "Al-Kafirun", "number_of_ayah": "6", "start_page": "603"}, 
+        "110": {"name_latin": "An-Nasr", "number_of_ayah": "3", "start_page": "603"}, 
+        "111": {"name_latin": "Al-Lahab", "number_of_ayah": "5", "start_page": "603"}, 
+        "112": {"name_latin": "Al-Ikhlas", "number_of_ayah": "4", "start_page": "604"}, 
+        "113": {"name_latin": "Al-Falaq", "number_of_ayah": "5", "start_page": "604"}, 
+        "114": {"name_latin": "An-Nas", "number_of_ayah": "6", "start_page": "604"}     
     },
     "juz" : {
         "1": {
             "start": {
                 "page": "1",
                 "surah": "1",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Fatihah"
             },
             "end": {
                 "page": "21",
                 "surah": "2",
-                "ayat": "141",
+                "ayah": "141",
                 "name_latin": "Al-Baqarah"
             }
         },
@@ -899,13 +899,13 @@
             "start": {
                 "page": "22",
                 "surah": "2",
-                "ayat": "142",
+                "ayah": "142",
                 "name_latin": "Al-Baqarah"
             },
             "end": {
                 "page": "41",
                 "surah": "2",
-                "ayat": "252",
+                "ayah": "252",
                 "name_latin": "Al-Baqarah"
             }
         },
@@ -913,13 +913,13 @@
             "start": {
                 "page": "42",
                 "surah": "2",
-                "ayat": "253",
+                "ayah": "253",
                 "name_latin": "Al-Baqarah"
             },
             "end": {
                 "page": "61",
                 "surah": "3",
-                "ayat": "92",
+                "ayah": "92",
                 "name_latin": "Ali `Imran"
             }
         },
@@ -927,13 +927,13 @@
             "start": {
                 "page": "62",
                 "surah": "3",
-                "ayat": "93",
+                "ayah": "93",
                 "name_latin": "Ali `Imran"
             },
             "end": {
                 "page": "81",
                 "surah": "4",
-                "ayat": "23",
+                "ayah": "23",
                 "name_latin": "An-Nisa`"
             }
         },
@@ -941,13 +941,13 @@
             "start": {
                 "page": "82",
                 "surah": "4",
-                "ayat": "24",
+                "ayah": "24",
                 "name_latin": "An-Nisa`"
             },
             "end": {
                 "page": "101",
                 "surah": "4",
-                "ayat": "147",
+                "ayah": "147",
                 "name_latin": "An-Nisa`"
             }
         },
@@ -955,13 +955,13 @@
             "start": {
                 "page": "102",
                 "surah": "4",
-                "ayat": "148",
+                "ayah": "148",
                 "name_latin": "An-Nisa`"
             },
             "end": {
                 "page": "121",
                 "surah": "5",
-                "ayat": "81",
+                "ayah": "81",
                 "name_latin": "Al-Ma`idah"
             }
         },
@@ -969,13 +969,13 @@
             "start": {
                 "page": "121",
                 "surah": "5",
-                "ayat": "82",
+                "ayah": "82",
                 "name_latin": "Al-Ma`idah"
             },
             "end": {
                 "page": "141",
                 "surah": "6",
-                "ayat": "110",
+                "ayah": "110",
                 "name_latin": "Al-An`am"
             }
         },
@@ -983,13 +983,13 @@
             "start": {
                 "page": "142",
                 "surah": "6",
-                "ayat": "111",
+                "ayah": "111",
                 "name_latin": "Al-An`am"
             },
             "end": {
                 "page": "161",
                 "surah": "7",
-                "ayat": "87",
+                "ayah": "87",
                 "name_latin": "Al-A`raf"
             }
         },
@@ -997,13 +997,13 @@
             "start": {
                 "page": "162",
                 "surah": "7",
-                "ayat": "88",
+                "ayah": "88",
                 "name_latin": "Al-A`raf"
             },
             "end": {
                 "page": "181",
                 "surah": "8",
-                "ayat": "40",
+                "ayah": "40",
                 "name_latin": "Al-Anfal"
             }
         },
@@ -1011,13 +1011,13 @@
             "start": {
                 "page": "182",
                 "surah": "8",
-                "ayat": "41",
+                "ayah": "41",
                 "name_latin": "Al-Anfal"
             },
             "end": {
                 "page": "201",
                 "surah": "9",
-                "ayat": "92",
+                "ayah": "92",
                 "name_latin": "At-Taubah"
             }
         },
@@ -1025,13 +1025,13 @@
             "start": {
                 "page": "201",
                 "surah": "9",
-                "ayat": "93",
+                "ayah": "93",
                 "name_latin": "At-Taubah"
             },
             "end": {
                 "page": "221",
                 "surah": "11",
-                "ayat": "5",
+                "ayah": "5",
                 "name_latin": "Hud"
             }
         },
@@ -1039,13 +1039,13 @@
             "start": {
                 "page": "221",
                 "surah": "11",
-                "ayat": "6",
+                "ayah": "6",
                 "name_latin": "Hud"
             },
             "end": {
                 "page": "241",
                 "surah": "12",
-                "ayat": "52",
+                "ayah": "52",
                 "name_latin": "Yusuf"
             }
         },
@@ -1053,13 +1053,13 @@
             "start": {
                 "page": "242",
                 "surah": "12",
-                "ayat": "53",
+                "ayah": "53",
                 "name_latin": "Yusuf"
             },
             "end": {
                 "page": "261",
                 "surah": "14",
-                "ayat": "52",
+                "ayah": "52",
                 "name_latin": "Ibrahim"
             }
         },
@@ -1067,13 +1067,13 @@
             "start": {
                 "page": "261",
                 "surah": "15",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Hijr"
             },
             "end": {
                 "page": "281",
                 "surah": "16",
-                "ayat": "128",
+                "ayah": "128",
                 "name_latin": "An-Nahl"
             }
         },
@@ -1081,13 +1081,13 @@
             "start": {
                 "page": "282",
                 "surah": "17",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Isra`"
             },
             "end": {
                 "page": "301",
                 "surah": "18",
-                "ayat": "74",
+                "ayah": "74",
                 "name_latin": "Al-Kahf"
             }
         },
@@ -1095,13 +1095,13 @@
             "start": {
                 "page": "302",
                 "surah": "18",
-                "ayat": "75",
+                "ayah": "75",
                 "name_latin": "Al-Kahf"
             },
             "end": {
                 "page": "321",
                 "surah": "20",
-                "ayat": "135",
+                "ayah": "135",
                 "name_latin": "Taha"
             }
         },
@@ -1109,13 +1109,13 @@
             "start": {
                 "page": "322",
                 "surah": "21",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Anbiya`"
             },
             "end": {
                 "page": "341",
                 "surah": "22",
-                "ayat": "78",
+                "ayah": "78",
                 "name_latin": "Al-Hajj"
             }
         },
@@ -1123,13 +1123,13 @@
             "start": {
                 "page": "342",
                 "surah": "23",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Mu`minun"
             },
             "end": {
                 "page": "362",
                 "surah": "25",
-                "ayat": "20",
+                "ayah": "20",
                 "name_latin": "Al-Furqan"
             }
         },
@@ -1137,13 +1137,13 @@
             "start": {
                 "page": "363",
                 "surah": "25",
-                "ayat": "21",
+                "ayah": "21",
                 "name_latin": "Al-Furqan"
             },
             "end": {
                 "page": "381",
                 "surah": "27",
-                "ayat": "55",
+                "ayah": "55",
                 "name_latin": "An-Naml"
             }
         },
@@ -1151,13 +1151,13 @@
             "start": {
                 "page": "382",
                 "surah": "27",
-                "ayat": "56",
+                "ayah": "56",
                 "name_latin": "An-Naml"
             },
             "end": {
                 "page": "401",
                 "surah": "29",
-                "ayat": "45",
+                "ayah": "45",
                 "name_latin": "Al-`Ankabut"
             }
         },
@@ -1165,13 +1165,13 @@
             "start": {
                 "page": "402",
                 "surah": "29",
-                "ayat": "46",
+                "ayah": "46",
                 "name_latin": "Al-`Ankabut"
             },
             "end": {
                 "page": "421",
                 "surah": "33",
-                "ayat": "30",
+                "ayah": "30",
                 "name_latin": "Al-Ahzab"
             }
         },
@@ -1179,13 +1179,13 @@
             "start": {
                 "page": "422",
                 "surah": "33",
-                "ayat": "31",
+                "ayah": "31",
                 "name_latin": "Al-Ahzab"
             },
             "end": {
                 "page": "441",
                 "surah": "36",
-                "ayat": "27",
+                "ayah": "27",
                 "name_latin": "Yasin"
             }
         },
@@ -1193,13 +1193,13 @@
             "start": {
                 "page": "442",
                 "surah": "36",
-                "ayat": "28",
+                "ayah": "28",
                 "name_latin": "Yasin"
             },
             "end": {
                 "page": "461",
                 "surah": "39",
-                "ayat": "31",
+                "ayah": "31",
                 "name_latin": "Az-Zumar"
             }
         },
@@ -1207,13 +1207,13 @@
             "start": {
                 "page": "461",
                 "surah": "39",
-                "ayat": "32",
+                "ayah": "32",
                 "name_latin": "Az-Zumar"
             },
             "end": {
                 "page": "481",
                 "surah": "41",
-                "ayat": "46",
+                "ayah": "46",
                 "name_latin": "Fussilat"
             }
         },
@@ -1221,13 +1221,13 @@
             "start": {
                 "page": "482",
                 "surah": "41",
-                "ayat": "47",
+                "ayah": "47",
                 "name_latin": "Fussilat"
             },
             "end": {
                 "page": "502",
                 "surah": "45",
-                "ayat": "37",
+                "ayah": "37",
                 "name_latin": "Al-Jasiyah"
             }
         },
@@ -1235,13 +1235,13 @@
             "start": {
                 "page": "502",
                 "surah": "46",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Ahqaf"
             },
             "end": {
                 "page": "521",
                 "surah": "51",
-                "ayat": "30",
+                "ayah": "30",
                 "name_latin": "Az-Zariyat"
             }
         },
@@ -1249,13 +1249,13 @@
             "start": {
                 "page": "522",
                 "surah": "51",
-                "ayat": "31",
+                "ayah": "31",
                 "name_latin": "Az-Zariyat"
             },
             "end": {
                 "page": "541",
                 "surah": "57",
-                "ayat": "29",
+                "ayah": "29",
                 "name_latin": "Al-Hadid"
             }
         },
@@ -1263,13 +1263,13 @@
             "start": {
                 "page": "542",
                 "surah": "58",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Mujadalah"
             },
             "end": {
                 "page": "561",
                 "surah": "66",
-                "ayat": "12",
+                "ayah": "12",
                 "name_latin": "At-Tahrim"
             }
         },
@@ -1277,13 +1277,13 @@
             "start": {
                 "page": "562",
                 "surah": "67",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "Al-Mulk"
             },
             "end": {
                 "page": "581",
                 "surah": "77",
-                "ayat": "50",
+                "ayah": "50",
                 "name_latin": "Al-Mursalat"
             }
         },
@@ -1291,13 +1291,13 @@
             "start": {
                 "page": "582",
                 "surah": "78",
-                "ayat": "1",
+                "ayah": "1",
                 "name_latin": "An-Naba`"
             },
             "end": {
                 "page": "604",
                 "surah": "114",
-                "ayat": "6",
+                "ayah": "6",
                 "name_latin": "An-Nas"
             }
         }

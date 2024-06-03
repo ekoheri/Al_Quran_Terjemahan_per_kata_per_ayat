@@ -4,6 +4,7 @@
 		"name" : "التحريم",
 		"name_latin" : "At-Tahrim",
 		"number_of_ayah" : "12",
+		"number_of_words" : "249",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلنَّبِىُّ", "3" : "لِمَ", "4" : "تُحَرِّمُ", "5" : "مَآ", "6" : "أَحَلَّ", "7" : "ٱللَّهُ", "8" : "لَكَۖ", "9" : "تَبْتَغِى", "10" : "مَرْضَاتَ", "11" : "أَزْوَٰجِكَۚ", "12" : "وَٱللَّهُ", "13" : "غَفُورٌ", "14" : "رَّحِيمٌ"},
 			"2" : {"1" : "قَدْ", "2" : "فَرَضَ", "3" : "ٱللَّهُ", "4" : "لَكُمْ", "5" : "تَحِلَّةَ", "6" : "أَيْمَٰنِكُمْۚ", "7" : "وَٱللَّهُ", "8" : "مَوْلَىٰكُمْۖ", "9" : "وَهُوَ", "10" : "ٱلْعَلِيمُ", "11" : "ٱلْحَكِيمُ"},
@@ -31,7 +32,6 @@
 			"10" : {"1" : "telah membuat", "2" : "Allah", "3" : "perumpamaan", "4" : "bagi orang-orang yang", "5" : "kafir/ingkar", "6" : "isteri", "7" : "Nuh", "8" : "dan isteri", "9" : "Luth", "10" : "keduanya adalah", "11" : "di bawah", "12" : "dua orang hamba", "13" : "dari", "14" : "hamba Kami", "15" : "dua orang saleh", "16" : "lalu keduanya berkhianat kepada keduanya", "17" : "maka tidak", "18" : "keduanya mampu", "19" : "dari keduanya", "20" : "dari", "21" : "Allah", "22" : "sesuatu/sedikitpun", "23" : "dan dikatakan", "24" : "masuklah kamu berdua", "25" : "api/neraka", "26" : "bersama", "27" : "orang-orang yang masuk"},
 			"11" : {"1" : "dan membuat", "2" : "Allah", "3" : "perumpamaan", "4" : "bagi orang-orang yang", "5" : "beriman", "6" : "isteri", "7" : "Fir'aun", "8" : "ketika", "9" : "ia berkata", "10" : "ya Tuhanku", "11" : "bangunlah", "12" : "untukku", "13" : "di sisi-Mu", "14" : "sebuah rumah", "15" : "dalam", "16" : "surga", "17" : "dan selamatkanlah aku", "18" : "dari", "19" : "Fir'aun", "20" : "dan perbuatannya", "21" : "dan selamatkanlah aku", "22" : "dari", "23" : "kaum", "24" : "orang-orang yang zalim"},
 			"12" : {"1" : "dan Maryam", "2" : "puteri", "3" : "Imran", "4" : "yang", "5" : "ia memelihara", "6" : "kemaluannya/kehormatannya", "7" : "maka Kami tiupkan", "8" : "ke dalamnya", "9" : "dari", "10" : "ruh Kami", "11" : "dan ia membenarkan", "12" : "dengan kalimat", "13" : "Tuhannya", "14" : "dan Kitab-kitab-Nya", "15" : "dan ia adalah", "16" : "dari/termasuk", "17" : "orang-orang yang taat"}
-
 		}
 	}
 }

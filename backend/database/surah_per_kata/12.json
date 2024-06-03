@@ -4,6 +4,7 @@
 		"name" : "يوسف",
 		"name_latin" : "Yusuf",
 		"number_of_ayah" : "111",
+		"number_of_words" : "1777",
 		"text" : {
 			"1" : {"1" : "الٓرۚ", "2" : "تِلْكَ", "3" : "ءَايَٰتُ", "4" : "ٱلْكِتَٰبِ", "5" : "ٱلْمُبِينِ"},
 			"2" : {"1" : "إِنَّآ", "2" : "أَنزَلْنَٰهُ", "3" : "قُرْءَٰنًا", "4" : "عَرَبِيًّا", "5" : "لَّعَلَّكُمْ", "6" : "تَعْقِلُونَ"},
@@ -229,7 +230,6 @@
 			"109" : {"1" : "dan tidak", "2" : "Kami mengutus", "3" : "dari", "4" : "sebelum kamu", "5" : "kecuali/melainkan", "6" : "orang laki-laki", "7" : "Kami beri wahyu", "8" : "kepada mereka", "9" : "dari/diantara", "10" : "penduduk", "11" : "negeri/kota", "12" : "apakah tidak/tidakkah", "13" : "mereka bepergian", "14" : "di", "15" : "bumi", "16" : "maka/lalu melihat", "17" : "bagaimana", "18" : "adalah", "19" : "akibat/kesudahan", "20" : "orang-orang yang", "21" : "dari", "22" : "sebelum mereka", "23" : "dan sesungguhnya kampung", "24" : "akhirat", "25" : "lebih baik", "26" : "bagi orang-orang yang", "27" : "(mereka) bertakwa", "28" : "apakah tidak/tidakkah", "29" : "kalian menggunakan akal"},
 			"110" : {"1" : "sehingga", "2" : "apabila", "3" : "putus asa/tidak mempunyai harapan", "4" : "para rasul", "5" : "dan mereka meyakini", "6" : "bahwasanya mereka", "7" : "sungguh", "8" : "telah didustakan", "9" : "datang kepada mereka", "10" : "pertolongan kami", "11" : "maka/lalu diselamatkan", "12" : "orang", "13" : "Kami kehendaki", "14" : "dan tidak", "15" : "ditolak", "16" : "siksa Kami", "17" : "dari", "18" : "kaum", "19" : "orang-orang yang berdosa"},
 			"111" : {"1" : "sesungguhnya", "2" : "adalah", "3" : "didalam/pada", "4" : "kisah-kisah mereka", "5" : "pengajaran", "6" : "bagi yang mempunyai", "7" : "akal", "8" : "tidak", "9" : "ada", "10" : "cerita-cerita", "11" : "dibuat-buat", "12" : "akan tetapi", "13" : "membenarkan", "14" : "yang", "15" : "diantara (petunjuk)", "16" : "tangannya (sebelumnya)(", "17" : "dan menjelaskan", "18" : "segala", "19" : "sesuatu", "20" : "dan petunjuk", "21" : "dan rahmat", "22" : "bagi kaum", "23" : "mereka beriman"}
-
 		}
 	}
 }

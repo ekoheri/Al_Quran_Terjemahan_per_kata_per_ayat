@@ -4,6 +4,7 @@
 		"name" : "يونس",
 		"name_latin" : "Yunus",
 		"number_of_ayah" : "109",
+		"number_of_words" : "1833",
 		"text" : {
 			"1" : {"1" : "الٓرۚ", "2" : "تِلْكَ", "3" : "ءَايَٰتُ", "4" : "ٱلْكِتَٰبِ", "5" : "ٱلْحَكِيمِ"},
 			"2" : {"1" : "أَكَانَ", "2" : "لِلنَّاسِ", "3" : "عَجَبًا", "4" : "أَنْ", "5" : "أَوْحَيْنَآ", "6" : "إِلَىٰ", "7" : "رَجُلٍ", "8" : "مِّنْهُمْ", "9" : "أَنْ", "10" : "أَنذِرِ", "11" : "ٱلنَّاسَ", "12" : "وَبَشِّرِ", "13" : "ٱلَّذِينَ", "14" : "ءَامَنُوٓا۟", "15" : "أَنَّ", "16" : "لَهُمْ", "17" : "قَدَمَ", "18" : "صِدْقٍ", "19" : "عِندَ", "20" : "رَبِّهِمْۗ", "21" : "قَالَ", "22" : "ٱلْكَٰفِرُونَ", "23" : "إِنَّ", "24" : "هَٰذَا", "25" : "لَسَٰحِرٌ", "26" : "مُّبِينٌ"},
@@ -213,7 +214,7 @@
 			"95" : {"1" : "dan jangan", "2" : "sekali-kali kamu adalah", "3" : "dari/termasuk", "4" : "orang-orang yang", "5" : "(mereka) mendustakan", "6" : "dengan ayat-ayat", "7" : "Allah", "8" : "maka kamu adalah/jadi", "9" : "dari", "10" : "orang-orang yang merugi"},
 			"96" : {"1" : "sesungguhnya", "2" : "orang-orang yang", "3" : "telah pasti", "4" : "atas mereka", "5" : "beberapa kalimat", "6" : "Tuhanmu", "7" : "tidak", "8" : "mereka beriman"},
 			"97" : {"1" : "walaupun", "2" : "telah datang kepada mereka", "3" : "tiap-tiap/segala", "4" : "ayat/keterangan", "5" : "sehingga", "6" : "mereka melihat", "7" : "siksaan", "8" : "pedih"},
-			"98" : {"1" : "maka mengapa tidak", "2" : "adalah", "3" : "suatu negeri", "4" : "beriman", "5" : "maka/lalu memberi manfaat padanya", "6" : "imannya", "7" : "melainkan", "8" : "kaum", "9" : "Yûnus", "10" : "tatkala", "11" : "mereka beriman", "12" : "Kami angkat/hilangkan", "13" : "dari mereka", "14" : "siksaan", "15" : "yang menghinakan", "16" : "dalam", "17" : "kehidupan", "18" : "dunia", "19" : "dan Kami beri kesenangan mereka", "20" : "sampai", "21" : "waktu tertentu"},
+			"98" : {"1" : "maka mengapa tidak", "2" : "adalah", "3" : "suatu negeri", "4" : "beriman", "5" : "maka/lalu memberi manfaat padanya", "6" : "imannya", "7" : "melainkan", "8" : "kaum", "9" : "Y\u00fbnus", "10" : "tatkala", "11" : "mereka beriman", "12" : "Kami angkat/hilangkan", "13" : "dari mereka", "14" : "siksaan", "15" : "yang menghinakan", "16" : "dalam", "17" : "kehidupan", "18" : "dunia", "19" : "dan Kami beri kesenangan mereka", "20" : "sampai", "21" : "waktu tertentu"},
 			"99" : {"1" : "dan jika", "2" : "menghendaki", "3" : "Tuhanmu", "4" : "tentulah beriman", "5" : "orang", "6" : "di", "7" : "bumi", "8" : "mereka semua", "9" : "seluruhnya", "10" : "apakah kamu", "11" : "paksa", "12" : "manusia", "13" : "sehingga", "14" : "mereka adalah", "15" : "orang-orang yang beriman"},
 			"100" : {"1" : "dan tidak", "2" : "ada", "3" : "bagi seseorang", "4" : "untuk", "5" : "dia beriman", "6" : "kecuali", "7" : "dengan izin", "8" : "Allah", "9" : "dan (Allah) jadikan/timpakan", "10" : "siksaan/kemurkaan", "11" : "atas", "12" : "orang-orang yang", "13" : "tidak", "14" : "(mereka) menggunakan akal"},
 			"101" : {"1" : "katakanlah", "2" : "perhatikanlah", "3" : "apa yang ada", "4" : "di", "5" : "langit(jamak)", "6" : "dan bumi", "7" : "dan tidak", "8" : "berguna", "9" : "ayat-ayat/keterangan-keterangan", "10" : "dan ancaman", "11" : "dari", "12" : "kaum", "13" : "tidak", "14" : "mereka beriman"},
@@ -225,7 +226,6 @@
 			"107" : {"1" : "dan jika", "2" : "menimpakan kepadamu", "3" : "Allah", "4" : "kemudharatan", "5" : "maka tidak", "6" : "mengangkat/menghilangkan", "7" : "baginya", "8" : "kecuali", "9" : "Dia", "10" : "dan jika", "11" : "Dia menghendaki padamu", "12" : "dengan kebaikan", "13" : "maka tidak ada", "14" : "menolak", "15" : "bagi karuniaNya", "16" : "Dia kenakan berikan", "17" : "dengannya", "18" : "siapa", "19" : "Dia kehendaki", "20" : "dari", "21" : "hamba-hambaNya", "22" : "dan Dia", "23" : "Maha Pengampun", "24" : "Maha Penyayang"},
 			"108" : {"1" : "katakanlah", "2" : "wahai", "3" : "manusia", "4" : "sesungguhnya", "5" : "telah datang kepadamu", "6" : "kebenaran", "7" : "dari", "8" : "Tuhan kalian", "9" : "maka barang siapa", "10" : "mendapat petunjuk", "11" : "maka sesungguhnya hanyalah", "12" : "memberi petunjuk", "13" : "bagi dirinya sendiri", "14" : "dan barang siapa", "15" : "sesat", "16" : "maka sesungguhnya hanyalah", "17" : "menyesatkan", "18" : "atasnya/dirinya sendiri", "19" : "dan tidak/bukan", "20" : "aku", "21" : "atas kalian", "22" : "penjaga"},
 			"109" : {"1" : "dan ikutilah", "2" : "apa", "3" : "diwahyukan", "4" : "kepadamu", "5" : "dan bersabarlah", "6" : "sehingga/sampai", "7" : "memberi keputusan", "8" : "Allah", "9" : "dan Dia", "10" : "sebaik-baik", "11" : "para hakim"}
-
 		}
 	}
 }

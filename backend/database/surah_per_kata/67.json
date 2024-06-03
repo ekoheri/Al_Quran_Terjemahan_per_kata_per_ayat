@@ -4,6 +4,7 @@
 		"name" : "الملك",
 		"name_latin" : "Al-Mulk",
 		"number_of_ayah" : "30",
+		"number_of_words" : "333",
 		"text" : {
 			"1" : {"1" : "تَبَٰرَكَ", "2" : "ٱلَّذِى", "3" : "بِيَدِهِ", "4" : "ٱلْمُلْكُ", "5" : "وَهُوَ", "6" : "عَلَىٰ", "7" : "كُلِّ", "8" : "شَىْءٍ", "9" : "قَدِيرٌ"},
 			"2" : {"1" : "ٱلَّذِى", "2" : "خَلَقَ", "3" : "ٱلْمَوْتَ", "4" : "وَٱلْحَيَوٰةَ", "5" : "لِيَبْلُوَكُمْ", "6" : "أَيُّكُمْ", "7" : "أَحْسَنُ", "8" : "عَمَلًاۚ", "9" : "وَهُوَ", "10" : "ٱلْعَزِيزُ", "11" : "ٱلْغَفُورُ"},
@@ -67,7 +68,6 @@
 			"28" : {"1" : "katakanlah", "2" : "adakah kamu perhatikan", "3" : "jika", "4" : "membinasakan aku", "5" : "Allah", "6" : "dan orang-orang yang", "7" : "bersamaku", "8" : "atau", "9" : "Dia memberi rahmat kami", "10" : "maka barang siapa", "11" : "menolong/melindungi", "12" : "orang-orang yang kafir", "13" : "dari", "14" : "azab", "15" : "yang pedih"},
 			"29" : {"1" : "katakanlah", "2" : "Dia", "3" : "Maha Pengasih", "4" : "kami beriman", "5" : "kepada-Nya", "6" : "dan atas-Nya", "7" : "kami bertawakal", "8" : "maka kelak kamu akan mengetahuinya", "9" : "siapa", "10" : "dia", "11" : "dalam", "12" : "kesesatan", "13" : "nyata"},
 			"30" : {"1" : "katakanlah", "2" : "adakah kamu perhatikan", "3" : "jika", "4" : "menjadi", "5" : "air kamu", "6" : "masuk dalam tanah kering", "7" : "maka siapa", "8" : "mendatangkan kepadamu", "9" : "dengan air", "10" : "mata air/mengalir"}
-
 		}
 	}
 }

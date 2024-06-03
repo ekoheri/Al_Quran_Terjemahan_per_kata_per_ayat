@@ -4,6 +4,7 @@
 		"name" : "النمل",
 		"name_latin" : "An-Naml",
 		"number_of_ayah" : "93",
+		"number_of_words" : "1151",
 		"text" : {
 			"1" : {"1" : "طسٓۚ", "2" : "تِلْكَ", "3" : "ءَايَٰتُ", "4" : "ٱلْقُرْءَانِ", "5" : "وَكِتَابٍ", "6" : "مُّبِينٍ"},
 			"2" : {"1" : "هُدًى", "2" : "وَبُشْرَىٰ", "3" : "لِلْمُؤْمِنِينَ"},
@@ -193,7 +194,6 @@
 			"91" : {"1" : "sesungguhnya hanyalah", "2" : "aku diperintah", "3" : "untuk", "4" : "aku menyembah", "5" : "Tuhan", "6" : "ini", "7" : "negeri", "8" : "yang", "9" : "Dia menjadikannya suci", "10" : "dan bagi-Nya", "11" : "segala", "12" : "sesuatu", "13" : "dan aku diperintahkan", "14" : "supaya", "15" : "aku adalah", "16" : "dari/termasuk", "17" : "orang-orang yang berserah diri"},
 			"92" : {"1" : "dan supaya", "2" : "aku membacakan", "3" : "Al-Qur'an", "4" : "maka barangsiapa", "5" : "mendapat petunjuk", "6" : "maka sesungguhnya", "7" : "ia mendapat petunjuk", "8" : "untuk dirinya sendiri", "9" : "dan barangsiapa", "10" : "sesat", "11" : "maka katakanlah", "12" : "sesungguhnya hanyalah", "13" : "aku", "14" : "dari/termasuk", "15" : "orang-orang yang memberi peringatan"},
 			"93" : {"1" : "dan katakanlah", "2" : "segala puji", "3" : "bagi Allah", "4" : "Dia akan memperhatikan kepadamu", "5" : "tanda-tanda-Nya", "6" : "maka kamu akan mengetahuinya", "7" : "dan tidaklah", "8" : "Tuhanmu", "9" : "dengan lalai", "10" : "dari/tentang apa", "11" : "kamu kerjakan"}
-
 		}
 	}
 }

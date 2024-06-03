@@ -4,6 +4,7 @@
 		"name" : "الواقعة",
 		"name_latin" : "Al-Waqi'ah",
 		"number_of_ayah" : "96",
+		"number_of_words" : "379",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "وَقَعَتِ", "3" : "ٱلْوَاقِعَةُ"},
 			"2" : {"1" : "لَيْسَ", "2" : "لِوَقْعَتِهَا", "3" : "كَاذِبَةٌ"},
@@ -199,7 +200,6 @@
 			"94" : {"1" : "dan dimasukkan", "2" : "neraka"},
 			"95" : {"1" : "sesungguhnya ia", "2" : "ini", "3" : "sungguh ia", "4" : "hak/benar", "5" : "keyakinan"},
 			"96" : {"1" : "maka bertasbihlah", "2" : "dengan nama", "3" : "Tuhanmu", "4" : "Maha Besar/Maha Agung"}
-
 		}
 	}
 }

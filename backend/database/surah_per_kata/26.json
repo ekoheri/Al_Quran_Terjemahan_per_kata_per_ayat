@@ -4,6 +4,7 @@
 		"name" : "الشعراء",
 		"name_latin" : "Asy-Syu'ara'",
 		"number_of_ayah" : "227",
+		"number_of_words" : "1318",
 		"text" : {
 			"1" : {"1" : "طسٓمٓ"},
 			"2" : {"1" : "تِلْكَ", "2" : "ءَايَٰتُ", "3" : "ٱلْكِتَٰبِ", "4" : "ٱلْمُبِينِ"},
@@ -461,7 +462,6 @@
 			"225" : {"1" : "tidakkah", "2" : "kamu melihat", "3" : "bahwasanya mereka", "4" : "di", "5" : "tiap-tiap", "6" : "lembah", "7" : "mereka mengembara"},
 			"226" : {"1" : "dan bahwasanya mereka", "2" : "mereka mengatakan", "3" : "apa", "4" : "yang tidak", "5" : "mereka mengerjakan"},
 			"227" : {"1" : "kecuali", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mereka berbuat/beramal", "5" : "kebajikan/saleh", "6" : "dan mereka mengingat", "7" : "Allah", "8" : "banyak", "9" : "dan mereka mendapat pertolongan", "10" : "dari", "11" : "sesudah", "12" : "apa", "13" : "mereka teraniaya", "14" : "dan pasti akan mengetahui", "15" : "orang-orang yang", "16" : "(mereka) zalim", "17" : "dimana/mana", "18" : "tempat kembali", "19" : "mereka kembali"}
-
 		}
 	}
 }

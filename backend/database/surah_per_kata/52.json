@@ -4,6 +4,7 @@
 		"name" : "الطور",
 		"name_latin" : "At-Tur",
 		"number_of_ayah" : "49",
+		"number_of_words" : "312",
 		"text" : {
 			"1" : {"1" : "وَٱلطُّورِ"},
 			"2" : {"1" : "وَكِتَٰبٍ", "2" : "مَّسْطُورٍ"},
@@ -105,7 +106,6 @@
 			"47" : {"1" : "dan sesungguhnya", "2" : "bagi orang-orang yang", "3" : "zallim", "4" : "azab", "5" : "selain", "6" : "demikian itu/dari itu", "7" : "akan tetapi", "8" : "kebanyakan mereka", "9" : "tidak", "10" : "mereka mengetahui"},
 			"48" : {"1" : "dan bersabarlah", "2" : "pada ketetapan", "3" : "Tuhanmu", "4" : "maka sesungguhnya kamu", "5" : "pada pengawasan Kami", "6" : "dan bertasbihlah", "7" : "dengan memuji", "8" : "Tuhanmu", "9" : "ketika", "10" : "kamu berdiri/bangun"},
 			"49" : {"1" : "dan dari", "2" : "malam", "3" : "maka bertasbihlah", "4" : "dan dibelakang/terbenam", "5" : "bintang-bintang"}
-
 		}
 	}
 }

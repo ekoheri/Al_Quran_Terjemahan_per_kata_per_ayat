@@ -1,9 +1,10 @@
 {
-	"6" : {
-		"number": "6",
-        "name": "الانعام",
-        "name_latin": "Al-An'am",
-        "number_of_ayah": "165",
+	"6" :{
+		"number" : "6",
+		"name" : "الأنعام",
+		"name_latin" : "Al-An'am",
+		"number_of_ayah" : "165",
+		"number_of_words" : "3050",
 		"text" : {
 			"1" : {"1" : "ٱلْحَمْدُ", "2" : "لِلَّهِ", "3" : "ٱلَّذِى", "4" : "خَلَقَ", "5" : "ٱلسَّمَٰوَٰتِ", "6" : "وَٱلْأَرْضَ", "7" : "وَجَعَلَ", "8" : "ٱلظُّلُمَٰتِ", "9" : "وَٱلنُّورَۖ", "10" : "ثُمَّ", "11" : "ٱلَّذِينَ", "12" : "كَفَرُوا۟", "13" : "بِرَبِّهِمْ", "14" : "يَعْدِلُونَ"},
 			"2" : {"1" : "هُوَ", "2" : "ٱلَّذِى", "3" : "خَلَقَكُم", "4" : "مِّن", "5" : "طِينٍ", "6" : "ثُمَّ", "7" : "قَضَىٰٓ", "8" : "أَجَلًاۖ", "9" : "وَأَجَلٌ", "10" : "مُّسَمًّى", "11" : "عِندَهُۥۖ", "12" : "ثُمَّ", "13" : "أَنتُمْ", "14" : "تَمْتَرُونَ"},
@@ -337,7 +338,6 @@
 			"163" : {"1" : "tidak", "2" : "sekutu", "3" : "bagiNya", "4" : "dan dengan demikian/itulah", "5" : "aku diperintahkan", "6" : "dan aku", "7" : "pertama", "8" : "orang-orang yang menyerahkan diri"},
 			"164" : {"1" : "katakanlah", "2" : "apakah selain", "3" : "Allah", "4" : "aku mencari", "5" : "tuhan", "6" : "dan/padahal Dia", "7" : "Tuhan", "8" : "segala/tiap-tiap", "9" : "sesuatu", "10" : "dan tidak", "11" : "mengerjakan", "12" : "tiap-tiap", "13" : "seseorang/jiwa", "14" : "kecuali/melainkan", "15" : "atasnya", "16" : "dan tidak", "17" : "memikul beban/dosa", "18" : "orang yang berdosa", "19" : "beban/dosa", "20" : "orang lain", "21" : "kemudian", "22" : "kepada", "23" : "Tuhan kalian", "24" : "tempat kembalimu", "25" : "maka Dia akan menerangkan kepadamu", "26" : "tentang apa", "27" : "kalian adalah", "28" : "didalamnya", "29" : "kamu perselisihkan"},
 			"165" : {"1" : "dan Dia", "2" : "yang", "3" : "menjadikan kamu", "4" : "penguasa-penguasa", "5" : "bumi", "6" : "dan Dia meninggikan", "7" : "sebagian kamu", "8" : "diatas", "9" : "sebagian lainnya", "10" : "beberapa derajat", "11" : "karena Dia hendak mengujimu", "12" : "dalam/tentang", "13" : "apa", "14" : "Dia telah berikan kepadamu", "15" : "sesungguhnya", "16" : "Tuhanmu", "17" : "amat cepat", "18" : "siksa", "19" : "dan sesungguhnya Dia", "20" : "sungguh Maha Pengampun", "21" : "Maha Penyayang"}
-
 		}
 	}
 }

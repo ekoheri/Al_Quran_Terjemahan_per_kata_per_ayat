@@ -4,6 +4,7 @@
 		"name" : "القيامة",
 		"name_latin" : "Al-Qiyamah",
 		"number_of_ayah" : "40",
+		"number_of_words" : "164",
 		"text" : {
 			"1" : {"1" : "لَآ", "2" : "أُقْسِمُ", "3" : "بِيَوْمِ", "4" : "ٱلْقِيَٰمَةِ"},
 			"2" : {"1" : "وَلَآ", "2" : "أُقْسِمُ", "3" : "بِٱلنَّفْسِ", "4" : "ٱللَّوَّامَةِ"},
@@ -87,7 +88,6 @@
 			"38" : {"1" : "kemudian", "2" : "adalah dia", "3" : "segumpal darah", "4" : "lalu Dia ciptakan", "5" : "lalu Dia sempurnakan"},
 			"39" : {"1" : "maka/lalu Dia jadikan", "2" : "daripadanya", "3" : "dua jodoh/pasang", "4" : "laki-laki", "5" : "dan perempuan"},
 			"40" : {"1" : "tidakkah", "2" : "demikian itu", "3" : "berkuasa", "4" : "atas", "5" : "bahwa", "6" : "menghidupkan", "7" : "orang mati"}
-
 		}
 	}
 }

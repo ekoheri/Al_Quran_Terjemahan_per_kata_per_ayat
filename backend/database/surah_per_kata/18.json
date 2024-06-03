@@ -4,6 +4,7 @@
 		"name" : "الكهف",
 		"name_latin" : "Al-Kahf",
 		"number_of_ayah" : "110",
+		"number_of_words" : "1579",
 		"text" : {
 			"1" : {"1" : "ٱلْحَمْدُ", "2" : "لِلَّهِ", "3" : "ٱلَّذِىٓ", "4" : "أَنزَلَ", "5" : "عَلَىٰ", "6" : "عَبْدِهِ", "7" : "ٱلْكِتَٰبَ", "8" : "وَلَمْ", "9" : "يَجْعَل", "10" : "لَّهُۥ", "11" : "عِوَجَاۜ"},
 			"2" : {"1" : "قَيِّمًا", "2" : "لِّيُنذِرَ", "3" : "بَأْسًا", "4" : "شَدِيدًا", "5" : "مِّن", "6" : "لَّدُنْهُ", "7" : "وَيُبَشِّرَ", "8" : "ٱلْمُؤْمِنِينَ", "9" : "ٱلَّذِينَ", "10" : "يَعْمَلُونَ", "11" : "ٱلصَّٰلِحَٰتِ", "12" : "أَنَّ", "13" : "لَهُمْ", "14" : "أَجْرًا", "15" : "حَسَنًا"},
@@ -227,7 +228,6 @@
 			"108" : {"1" : "mereka kekal", "2" : "didalamnya", "3" : "tidak", "4" : "mereka ingin", "5" : "daripadanya", "6" : "pindah"},
 			"109" : {"1" : "katakanlah", "2" : "sekiranya", "3" : "adalah", "4" : "lautan", "5" : "tinta", "6" : "untuk kalimat-kalimat", "7" : "Tuhanku", "8" : "tentu habis", "9" : "lautan", "10" : "sebelum", "11" : "akan", "12" : "habis", "13" : "beberapa kalimat", "14" : "Tuhanku", "15" : "meskipun", "16" : "Kami datangkan", "17" : "dengan semisal/sebabnya itu", "18" : "tinta"},
 			"110" : {"1" : "katakanlah", "2" : "sesungguhnya hanyalah", "3" : "aku", "4" : "seorang manusia", "5" : "seperti kamu", "6" : "diwahyukan", "7" : "kepadaku", "8" : "bahwa sesungguhnya hanyalah", "9" : "Tuhan kamu", "10" : "Tuhan", "11" : "satu/esa", "12" : "maka barangsiapa", "13" : "adalah", "14" : "mengharapkan", "15" : "perjumpaan", "16" : "Tuhannya", "17" : "maka hendaklah ia mengerjakan", "18" : "pekerjaan/amalan", "19" : "kebajikan/saleh", "20" : "dan janganlah", "21" : "ia persekutukan", "22" : "dengan/dalam peribadatan", "23" : "Tuhannya", "24" : "seseorang"}
-
 		}
 	}
 }

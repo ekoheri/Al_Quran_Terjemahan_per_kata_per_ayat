@@ -4,6 +4,7 @@
 		"name" : "القمر",
 		"name_latin" : "Al-Qamar",
 		"number_of_ayah" : "55",
+		"number_of_words" : "342",
 		"text" : {
 			"1" : {"1" : "ٱقْتَرَبَتِ", "2" : "ٱلسَّاعَةُ", "3" : "وَٱنشَقَّ", "4" : "ٱلْقَمَرُ"},
 			"2" : {"1" : "وَإِن", "2" : "يَرَوْا۟", "3" : "ءَايَةً", "4" : "يُعْرِضُوا۟", "5" : "وَيَقُولُوا۟", "6" : "سِحْرٌ", "7" : "مُّسْتَمِرٌّ"},
@@ -117,7 +118,6 @@
 			"53" : {"1" : "dan setiap", "2" : "yang kecil", "3" : "dan yang besar", "4" : "tertulis"},
 			"54" : {"1" : "sesungguhnya", "2" : "orang-orang yang bertakwa", "3" : "dalam", "4" : "surga/kebun-kebun", "5" : "dan sungai-sungai"},
 			"55" : {"1" : "dalam", "2" : "tempat duduk", "3" : "kebenaran", "4" : "disisi", "5" : "yang menguasi/Raja (Tuhan)", "6" : "berkuasa"}
-
 		}
 	}
 }

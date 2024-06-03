@@ -4,6 +4,7 @@
 		"name" : "الحجر",
 		"name_latin" : "Al-Hijr",
 		"number_of_ayah" : "99",
+		"number_of_words" : "655",
 		"text" : {
 			"1" : {"1" : "الٓرۚ", "2" : "تِلْكَ", "3" : "ءَايَٰتُ", "4" : "ٱلْكِتَٰبِ", "5" : "وَقُرْءَانٍ", "6" : "مُّبِينٍ"},
 			"2" : {"1" : "رُّبَمَا", "2" : "يَوَدُّ", "3" : "ٱلَّذِينَ", "4" : "كَفَرُوا۟", "5" : "لَوْ", "6" : "كَانُوا۟", "7" : "مُسْلِمِينَ"},
@@ -205,7 +206,6 @@
 			"97" : {"1" : "dan sesungguhnya", "2" : "Kami mengetahui", "3" : "bahwasanya kamu", "4" : "menjadi sempit/sesak", "5" : "dadamu", "6" : "dengan apa/sebab", "7" : "mereka katakan"},
 			"98" : {"1" : "maka bertasbihlah kamu", "2" : "dengan memuji", "3" : "Tuhanmu", "4" : "dan jadilah kamu", "5" : "dari/termasuk", "6" : "orang-orang yang bersujud"},
 			"99" : {"1" : "dan sembahlah", "2" : "Tuhanmu", "3" : "sehingga", "4" : "datang kepadamu", "5" : "keyakinan"}
-
 		}
 	}
 }

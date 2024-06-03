@@ -4,6 +4,7 @@
 		"name" : "الأحقاف",
 		"name_latin" : "Al-Ahqaf",
 		"number_of_ayah" : "35",
+		"number_of_words" : "643",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "تَنزِيلُ", "2" : "ٱلْكِتَٰبِ", "3" : "مِنَ", "4" : "ٱللَّهِ", "5" : "ٱلْعَزِيزِ", "6" : "ٱلْحَكِيمِ"},
@@ -77,7 +78,6 @@
 			"33" : {"1" : "ataukah tidak", "2" : "mereka memperhatikan", "3" : "bahwasanya", "4" : "Allah", "5" : "yang", "6" : "menciptakan", "7" : "langit(jamak)", "8" : "dan bumi", "9" : "dan tidak", "10" : "Dia merasa payah", "11" : "dengan menciptakannya", "12" : "berkuasa", "13" : "atas", "14" : "bahwa", "15" : "menghidupkan", "16" : "orang mati", "17" : "ya/benar", "18" : "sesungguhnya", "19" : "atas", "20" : "segala", "21" : "sesuatu", "22" : "Maha Kuasa"},
 			"34" : {"1" : "dan pada hari", "2" : "dihadapkan", "3" : "orang-orang yang", "4" : "kafir/ingkar", "5" : "ke", "6" : "neraka", "7" : "bukankah", "8" : "ini", "9" : "dengan benar", "10" : "mereka berkata", "11" : "ya/benar", "12" : "dan demi Tuhan kami", "13" : "Dia berkata", "14" : "maka rasakan", "15" : "azab", "16" : "sebab", "17" : "kalian adalah", "18" : "kalian kafir"},
 			"35" : {"1" : "maka bersabarlah kamu", "2" : "sebagaimana", "3" : "bersabar", "4" : "orang-orang yang mempunyai", "5" : "keteguhan hati", "6" : "dari", "7" : "rasul-rasul", "8" : "dan jangan", "9" : "kamu minta disegerakan", "10" : "bagi mereka", "11" : "seakan-akan mereka", "12" : "pada hari", "13" : "mereka melihat", "14" : "apa yang", "15" : "mereka diancam", "16" : "tidak", "17" : "mereka tinggal", "18" : "kecuali", "19" : "sesaat", "20" : "dari", "21" : "siang hari", "22" : "penjelasan", "23" : "maka tidaklah", "24" : "dibinasakan", "25" : "kecuali", "26" : "kaum", "27" : "orang-orang yang fasik"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الحديد",
 		"name_latin" : "Al-Hadid",
 		"number_of_ayah" : "29",
+		"number_of_words" : "574",
 		"text" : {
 			"1" : {"1" : "سَبَّحَ", "2" : "لِلَّهِ", "3" : "مَا", "4" : "فِى", "5" : "ٱلسَّمَٰوَٰتِ", "6" : "وَٱلْأَرْضِۖ", "7" : "وَهُوَ", "8" : "ٱلْعَزِيزُ", "9" : "ٱلْحَكِيمُ"},
 			"2" : {"1" : "لَهُۥ", "2" : "مُلْكُ", "3" : "ٱلسَّمَٰوَٰتِ", "4" : "وَٱلْأَرْضِۖ", "5" : "يُحْىِۦ", "6" : "وَيُمِيتُۖ", "7" : "وَهُوَ", "8" : "عَلَىٰ", "9" : "كُلِّ", "10" : "شَىْءٍ", "11" : "قَدِيرٌ"},
@@ -65,7 +66,6 @@
 			"27" : {"1" : "kemudian", "2" : "Kami ikutkan/iringi", "3" : "atas", "4" : "jejak/belakang mereka", "5" : "dengan rasul-rasul Kami", "6" : "dan Kami ikutkan/iringkan", "7" : "dengan Isa", "8" : "anak", "9" : "Maryam", "10" : "dan Kami berikannya", "11" : "Injil", "12" : "dan Kami jadikan", "13" : "dalam", "14" : "hati", "15" : "orang-orang yang", "16" : "mengikutinya", "17" : "rasa satun", "18" : "dan kasih sayang", "19" : "dan rahbaniyah/kependetaan", "20" : "mereka adakan", "21" : "apa-apa", "22" : "Kami mewajibkannya", "23" : "atas mereka", "24" : "kecuali", "25" : "mencari", "26" : "keridaan", "27" : "Allah", "28" : "maka tidak", "29" : "memeliharanya", "30" : "sebenar-benarnya", "31" : "pemeliharaan", "32" : "maka Kami berikan", "33" : "orang-orang yang", "34" : "beriman", "35" : "diantara mereka", "36" : "pahala mereka", "37" : "dan kebanyakan", "38" : "dari mereka", "39" : "orang-orang fasik"},
 			"28" : {"1" : "hai", "2" : "orang-orang yang", "3" : "beriman", "4" : "bertakwalah", "5" : "Allah", "6" : "dan berimanlah", "7" : "kepada rasul-rasulnya", "8" : "Dia akan memberikan kepada kamu", "9" : "dua bagian", "10" : "dari", "11" : "rahmat-Nya", "12" : "dan Dia menjadikan", "13" : "bagi kalian", "14" : "cahaya", "15" : "kamu berjalan", "16" : "padanya", "17" : "dan mengampuni", "18" : "bagi kalian", "19" : "dan Allah", "20" : "Maha Pengampun", "21" : "Maha Penyayang"},
 			"29" : {"1" : "agar supaya", "2" : "mengetahui", "3" : "ahli", "4" : "kitab", "5" : "bahwa tidak", "6" : "mereka berkuasa", "7" : "atas", "8" : "segala sesuatu", "9" : "dari", "10" : "karunia", "11" : "Allah", "12" : "dan sesungguhnya", "13" : "karunia", "14" : "ditangan", "15" : "Allah", "16" : "Dia berikan", "17" : "siapa", "18" : "yang dikehendaki", "19" : "dan Allah", "20" : "memiliki", "21" : "karunia", "22" : "yang besar"}
-
 		}
 	}
 }

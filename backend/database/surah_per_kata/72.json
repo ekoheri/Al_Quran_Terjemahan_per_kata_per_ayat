@@ -4,6 +4,7 @@
 		"name" : "الجن",
 		"name_latin" : "Al-Jinn",
 		"number_of_ayah" : "28",
+		"number_of_words" : "285",
 		"text" : {
 			"1" : {"1" : "قُلْ", "2" : "أُوحِىَ", "3" : "إِلَىَّ", "4" : "أَنَّهُ", "5" : "ٱسْتَمَعَ", "6" : "نَفَرٌ", "7" : "مِّنَ", "8" : "ٱلْجِنِّ", "9" : "فَقَالُوٓا۟", "10" : "إِنَّا", "11" : "سَمِعْنَا", "12" : "قُرْءَانًا", "13" : "عَجَبًا"},
 			"2" : {"1" : "يَهْدِىٓ", "2" : "إِلَى", "3" : "ٱلرُّشْدِ", "4" : "فَـَٔامَنَّا", "5" : "بِهِۦۖ", "6" : "وَلَن", "7" : "نُّشْرِكَ", "8" : "بِرَبِّنَآ", "9" : "أَحَدًا"},
@@ -63,7 +64,6 @@
 			"26" : {"1" : "Maha Mengetahui", "2" : "yang gaib", "3" : "maka tidak", "4" : "Dia menerangkan/menyatakan", "5" : "atas", "6" : "kegaiban-Nya", "7" : "seseorang"},
 			"27" : {"1" : "kecuali", "2" : "siapa/orang", "3" : "Dia meridhai", "4" : "dari", "5" : "rasul", "6" : "maka sesungguhnya Dia", "7" : "menjalankan/mengadakan", "8" : "dari", "9" : "antara", "10" : "kedua tangannya/hadapannya", "11" : "dan dari", "12" : "belakangnya", "13" : "pengintai/penjaga"},
 			"28" : {"1" : "karena Dia hendak mengetahui", "2" : "bahwa", "3" : "sesungguhnya", "4" : "mereka telah menyampaikan", "5" : "amanat/risalah", "6" : "Tuhan mereka", "7" : "dan Dia meliputi", "8" : "terhadap apa", "9" : "di sisi/pada mereka", "10" : "dan Dia menghitung", "11" : "tiap-tiap/segala", "12" : "sesuatu", "13" : "bilangan/satu persatu"}
-
 		}
 	}
 }

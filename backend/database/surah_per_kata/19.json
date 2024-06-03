@@ -4,6 +4,7 @@
 		"name" : "مريم",
 		"name_latin" : "Maryam",
 		"number_of_ayah" : "98",
+		"number_of_words" : "961",
 		"text" : {
 			"1" : {"1" : "كٓهيعٓصٓ"},
 			"2" : {"1" : "ذِكْرُ", "2" : "رَحْمَتِ", "3" : "رَبِّكَ", "4" : "عَبْدَهُۥ", "5" : "زَكَرِيَّآ"},
@@ -203,7 +204,6 @@
 			"96" : {"1" : "sesungguhnya", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mengerjakan/beramal", "5" : "kebajikan/sholeh", "6" : "akan menjadikan", "7" : "bagi mereka", "8" : "Maha Pengasih", "9" : "rasa kasih sayang"},
 			"97" : {"1" : "maka sesungguhnya hanyalah", "2" : "Kami memudahkannya", "3" : "dengan lisan/bahasamu", "4" : "agar kamu memberi kabar gembira", "5" : "dengannya", "6" : "orang-orang yang bertakwa", "7" : "dan kamu memberi peringatan", "8" : "dengannya", "9" : "kaum", "10" : "membantah/membangkang"},
 			"98" : {"1" : "dan berapa banyak", "2" : "telah Kami binasakan", "3" : "sebelum mereka", "4" : "dari", "5" : "umat-umat", "6" : "apakah", "7" : "kamu merasa/melihat", "8" : "dari antara mereka", "9" : "dari", "10" : "seseorang", "11" : "atau", "12" : "kamu mendengar", "13" : "bagi mereka", "14" : "suara pelan/samar-samar"}
-
 		}
 	}
 }

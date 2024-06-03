@@ -1,9 +1,10 @@
 {
-	"3" : {
-		"number": "3",
-        "name": "اٰل عمران",
-        "name_latin": "Ali 'Imran",
-        "number_of_ayah": "200",
+	"3" :{
+		"number" : "3",
+		"name" : "آل عمران",
+		"name_latin" : "Ali'Imran",
+		"number_of_ayah" : "200",
+		"number_of_words" : "3481",
 		"text" : {
 			"1" : {"1" : "الٓمٓ"},
 			"2" : {"1" : "ٱللَّهُ", "2" : "لَآ", "3" : "إِلَٰهَ", "4" : "إِلَّا", "5" : "هُوَ", "6" : "ٱلْحَىُّ", "7" : "ٱلْقَيُّومُ"},
@@ -407,7 +408,6 @@
 			"198" : {"1" : "akan tetapi", "2" : "orang-orang yang", "3" : "(mereka) bertakwa", "4" : "Tuhan mereka", "5" : "bagi mereka", "6" : "surga", "7" : "mengalir", "8" : "dari", "9" : "bawahnya", "10" : "sungai-sungai", "11" : "mereka kekal", "12" : "di dalamnya", "13" : "anugerah", "14" : "dari", "15" : "sisi", "16" : "Allah", "17" : "dan apa", "18" : "disisi", "19" : "Allah", "20" : "lebih baik", "21" : "bagi orang-orang yang berbuat baik"},
 			"199" : {"1" : "dan sesungguhnya", "2" : "dari", "3" : "Ahli", "4" : "Kitab", "5" : "ada orang", "6" : "(ia) beriman", "7" : "dengan/kepada Allah", "8" : "dan apa", "9" : "diturunkan", "10" : "kepadamu", "11" : "dan apa", "12" : "diturunkan", "13" : "kepada mereka", "14" : "mereka khusyu' (tunduk)", "15" : "kepada Allah", "16" : "tidak", "17" : "mereka menukar/membeli", "18" : "dengan/kepada ayat-ayat", "19" : "Allah", "20" : "harga", "21" : "sedikit", "22" : "mereka itu", "23" : "bagi mereka", "24" : "pahala mereka", "25" : "di sisi", "26" : "Tuhan mereka", "27" : "sesungguhnya", "28" : "Allah", "29" : "amat cepat", "30" : "perhitungan"},
 			"200" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "bersabarlah kamu", "5" : "dan tingkatkan kesabaranmu", "6" : "dan waspadalah kamu", "7" : "dan bertakwalah", "8" : "Allah", "9" : "agar kalian", "10" : "(kamu) beruntung"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الليل",
 		"name_latin" : "Al-Lail",
 		"number_of_ayah" : "21",
+		"number_of_words" : "71",
 		"text" : {
 			"1" : {"1" : "وَٱلَّيْلِ", "2" : "إِذَا", "3" : "يَغْشَىٰ"},
 			"2" : {"1" : "وَٱلنَّهَارِ", "2" : "إِذَا", "3" : "تَجَلَّىٰ"},
@@ -49,7 +50,6 @@
 			"19" : {"1" : "dan tidak", "2" : "satupun", "3" : "pada sisinya", "4" : "dari", "5" : "nikmat", "6" : "patut dibalas"},
 			"20" : {"1" : "kecuali", "2" : "mencari", "3" : "keridhaan", "4" : "Tuhannya", "5" : "yang Maha Tinggi"},
 			"21" : {"1" : "dan kelak", "2" : "ridha"}
-
 		}
 	}
 }

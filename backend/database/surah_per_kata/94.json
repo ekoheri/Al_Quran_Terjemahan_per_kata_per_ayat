@@ -4,6 +4,7 @@
 		"name" : "الشرح",
 		"name_latin" : "Asy-Syarh",
 		"number_of_ayah" : "8",
+		"number_of_words" : "27",
 		"text" : {
 			"1" : {"1" : "أَلَمْ", "2" : "نَشْرَحْ", "3" : "لَكَ", "4" : "صَدْرَكَ"},
 			"2" : {"1" : "وَوَضَعْنَا", "2" : "عَنكَ", "3" : "وِزْرَكَ"},
@@ -23,7 +24,6 @@
 			"6" : {"1" : "sesungguhnya", "2" : "beserta", "3" : "kesulitan", "4" : "kemudahan"},
 			"7" : {"1" : "maka apabila", "2" : "kamu telah selesai", "3" : "maka kerja keraslah kamu"},
 			"8" : {"1" : "dan hanya", "2" : "Tuhanmu", "3" : "maka kamu berharap"}
-
 		}
 	}
 }

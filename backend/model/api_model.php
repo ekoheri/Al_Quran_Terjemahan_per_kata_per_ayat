@@ -30,13 +30,18 @@ class api_model {
                 $index_surah = $list_page["page"][$page_number][$s]["index_surah"];
                 $file_surah_per_ayat = DIR_FILE_SURAH_PER_AYAT . $index_surah . ".json";
                 $file_surah_per_kata = DIR_FILE_SURAH_PER_KATA . $index_surah . ".json";
-                if( (file_exists($file_surah_per_ayat)) && (file_exists($file_surah_per_kata)) ) {
+                $file_tafsir = DIR_FILE_TAFSIR . $index_surah . ".json";
+
+                if( (file_exists($file_surah_per_ayat)) && (file_exists($file_surah_per_kata))  && (file_exists($file_tafsir)) ) {
 
                     $db_surah_per_ayat = file_get_contents($file_surah_per_ayat, true);
                     $list_surah_per_ayat = json_decode($db_surah_per_ayat, true);
 
                     $db_surah_per_kata = file_get_contents($file_surah_per_kata, true);
                     $list_surah_per_kata = json_decode($db_surah_per_kata, true);
+
+                    $db_tafsir = file_get_contents($file_tafsir, true);
+                    $list_tafsir = json_decode($db_tafsir, true);
 
                     $content_surah[$s]["nomor"] = $list_surah_per_ayat[$index_surah]["number"];
                     $content_surah[$s]["nama_surah"] = $list_surah_per_ayat[$index_surah]["name"];
@@ -59,6 +64,7 @@ class api_model {
                     for($i =  $start; $i<= $end; $i++) {
                         //Tampung array surat per ayat
                         $content_surah[$s]["isi_surah"][$i]['per_ayat']["text_arab"] = $list_surah_per_ayat[$index_surah]["text"][$i];
+                        $content_surah[$s]["isi_surah"][$i]['per_ayat']["latin"] = $list_surah_per_ayat[$index_surah]["latin"][$i];
                         $content_surah[$s]["isi_surah"][$i]['per_ayat']["terjemah"] = $list_surah_per_ayat[$index_surah]["terjemah"][$i];
                         
                         //Tampung array surat per kata
@@ -66,10 +72,14 @@ class api_model {
                         $content_surah[$s]["isi_surah"][$i]['per_kata']["terjemah"] = $list_surah_per_kata[$index_surah]["terjemah"][$i];
                         
                         //Tampung array tafsir
-                        if(isset($list_surah_per_ayat[$index_surah]["tafsir"][$i]))
-                            $content_surah[$s]["isi_surah"][$i]['tafsir'] = $list_surah_per_ayat[$index_surah]["tafsir"][$i];
-                        else 
-                            $content_surah[$s]["isi_surah"][$i]['tafsir'] = "";
+                        if( (isset($list_tafsir[$index_surah]["wajiz"][$i])) && (isset($list_tafsir[$index_surah]["tahlili"][$i])) ) {
+                            $content_surah[$s]["isi_surah"][$i]['tafsir_wajiz'] = $list_tafsir[$index_surah]["wajiz"][$i];
+                            $content_surah[$s]["isi_surah"][$i]['tafsir_tahlili'] = $list_tafsir[$index_surah]["tahlili"][$i];
+                        }
+                        else {
+                            $content_surah[$s]["isi_surah"][$i]['tafsir_wajiz'] = "";
+                            $content_surah[$s]["isi_surah"][$i]['tafsir_tahlili'] = "";
+                        }
                     }
                 }
             }

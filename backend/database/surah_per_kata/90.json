@@ -4,6 +4,7 @@
 		"name" : "البلد",
 		"name_latin" : "Al-Balad",
 		"number_of_ayah" : "20",
+		"number_of_words" : "82",
 		"text" : {
 			"1" : {"1" : "لَآ", "2" : "أُقْسِمُ", "3" : "بِهَٰذَا", "4" : "ٱلْبَلَدِ"},
 			"2" : {"1" : "وَأَنتَ", "2" : "حِلٌّۢ", "3" : "بِهَٰذَا", "4" : "ٱلْبَلَدِ"},
@@ -47,7 +48,6 @@
 			"18" : {"1" : "mereka itu", "2" : "golongan", "3" : "kanan"},
 			"19" : {"1" : "dan orang-orang yang", "2" : "kafir/ingkar", "3" : "dengan ayat-ayat Kami", "4" : "mereka", "5" : "golongan", "6" : "kiri"},
 			"20" : {"1" : "atas/untuk mereka", "2" : "api/neraka", "3" : "tertutup rapat"}
-
 		}
 	}
 }

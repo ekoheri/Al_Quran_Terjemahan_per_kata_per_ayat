@@ -4,6 +4,7 @@
 		"name" : "الإنشقاق",
 		"name_latin" : "Al-Insyiqaq",
 		"number_of_ayah" : "25",
+		"number_of_words" : "107",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "ٱلسَّمَآءُ", "3" : "ٱنشَقَّتْ"},
 			"2" : {"1" : "وَأَذِنَتْ", "2" : "لِرَبِّهَا", "3" : "وَحُقَّتْ"},
@@ -57,7 +58,6 @@
 			"23" : {"1" : "dan Allah", "2" : "lebih mengetahui", "3" : "terhadap apa", "4" : "mereka kumpulkan/simpan"},
 			"24" : {"1" : "maka beri kabar gembira mereka", "2" : "dengan azab", "3" : "pedih"},
 			"25" : {"1" : "kecuali", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mereka berbuat/beramal", "5" : "kebajikan/saleh", "6" : "bagi mereka", "7" : "pahala", "8" : "lain/tidak", "9" : "terputus-putus"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الشمس",
 		"name_latin" : "Asy-Syams",
 		"number_of_ayah" : "15",
+		"number_of_words" : "54",
 		"text" : {
 			"1" : {"1" : "وَٱلشَّمْسِ", "2" : "وَضُحَىٰهَا"},
 			"2" : {"1" : "وَٱلْقَمَرِ", "2" : "إِذَا", "3" : "تَلَىٰهَا"},
@@ -37,7 +38,6 @@
 			"13" : {"1" : "dan berkata", "2" : "kepada mereka", "3" : "rasul", "4" : "Allah", "5" : "unta betina", "6" : "Allah", "7" : "dan minumannya"},
 			"14" : {"1" : "dan mendustakan", "2" : "maka mereka melukai/menyembelih", "3" : "maka menurunkan azab/membinasakan", "4" : "atas mereka", "5" : "Tuhan mereka", "6" : "dengan dosa-dosa mereka", "7" : "dan Dia meratakannya"},
 			"15" : {"1" : "dan tidak", "2" : "takut", "3" : "akibatnya"}
-
 		}
 	}
 }

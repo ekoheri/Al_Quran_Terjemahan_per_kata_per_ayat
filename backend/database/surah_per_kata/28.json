@@ -4,6 +4,7 @@
 		"name" : "القصص",
 		"name_latin" : "Al-Qasas",
 		"number_of_ayah" : "88",
+		"number_of_words" : "1430",
 		"text" : {
 			"1" : {"1" : "طسٓمٓ"},
 			"2" : {"1" : "تِلْكَ", "2" : "ءَايَٰتُ", "3" : "ٱلْكِتَٰبِ", "4" : "ٱلْمُبِينِ"},
@@ -183,7 +184,6 @@
 			"86" : {"1" : "dan tidak ada", "2" : "kamu", "3" : "kamu mengharap", "4" : "bahwa", "5" : "dijatuhkan/diturunkan", "6" : "kepadamu", "7" : "Kitab", "8" : "melainkan", "9" : "suatu rahmat", "10" : "dari", "11" : "Tuhanmu", "12" : "maka janganlah", "13" : "sekali-kali kamu menjadi", "14" : "penolong", "15" : "bagi orang-orang yang kafir"},
 			"87" : {"1" : "dan jangan", "2" : "sekali-kali mereka menghalang-halangimu", "3" : "dari", "4" : "ayat-ayat", "5" : "Allah", "6" : "sesudah", "7" : "tatkala", "8" : "diturunkan", "9" : "kepadamu", "10" : "dan serulah", "11" : "kepada", "12" : "Tuhanmu", "13" : "dan janganlah", "14" : "sekali-kali kamu menjadi", "15" : "dari/termasuk", "16" : "orang-orang yang mempersekutukan"},
 			"88" : {"1" : "dan jangan", "2" : "kamu seru/sembah", "3" : "beserta/disamping", "4" : "Allah", "5" : "Tuhan", "6" : "yang lain", "7" : "tidak ada", "8" : "tuhan", "9" : "melainkan", "10" : "Dia", "11" : "segala", "12" : "sesuatu", "13" : "binasa", "14" : "kecuali", "15" : "wajah/dzat-Nya", "16" : "bagi-Nya", "17" : "hukum/penentuan", "18" : "dan kepadaNya", "19" : "kalian dikembalikan"}
-
 		}
 	}
 }

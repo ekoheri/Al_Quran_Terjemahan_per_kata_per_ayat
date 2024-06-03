@@ -4,6 +4,7 @@
 		"name" : "الغاشية",
 		"name_latin" : "Al-Gasyiyah",
 		"number_of_ayah" : "26",
+		"number_of_words" : "92",
 		"text" : {
 			"1" : {"1" : "هَلْ", "2" : "أَتَىٰكَ", "3" : "حَدِيثُ", "4" : "ٱلْغَٰشِيَةِ"},
 			"2" : {"1" : "وُجُوهٌ", "2" : "يَوْمَئِذٍ", "3" : "خَٰشِعَةٌ"},
@@ -59,7 +60,6 @@
 			"24" : {"1" : "maka akan menyiksanya", "2" : "Allah", "3" : "azab/siksaan", "4" : "besar"},
 			"25" : {"1" : "sesungguhnya", "2" : "kepada Kami", "3" : "kembali mereka"},
 			"26" : {"1" : "kemudian", "2" : "sesungguhnya", "3" : "atas kami", "4" : "perhitungan mereka"}
-
 		}
 	}
 }

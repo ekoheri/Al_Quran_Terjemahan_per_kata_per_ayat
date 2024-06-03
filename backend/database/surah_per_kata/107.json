@@ -4,6 +4,7 @@
 		"name" : "الماعون",
 		"name_latin" : "Al-Ma'un",
 		"number_of_ayah" : "7",
+		"number_of_words" : "25",
 		"text" : {
 			"1" : {"1" : "أَرَءَيْتَ", "2" : "ٱلَّذِى", "3" : "يُكَذِّبُ", "4" : "بِٱلدِّينِ"},
 			"2" : {"1" : "فَذَٰلِكَ", "2" : "ٱلَّذِى", "3" : "يَدُعُّ", "4" : "ٱلْيَتِيمَ"},
@@ -21,7 +22,6 @@
 			"5" : {"1" : "orang-orang yang", "2" : "mereka", "3" : "dar", "4" : "sholat mereka", "5" : "lalai"},
 			"6" : {"1" : "orang-orang yang", "2" : "mereka", "3" : "mereka berbuat ria"},
 			"7" : {"1" : "dan mereka mencegah/enggan", "2" : "pertolongan"}
-
 		}
 	}
 }

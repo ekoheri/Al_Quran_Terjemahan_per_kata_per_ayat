@@ -4,6 +4,7 @@
 		"name" : "الزخرف",
 		"name_latin" : "Az-Zukhruf",
 		"number_of_ayah" : "89",
+		"number_of_words" : "830",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "وَٱلْكِتَٰبِ", "2" : "ٱلْمُبِينِ"},
@@ -185,7 +186,6 @@
 			"87" : {"1" : "dan jika", "2" : "kamu bertanya pada mereka", "3" : "siapa", "4" : "menciptakan mereka", "5" : "tentu mereka mengatakan", "6" : "Allah", "7" : "maka bagaimana", "8" : "mereka dipalingkan"},
 			"88" : {"1" : "dan perkataannya", "2" : "wahai Tuhanku", "3" : "sesungguhnya", "4" : "mereka itu", "5" : "kaum", "6" : "tidak", "7" : "mereka beriman"},
 			"89" : {"1" : "maka maafkanlah", "2" : "dari mereka", "3" : "dan katakanlah", "4" : "selamat/sejahtera", "5" : "maka kelak", "6" : "mereka akan mengetahui"}
-
 		}
 	}
 }

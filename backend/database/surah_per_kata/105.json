@@ -4,6 +4,7 @@
 		"name" : "الفيل",
 		"name_latin" : "Al-Fil",
 		"number_of_ayah" : "5",
+		"number_of_words" : "23",
 		"text" : {
 			"1" : {"1" : "أَلَمْ", "2" : "تَرَ", "3" : "كَيْفَ", "4" : "فَعَلَ", "5" : "رَبُّكَ", "6" : "بِأَصْحَٰبِ", "7" : "ٱلْفِيلِ"},
 			"2" : {"1" : "أَلَمْ", "2" : "يَجْعَلْ", "3" : "كَيْدَهُمْ", "4" : "فِى", "5" : "تَضْلِيلٍ"},
@@ -17,7 +18,6 @@
 			"3" : {"1" : "dan Dia mengirimkan", "2" : "kepada mereka", "3" : "burung", "4" : "yang berbondong-bondong"},
 			"4" : {"1" : "yang melempari mereka", "2" : "dengan batu-batu", "3" : "dari", "4" : "tanah keras/terbakar"},
 			"5" : {"1" : "lalu Dia menjadikan mereka", "2" : "seperti daun", "3" : "dimakan"}
-
 		}
 	}
 }

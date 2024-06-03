@@ -4,6 +4,7 @@
 		"name" : "غافر",
 		"name_latin" : "Gafir",
 		"number_of_ayah" : "85",
+		"number_of_words" : "1219",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "تَنزِيلُ", "2" : "ٱلْكِتَٰبِ", "3" : "مِنَ", "4" : "ٱللَّهِ", "5" : "ٱلْعَزِيزِ", "6" : "ٱلْعَلِيمِ"},
@@ -177,7 +178,6 @@
 			"83" : {"1" : "maka tatkala", "2" : "datang kepada mereka", "3" : "rasul-rasul mereka", "4" : "dengan keterangan yang nyata", "5" : "mereka bergembira", "6" : "dengan apa", "7" : "di sisi mereka", "8" : "daripada", "9" : "ilmu pengetahuan", "10" : "dan mengepung", "11" : "pada mereka", "12" : "apa (azab)", "13" : "adalah mereka", "14" : "dengannya", "15" : "mereka memperolok-olok"},
 			"84" : {"1" : "maka tatkala", "2" : "mereka melihat", "3" : "azab Kami", "4" : "mereka berkata", "5" : "kami beriman", "6" : "kepada Allah", "7" : "sendiri-Nya", "8" : "dan kami ingkar", "9" : "dengan apa", "10" : "adalah kami", "11" : "dengan-Nya", "12" : "orang-orang yang mempersekutukan"},
 			"85" : {"1" : "maka tidak ada", "2" : "adalah", "3" : "berguna bagi mereka", "4" : "iman mereka", "5" : "tatkala", "6" : "mereka melihat", "7" : "azab Kami", "8" : "sunnah/ketetapan", "9" : "Allah", "10" : "yang", "11" : "sungguh", "12" : "telah berlaku", "13" : "pada", "14" : "hamba-hamba-Nya", "15" : "dan rugi", "16" : "di waktu itu", "17" : "orang-orang yang kafir"}
-
 		}
 	}
 }

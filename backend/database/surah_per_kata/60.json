@@ -4,6 +4,7 @@
 		"name" : "الممتحنة",
 		"name_latin" : "Al-Mumtahanah",
 		"number_of_ayah" : "13",
+		"number_of_words" : "348",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلَّذِينَ", "3" : "ءَامَنُوا۟", "4" : "لَا", "5" : "تَتَّخِذُوا۟", "6" : "عَدُوِّى", "7" : "وَعَدُوَّكُمْ", "8" : "أَوْلِيَآءَ", "9" : "تُلْقُونَ", "10" : "إِلَيْهِم", "11" : "بِٱلْمَوَدَّةِ", "12" : "وَقَدْ", "13" : "كَفَرُوا۟", "14" : "بِمَا", "15" : "جَآءَكُم", "16" : "مِّنَ", "17" : "ٱلْحَقِّ", "18" : "يُخْرِجُونَ", "19" : "ٱلرَّسُولَ", "20" : "وَإِيَّاكُمْۙ", "21" : "أَن", "22" : "تُؤْمِنُوا۟", "23" : "بِٱللَّهِ", "24" : "رَبِّكُمْ", "25" : "إِن", "26" : "كُنتُمْ", "27" : "خَرَجْتُمْ", "28" : "جِهَٰدًا", "29" : "فِى", "30" : "سَبِيلِى", "31" : "وَٱبْتِغَآءَ", "32" : "مَرْضَاتِىۚ", "33" : "تُسِرُّونَ", "34" : "إِلَيْهِم", "35" : "بِٱلْمَوَدَّةِ", "36" : "وَأَنَا۠", "37" : "أَعْلَمُ", "38" : "بِمَآ", "39" : "أَخْفَيْتُمْ", "40" : "وَمَآ", "41" : "أَعْلَنتُمْۚ", "42" : "وَمَن", "43" : "يَفْعَلْهُ", "44" : "مِنكُمْ", "45" : "فَقَدْ", "46" : "ضَلَّ", "47" : "سَوَآءَ", "48" : "ٱلسَّبِيلِ"},
 			"2" : {"1" : "إِن", "2" : "يَثْقَفُوكُمْ", "3" : "يَكُونُوا۟", "4" : "لَكُمْ", "5" : "أَعْدَآءً", "6" : "وَيَبْسُطُوٓا۟", "7" : "إِلَيْكُمْ", "8" : "أَيْدِيَهُمْ", "9" : "وَأَلْسِنَتَهُم", "10" : "بِٱلسُّوٓءِ", "11" : "وَوَدُّوا۟", "12" : "لَوْ", "13" : "تَكْفُرُونَ"},
@@ -33,7 +34,6 @@
 			"11" : {"1" : "dan jika", "2" : "berlalu/lari padamu", "3" : "sesuatu", "4" : "dari", "5" : "isteri-isterimu", "6" : "kepada", "7" : "orang-orang kafir", "8" : "lalu kamu mengalahkan", "9" : "maka berikanlah", "10" : "orang-orang yang", "11" : "pergi/lari", "12" : "isteri-isteri mereka", "13" : "seperti/sebesar", "14" : "apa", "15" : "mereka belanjakan", "16" : "dan bertakwalah", "17" : "Allah", "18" : "yang", "19" : "kamu", "20" : "kepada-Nya", "21" : "orang-orang yang beriman"},
 			"12" : {"1" : "wahai", "2" : "nabi", "3" : "apabila", "4" : "datang kepadamu", "5" : "wanita-wanita beriman", "6" : "berjanji setia", "7" : "atas", "8" : "bahwa", "9" : "tidak", "10" : "mempersekutukan", "11" : "dengan Allah", "12" : "sesuatu", "13" : "dan tidak", "14" : "mereka mencuri", "15" : "dan tidak", "16" : "berizina", "17" : "dan tidak", "18" : "membunuh", "19" : "anak-anak mereka", "20" : "dan tidak", "21" : "datangkan/berbuat", "22" : "dengan dusta", "23" : "mereka ada-adakannya", "24" : "antara", "25" : "tangan mereka", "26" : "dan kaki-kaki mereka", "27" : "dan tidak", "28" : "mereka mendurhakaimu", "29" : "dalam", "30" : "kebaikan", "31" : "maka terimalah janji setia mereka", "32" : "dan mohonkan ampun", "33" : "bagi/untuk mereka", "34" : "Allah", "35" : "sesungguhnya", "36" : "Allah", "37" : "Maha Pengampun", "38" : "Maha Penyayang"},
 			"13" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "jangan", "5" : "jadikan sabahat/pemimpin", "6" : "kaum", "7" : "memurkai", "8" : "Allah", "9" : "atas mereka", "10" : "sesungguhnya", "11" : "mereka putus asa", "12" : "dari/terhadap", "13" : "akhitat", "14" : "sebagaimana", "15" : "berputus asa", "16" : "orang-orang kafir", "17" : "dari", "18" : "penghuni", "19" : "kubur"}
-
 		}
 	}
 }

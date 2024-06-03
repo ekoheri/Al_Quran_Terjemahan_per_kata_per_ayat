@@ -4,6 +4,7 @@
 		"name" : "الفرقان",
 		"name_latin" : "Al-Furqan",
 		"number_of_ayah" : "77",
+		"number_of_words" : "893",
 		"text" : {
 			"1" : {"1" : "تَبَارَكَ", "2" : "ٱلَّذِى", "3" : "نَزَّلَ", "4" : "ٱلْفُرْقَانَ", "5" : "عَلَىٰ", "6" : "عَبْدِهِۦ", "7" : "لِيَكُونَ", "8" : "لِلْعَٰلَمِينَ", "9" : "نَذِيرًا"},
 			"2" : {"1" : "ٱلَّذِى", "2" : "لَهُۥ", "3" : "مُلْكُ", "4" : "ٱلسَّمَٰوَٰتِ", "5" : "وَٱلْأَرْضِ", "6" : "وَلَمْ", "7" : "يَتَّخِذْ", "8" : "وَلَدًا", "9" : "وَلَمْ", "10" : "يَكُن", "11" : "لَّهُۥ", "12" : "شَرِيكٌ", "13" : "فِى", "14" : "ٱلْمُلْكِ", "15" : "وَخَلَقَ", "16" : "كُلَّ", "17" : "شَىْءٍ", "18" : "فَقَدَّرَهُۥ", "19" : "تَقْدِيرًا"},
@@ -161,7 +162,6 @@
 			"75" : {"1" : "mereka itu", "2" : "akan diberi balasan", "3" : "martabat yang tinggi", "4" : "dengan apa/sebab", "5" : "mereka bersabar", "6" : "dan mereka akan disambut", "7" : "didalamnya (surga)", "8" : "penghormatan", "9" : "dan ucapan selamat"},
 			"76" : {"1" : "mereka kekal", "2" : "didalamnya", "3" : "sebaik-baik", "4" : "tempat menetap", "5" : "dan tempat tinggal"},
 			"77" : {"1" : "katakanlah", "2" : "tidak", "3" : "memperdulikan", "4" : "dengan/untuk kalian", "5" : "Tuhanku", "6" : "sekiranya tidak", "7" : "seruanmu/ibadatmu", "8" : "maka sesungguhnya", "9" : "kamu telah dustakan", "10" : "maka kelak", "11" : "adalah", "12" : "pasti"}
-
 		}
 	}
 }

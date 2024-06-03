@@ -4,6 +4,7 @@
 		"name" : "الصافات",
 		"name_latin" : "As-Saffat",
 		"number_of_ayah" : "182",
+		"number_of_words" : "860",
 		"text" : {
 			"1" : {"1" : "وَٱلصَّٰٓفَّٰتِ", "2" : "صَفًّا"},
 			"2" : {"1" : "فَٱلزَّٰجِرَٰتِ", "2" : "زَجْرًا"},
@@ -371,7 +372,6 @@
 			"180" : {"1" : "Maha Suci", "2" : "Tuhanmu", "3" : "Tuhan/pemelihara", "4" : "keperkasaan/kemuliaan", "5" : "dari apa", "6" : "mereka sifatkan"},
 			"181" : {"1" : "dan kesejahteraan", "2" : "atas", "3" : "para Rasul"},
 			"182" : {"1" : "dan segala puji", "2" : "bagi Allah", "3" : "Tuhan/pemelihara", "4" : "semesta alam"}
-
 		}
 	}
 }

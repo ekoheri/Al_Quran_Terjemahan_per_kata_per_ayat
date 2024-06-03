@@ -4,6 +4,7 @@
 		"name" : "النجم",
 		"name_latin" : "An-Najm",
 		"number_of_ayah" : "62",
+		"number_of_words" : "360",
 		"text" : {
 			"1" : {"1" : "وَٱلنَّجْمِ", "2" : "إِذَا", "3" : "هَوَىٰ"},
 			"2" : {"1" : "مَا", "2" : "ضَلَّ", "3" : "صَاحِبُكُمْ", "4" : "وَمَا", "5" : "غَوَىٰ"},
@@ -131,7 +132,6 @@
 			"60" : {"1" : "dan kamu mentertawakan", "2" : "dan tidak", "3" : "menangis"},
 			"61" : {"1" : "dan kalian", "2" : "melengahkan"},
 			"62" : {"1" : "maka bersujudlah", "2" : "kepada Allah", "3" : "dan sembahlah (Dia)"}
-
 		}
 	}
 }

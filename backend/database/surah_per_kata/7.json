@@ -1,9 +1,10 @@
 {
-	"7" : {
-		"number": "7",
-        "name": "الاعراف",
-        "name_latin": "Al-A'raf",
-        "number_of_ayah": "206",
+	"7" :{
+		"number" : "7",
+		"name" : "الأعراف",
+		"name_latin" : "Al-A'raf",
+		"number_of_ayah" : "206",
+		"number_of_words" : "3320",
 		"text" : {
 			"1" : {"1" : "الٓمٓصٓ"},
 			"2" : {"1" : "كِتَٰبٌ", "2" : "أُنزِلَ", "3" : "إِلَيْكَ", "4" : "فَلَا", "5" : "يَكُن", "6" : "فِى", "7" : "صَدْرِكَ", "8" : "حَرَجٌ", "9" : "مِّنْهُ", "10" : "لِتُنذِرَ", "11" : "بِهِۦ", "12" : "وَذِكْرَىٰ", "13" : "لِلْمُؤْمِنِينَ"},
@@ -419,7 +420,6 @@
 			"204" : {"1" : "dan jika", "2" : "dibacakan", "3" : "Al Quran", "4" : "maka dengarkanlah", "5" : "kepadanya", "6" : "dan perhatikanlah", "7" : "agar kalian", "8" : "kamu diberi rahmat"},
 			"205" : {"1" : "dan ingatlah", "2" : "Tuhanmu", "3" : "dalam", "4" : "hatimu", "5" : "merendahkan diri", "6" : "dan rasa takut", "7" : "dan tidak", "8" : "keras", "9" : "dari", "10" : "perkataan/suara", "11" : "diwaktu pagi", "12" : "dan petang", "13" : "dan jangan", "14" : "kamu menjadi", "15" : "dari", "16" : "orang-orang yang lalai"},
 			"206" : {"1" : "sesungguhnya", "2" : "malaikat-malaikat yang", "3" : "disisi", "4" : "Tuhanmu", "5" : "tidak", "6" : "menyombongkan diri", "7" : "dari", "8" : "beribadah kepadaNya", "9" : "dan mereka mensucikanNya", "10" : "dan kepadaNya", "11" : "mereka bersujud"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "النور",
 		"name_latin" : "An-Nur",
 		"number_of_ayah" : "64",
+		"number_of_words" : "1316",
 		"text" : {
 			"1" : {"1" : "سُورَةٌ", "2" : "أَنزَلْنَٰهَا", "3" : "وَفَرَضْنَٰهَا", "4" : "وَأَنزَلْنَا", "5" : "فِيهَآ", "6" : "ءَايَٰتٍۭ", "7" : "بَيِّنَٰتٍ", "8" : "لَّعَلَّكُمْ", "9" : "تَذَكَّرُونَ"},
 			"2" : {"1" : "ٱلزَّانِيَةُ", "2" : "وَٱلزَّانِى", "3" : "فَٱجْلِدُوا۟", "4" : "كُلَّ", "5" : "وَٰحِدٍ", "6" : "مِّنْهُمَا", "7" : "مِا۟ئَةَ", "8" : "جَلْدَةٍۖ", "9" : "وَلَا", "10" : "تَأْخُذْكُم", "11" : "بِهِمَا", "12" : "رَأْفَةٌ", "13" : "فِى", "14" : "دِينِ", "15" : "ٱللَّهِ", "16" : "إِن", "17" : "كُنتُمْ", "18" : "تُؤْمِنُونَ", "19" : "بِٱللَّهِ", "20" : "وَٱلْيَوْمِ", "21" : "ٱلْءَاخِرِۖ", "22" : "وَلْيَشْهَدْ", "23" : "عَذَابَهُمَا", "24" : "طَآئِفَةٌ", "25" : "مِّنَ", "26" : "ٱلْمُؤْمِنِينَ"},
@@ -135,7 +136,6 @@
 			"62" : {"1" : "sesungguhnya hanyalah", "2" : "orang-orang mu'min", "3" : "orang-orang yang", "4" : "beriman", "5" : "kepada Allah", "6" : "dan Rasul-Nya", "7" : "dan apabila", "8" : "mereka berada", "9" : "bersamanya", "10" : "atas", "11" : "suatu perkara/urusan", "12" : "berkumpul/pertemuan", "13" : "mereka tidak", "14" : "pergi/meninggalkan", "15" : "sehingga", "16" : "mereka minta izin kepadanya", "17" : "sesungguhnya", "18" : "orang-orang yang", "19" : "(mereka) minta izin kepadamu", "20" : "mereka itu", "21" : "orang-orang yang", "22" : "beriman", "23" : "kepada Allah", "24" : "dan Rasul-Nya", "25" : "maka apabila", "26" : "mereka minta izin kepadamu", "27" : "karena sebagian", "28" : "keperluan mereka", "29" : "maka izinkanlah", "30" : "kepada siapa", "31" : "kamu kehendaki", "32" : "diantara mereka", "33" : "dan mohonkan ampunan", "34" : "untuk mereka", "35" : "Allah", "36" : "sesungguhnya", "37" : "Allah", "38" : "Maha Pengampun", "39" : "Maha Penyayang"},
 			"63" : {"1" : "janganlah", "2" : "kalian jadikan", "3" : "seruan/panggilan", "4" : "Rasul", "5" : "diantara kamu", "6" : "seperti seruan/panggilan", "7" : "sebagian kamu", "8" : "sebagian yang lain", "9" : "sesungguhnya", "10" : "mengetahui", "11" : "Allah", "12" : "orang-orang yang", "13" : "(mereka) pergi berangsur-angsur", "14" : "diantara kamu", "15" : "berlindung", "16" : "maka hendaklah takut", "17" : "orang-orang yang", "18" : "(mereka) menyalahi", "19" : "dari", "20" : "perintah-Nya", "21" : "akan", "22" : "menimpa mereka", "23" : "fitnah/cobaan", "24" : "atau", "25" : "menimpa mereka", "26" : "azab", "27" : "pedih"},
 			"64" : {"1" : "ketahuilah", "2" : "sesungguhnya", "3" : "kepunyaan Allah", "4" : "apa", "5" : "di", "6" : "langit(jamak)", "7" : "dan dibumi", "8" : "sesungguhnya", "9" : "Dia mengetahui", "10" : "apa yang", "11" : "kamu", "12" : "atasnya", "13" : "dan hari", "14" : "mereka dikembalikan", "15" : "kepada-Nya", "16" : "lalu Dia menerangkan kepada mereka", "17" : "dengan apa", "18" : "mereka kerjakan", "19" : "dan Allah", "20" : "dengan segala", "21" : "sesuatu", "22" : "Maha Mengetahui"}
-
 		}
 	}
 }

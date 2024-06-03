@@ -4,6 +4,7 @@
 		"name" : "المنافقون",
 		"name_latin" : "Al-Munafiqun",
 		"number_of_ayah" : "11",
+		"number_of_words" : "180",
 		"text" : {
 			"1" : {"1" : "إِذَا", "2" : "جَآءَكَ", "3" : "ٱلْمُنَٰفِقُونَ", "4" : "قَالُوا۟", "5" : "نَشْهَدُ", "6" : "إِنَّكَ", "7" : "لَرَسُولُ", "8" : "ٱللَّهِۗ", "9" : "وَٱللَّهُ", "10" : "يَعْلَمُ", "11" : "إِنَّكَ", "12" : "لَرَسُولُهُۥ", "13" : "وَٱللَّهُ", "14" : "يَشْهَدُ", "15" : "إِنَّ", "16" : "ٱلْمُنَٰفِقِينَ", "17" : "لَكَٰذِبُونَ"},
 			"2" : {"1" : "ٱتَّخَذُوٓا۟", "2" : "أَيْمَٰنَهُمْ", "3" : "جُنَّةً", "4" : "فَصَدُّوا۟", "5" : "عَن", "6" : "سَبِيلِ", "7" : "ٱللَّهِۚ", "8" : "إِنَّهُمْ", "9" : "سَآءَ", "10" : "مَا", "11" : "كَانُوا۟", "12" : "يَعْمَلُونَ"},
@@ -29,7 +30,6 @@
 			"9" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "tidak/jangan", "5" : "melalaikan kamu", "6" : "harta-hartamu", "7" : "dan jangan", "8" : "anak-anakmu", "9" : "dari", "10" : "mengingat", "11" : "Allah", "12" : "dan barang siapa", "13" : "berbuat", "14" : "demikian", "15" : "maka mereka itu", "16" : "mereka", "17" : "orang-orang yang rugi"},
 			"10" : {"1" : "dan nafkahkan/belanjakan", "2" : "dari", "3" : "apa", "4" : "Kami rizkikan kepadamu", "5" : "dari", "6" : "sebelum", "7" : "bahwa", "8" : "datang", "9" : "salah satu dari kamu", "10" : "kematian", "11" : "lalu dia berkata", "12" : "ya Tuhanku", "13" : "mengapa tidak", "14" : "Engkau akhirkan/undurkan aku", "15" : "sampai", "16" : "waktu", "17" : "dekat", "18" : "maka aku akan bersedekah", "19" : "dan jadilah aku", "20" : "dari", "21" : "orang-orang yang saleh"},
 			"11" : {"1" : "dan tidak", "2" : "akan mengundurkan", "3" : "Allah", "4" : "seseorang", "5" : "apabila", "6" : "datang", "7" : "waktunya", "8" : "dan Allah", "9" : "Maha Mengetahui", "10" : "terhadap apa", "11" : "kamu kerjakan"}
-
 		}
 	}
 }

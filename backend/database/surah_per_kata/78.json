@@ -4,6 +4,7 @@
 		"name" : "النبإ",
 		"name_latin" : "An-Naba'",
 		"number_of_ayah" : "40",
+		"number_of_words" : "173",
 		"text" : {
 			"1" : {"1" : "عَمَّ", "2" : "يَتَسَآءَلُونَ"},
 			"2" : {"1" : "عَنِ", "2" : "ٱلنَّبَإِ", "3" : "ٱلْعَظِيمِ"},
@@ -87,7 +88,6 @@
 			"38" : {"1" : "hari", "2" : "berdiri", "3" : "ruh", "4" : "dan malaikat", "5" : "berbaris", "6" : "tidak", "7" : "merekaberkata-kata", "8" : "kecuali", "9" : "siapa/orang", "10" : "memberi izin", "11" : "kepadanya", "12" : "Yang Maha Pengasih", "13" : "dan berkata", "14" : "yang benar"},
 			"39" : {"1" : "demikian/itu", "2" : "hari", "3" : "hak/benar", "4" : "maka barang siapa", "5" : "ia menghendaki", "6" : "ia mengambil", "7" : "kepada", "8" : "Tuhannya", "9" : "tempat kembali"},
 			"40" : {"1" : "sesungguhnya Kami", "2" : "Kami memberi peringatan kepadamu", "3" : "azab", "4" : "dekat", "5" : "hari", "6" : "melihat", "7" : "seseorang", "8" : "apa", "9" : "mendahului/diperbuat", "10" : "kedua tangannya", "11" : "dan berkata", "12" : "orang kafir", "13" : "alangkah baiknya aku dulu", "14" : "adalah aku", "15" : "debu/tanah"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الانسان",
 		"name_latin" : "Al-Insan",
 		"number_of_ayah" : "31",
+		"number_of_words" : "243",
 		"text" : {
 			"1" : {"1" : "هَلْ", "2" : "أَتَىٰ", "3" : "عَلَى", "4" : "ٱلْإِنسَٰنِ", "5" : "حِينٌ", "6" : "مِّنَ", "7" : "ٱلدَّهْرِ", "8" : "لَمْ", "9" : "يَكُن", "10" : "شَيْـًٔا", "11" : "مَّذْكُورًا"},
 			"2" : {"1" : "إِنَّا", "2" : "خَلَقْنَا", "3" : "ٱلْإِنسَٰنَ", "4" : "مِن", "5" : "نُّطْفَةٍ", "6" : "أَمْشَاجٍ", "7" : "نَّبْتَلِيهِ", "8" : "فَجَعَلْنَٰهُ", "9" : "سَمِيعًۢا", "10" : "بَصِيرًا"},
@@ -69,7 +70,6 @@
 			"29" : {"1" : "sesungguhnya", "2" : "ini", "3" : "peringatan/pengajaran", "4" : "maka barang siapa", "5" : "dia menghendaki", "6" : "dia mengambil", "7" : "kepada", "8" : "Tuhannya", "9" : "jalan"},
 			"30" : {"1" : "dan tidak", "2" : "kamu menghendaki", "3" : "kecuali", "4" : "bahwa", "5" : "menghendaki", "6" : "Allah", "7" : "sesungguhnya", "8" : "Allah", "9" : "adalah ia", "10" : "Maha Mengetahui", "11" : "Maha Bijaksana"},
 			"31" : {"1" : "Dia memasukkan", "2" : "siapa", "3" : "Dia kehendaki", "4" : "dalam", "5" : "rahmat-Nya", "6" : "dan orang-orang zalim", "7" : "Dia sediakan", "8" : "bagi mereka", "9" : "azab", "10" : "pedih"}
-
 		}
 	}
 }

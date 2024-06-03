@@ -5,4 +5,5 @@ define('DIR_ROOT', $_SERVER['DOCUMENT_ROOT']);
 define('DB_FILE_PAGE_SURAH', DIR_ROOT.'/backend/database/page_surah.json');
 define('DIR_FILE_SURAH_PER_AYAT', DIR_ROOT.'/backend/database/surah_per_ayat/');
 define('DIR_FILE_SURAH_PER_KATA', DIR_ROOT.'/backend/database/surah_per_kata/');
+define('DIR_FILE_TAFSIR', DIR_ROOT.'/backend/database/tafsir/');
 ?>

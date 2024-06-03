@@ -4,6 +4,7 @@
 		"name" : "محمد",
 		"name_latin" : "Muhammad",
 		"number_of_ayah" : "38",
+		"number_of_words" : "539",
 		"text" : {
 			"1" : {"1" : "ٱلَّذِينَ", "2" : "كَفَرُوا۟", "3" : "وَصَدُّوا۟", "4" : "عَن", "5" : "سَبِيلِ", "6" : "ٱللَّهِ", "7" : "أَضَلَّ", "8" : "أَعْمَٰلَهُمْ"},
 			"2" : {"1" : "وَٱلَّذِينَ", "2" : "ءَامَنُوا۟", "3" : "وَعَمِلُوا۟", "4" : "ٱلصَّٰلِحَٰتِ", "5" : "وَءَامَنُوا۟", "6" : "بِمَا", "7" : "نُزِّلَ", "8" : "عَلَىٰ", "9" : "مُحَمَّدٍ", "10" : "وَهُوَ", "11" : "ٱلْحَقُّ", "12" : "مِن", "13" : "رَّبِّهِمْۙ", "14" : "كَفَّرَ", "15" : "عَنْهُمْ", "16" : "سَيِّـَٔاتِهِمْ", "17" : "وَأَصْلَحَ", "18" : "بَالَهُمْ"},
@@ -83,7 +84,6 @@
 			"36" : {"1" : "sesungguhnya", "2" : "kehidupan", "3" : "dunia", "4" : "permainan", "5" : "dan senda gurau", "6" : "dan jika", "7" : "kamu beriman", "8" : "dan bertaqwa", "9" : "Dia akan memberi padamu", "10" : "pahalamu", "11" : "dan tidak", "12" : "meminta kepadamu", "13" : "harta-harta kamu"},
 			"37" : {"1" : "jika", "2" : "Dia meminta kepadamu", "3" : "lalu Dia mendesakmu", "4" : "kamu akan kikir", "5" : "dan Dia mengeluarkan/menampakkan", "6" : "kedengkianmu/kebencianmu"},
 			"38" : {"1" : "ingatlah kamu", "2" : "mereka/orang-orang ini", "3" : "kamu diseru/diajak", "4" : "untuk/agar kamu menafkahkan", "5" : "pada", "6" : "jalan", "7" : "Allah", "8" : "maka diantara kamu", "9" : "orang-orang", "10" : "ia kirik", "11" : "dan orang-orang", "12" : "ia kirik", "13" : "maka sesungguhnya hanyalah", "14" : "ia kikir", "15" : "dari", "16" : "dirinya sendiri", "17" : "dan Allah", "18" : "Maha Kaya", "19" : "dan kalian", "20" : "fakir/berkeperluan", "21" : "dan jika", "22" : "kamu berpaling", "23" : "Dia mengganti", "24" : "kaum", "25" : "selain kamu", "26" : "kemudian", "27" : "tidak", "28" : "adalah mereka", "29" : "seperti kamu"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "ص",
 		"name_latin" : "Sad",
 		"number_of_ayah" : "88",
+		"number_of_words" : "733",
 		"text" : {
 			"1" : {"1" : "صٓۚ", "2" : "وَٱلْقُرْءَانِ", "3" : "ذِى", "4" : "ٱلذِّكْرِ"},
 			"2" : {"1" : "بَلِ", "2" : "ٱلَّذِينَ", "3" : "كَفَرُوا۟", "4" : "فِى", "5" : "عِزَّةٍ", "6" : "وَشِقَاقٍ"},
@@ -183,7 +184,6 @@
 			"86" : {"1" : "katakanlah", "2" : "tidak", "3" : "aku meminta kepadamu", "4" : "atasnya", "5" : "dari", "6" : "upah", "7" : "dan tidaklah/bukanlah", "8" : "aku", "9" : "dari", "10" : "orang-orang yang memaksa/mengada-adakan"},
 			"87" : {"1" : "tidak lain", "2" : "dia", "3" : "kecuali", "4" : "peringatan/pengajaran", "5" : "bagi semesta alam"},
 			"88" : {"1" : "dan sungguh kamu akan mengetahui", "2" : "beritanya", "3" : "sesudah", "4" : "waktu"}
-
 		}
 	}
 }

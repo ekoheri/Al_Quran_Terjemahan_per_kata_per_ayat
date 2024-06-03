@@ -4,6 +4,7 @@
 		"name" : "الذاريات",
 		"name_latin" : "Az-Zariyat",
 		"number_of_ayah" : "60",
+		"number_of_words" : "360",
 		"text" : {
 			"1" : {"1" : "وَٱلذَّٰرِيَٰتِ", "2" : "ذَرْوًا"},
 			"2" : {"1" : "فَٱلْحَٰمِلَٰتِ", "2" : "وِقْرًا"},
@@ -127,7 +128,6 @@
 			"58" : {"1" : "sesungguhnya", "2" : "Allah", "3" : "Dia", "4" : "Maha Pemberi rezeki", "5" : "mempunyai", "6" : "kekuatan", "7" : "teguh/kokoh"},
 			"59" : {"1" : "maka sesungguhnya", "2" : "bagi orang-orang yang", "3" : "zalim", "4" : "bahagian(siksa)", "5" : "seperti", "6" : "bahagian(siksa)", "7" : "teman-teman mereka", "8" : "maka jangan", "9" : "mereka meminta disegerakan kepada-Ku"},
 			"60" : {"1" : "maka kecelakaanlah", "2" : "bagi orang-orang yang", "3" : "kafir/ingkar", "4" : "dari", "5" : "pada hari mereka", "6" : "yang", "7" : "mereka diancam"}
-
 		}
 	}
 }

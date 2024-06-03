@@ -4,6 +4,7 @@
 		"name" : "طه",
 		"name_latin" : "Taha",
 		"number_of_ayah" : "135",
+		"number_of_words" : "1335",
 		"text" : {
 			"1" : {"1" : "طه"},
 			"2" : {"1" : "مَآ", "2" : "أَنزَلْنَا", "3" : "عَلَيْكَ", "4" : "ٱلْقُرْءَانَ", "5" : "لِتَشْقَىٰٓ"},
@@ -277,7 +278,6 @@
 			"133" : {"1" : "dan mereka berkata", "2" : "mengapa tidak", "3" : "dia datang kepada kami", "4" : "dengan ayat/bukti", "5" : "dari", "6" : "Tuhannya", "7" : "ataukah tidak", "8" : "datang kepada mereka", "9" : "yang nyata", "10" : "apa yang", "11" : "dalam", "12" : "kitab-kitab", "13" : "pertama/dahulu"},
 			"134" : {"1" : "dan sekiranya", "2" : "sesungguhnya Kami", "3" : "Kami membinasakan mereka", "4" : "dengan suatu azab", "5" : "dari", "6" : "sebelumnya", "7" : "pasti mereka berkata", "8" : "ya Tuhan kami", "9" : "mengapa tidak", "10" : "Engkau utus", "11" : "kepada kami", "12" : "seorang Rasul", "13" : "maka kami akan mengikuti", "14" : "ayat-ayat Engkau", "15" : "dari", "16" : "sebelum", "17" : "bahwa", "18" : "kami hina", "19" : "dan kami bernoda/rendah"},
 			"135" : {"1" : "katakanlah", "2" : "masing-masing", "3" : "menunggu", "4" : "maka tunggulah olehmu", "5" : "maka kamu akan mengetahui", "6" : "orang/siapa", "7" : "penghuni (mempunyai)", "8" : "jalan", "9" : "sama/lurus", "10" : "dan siapa", "11" : "mendapat petunjuk"}
-
 		}
 	}
 }

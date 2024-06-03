@@ -4,6 +4,7 @@
 		"name" : "الشورى",
 		"name_latin" : "Asy-Syura",
 		"number_of_ayah" : "53",
+		"number_of_words" : "860",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "عٓسٓقٓ"},
@@ -113,7 +114,6 @@
 			"51" : {"1" : "dan tidak", "2" : "ada", "3" : "bagi seorang manusia", "4" : "bahwa", "5" : "berkata dengannya", "6" : "Allah", "7" : "kecuali", "8" : "wahyu", "9" : "atau", "10" : "dari", "11" : "belakang", "12" : "tabir", "13" : "atau", "14" : "mengutus", "15" : "utusan", "16" : "lalu diwahyukan", "17" : "dengan idzin-Nya", "18" : "apa yang", "19" : "Dia kehendaki", "20" : "sesungguhnya Dia", "21" : "Maha Tinggi", "22" : "Maha Bijaksana"},
 			"52" : {"1" : "dan demikianlah", "2" : "Kami wahyukan", "3" : "kepadamu", "4" : "roh/Al Qur'an", "5" : "dari", "6" : "urusan Kami", "7" : "tidaklah", "8" : "kamu adalah", "9" : "kamu mengetahui", "10" : "apakah", "11" : "Al kitab", "12" : "dan tidak", "13" : "iman", "14" : "akan tetapi", "15" : "Kami jadikannya", "16" : "cahaya", "17" : "Kami beri petunjuk", "18" : "dengannya", "19" : "siapa", "20" : "Kami kehendaki", "21" : "dari", "22" : "hamba-hamba Kami", "23" : "dan sesungguhnya kamu", "24" : "benar-benar kamu memberi petunjuk", "25" : "kepada", "26" : "jalan", "27" : "yang lurus"},
 			"53" : {"1" : "jalan", "2" : "Allah", "3" : "yang", "4" : "kepunyaan-Nya", "5" : "segala apa yang", "6" : "di", "7" : "langit(jamak)", "8" : "dan segala apa yang", "9" : "di", "10" : "bumi", "11" : "ingatlah", "12" : "kepada", "13" : "Allah", "14" : "kembali", "15" : "segala urusan"}
-
 		}
 	}
 }

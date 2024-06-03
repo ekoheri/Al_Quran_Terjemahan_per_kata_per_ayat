@@ -4,6 +4,7 @@
 		"name" : "الكافرون",
 		"name_latin" : "Al-Kafirun",
 		"number_of_ayah" : "6",
+		"number_of_words" : "26",
 		"text" : {
 			"1" : {"1" : "قُلْ", "2" : "يَٰٓأَيُّهَا", "3" : "ٱلْكَٰفِرُونَ"},
 			"2" : {"1" : "لَآ", "2" : "أَعْبُدُ", "3" : "مَا", "4" : "تَعْبُدُونَ"},
@@ -19,7 +20,6 @@
 			"4" : {"1" : "dan bukanlah", "2" : "aku", "3" : "menjadi penyembah", "4" : "apa", "5" : "kamu sembah"},
 			"5" : {"1" : "dan bukanlah", "2" : "kamu", "3" : "menyembah", "4" : "apa", "5" : "aku sembah"},
 			"6" : {"1" : "bagi kalian", "2" : "agamamu", "3" : "bagiku", "4" : "agamaku"}
-
 		}
 	}
 }

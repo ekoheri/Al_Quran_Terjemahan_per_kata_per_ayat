@@ -4,6 +4,7 @@
 		"name" : "الأنفال",
 		"name_latin" : "Al-Anfal",
 		"number_of_ayah" : "75",
+		"number_of_words" : "1233",
 		"text" : {
 			"1" : {"1" : "يَسْـَٔلُونَكَ", "2" : "عَنِ", "3" : "ٱلْأَنفَالِۖ", "4" : "قُلِ", "5" : "ٱلْأَنفَالُ", "6" : "لِلَّهِ", "7" : "وَٱلرَّسُولِۖ", "8" : "فَٱتَّقُوا۟", "9" : "ٱللَّهَ", "10" : "وَأَصْلِحُوا۟", "11" : "ذَاتَ", "12" : "بَيْنِكُمْۖ", "13" : "وَأَطِيعُوا۟", "14" : "ٱللَّهَ", "15" : "وَرَسُولَهُۥٓ", "16" : "إِن", "17" : "كُنتُم", "18" : "مُّؤْمِنِينَ"},
 			"2" : {"1" : "إِنَّمَا", "2" : "ٱلْمُؤْمِنُونَ", "3" : "ٱلَّذِينَ", "4" : "إِذَا", "5" : "ذُكِرَ", "6" : "ٱللَّهُ", "7" : "وَجِلَتْ", "8" : "قُلُوبُهُمْ", "9" : "وَإِذَا", "10" : "تُلِيَتْ", "11" : "عَلَيْهِمْ", "12" : "ءَايَٰتُهُۥ", "13" : "زَادَتْهُمْ", "14" : "إِيمَٰنًا", "15" : "وَعَلَىٰ", "16" : "رَبِّهِمْ", "17" : "يَتَوَكَّلُونَ"},
@@ -157,7 +158,6 @@
 			"73" : {"1" : "dan orang-orang yang", "2" : "kafir/ingkar", "3" : "sebagian mereka", "4" : "menjadi pelindung", "5" : "sebagian yang lain", "6" : "kecuali", "7" : "kamu melaksanakannya", "8" : "adalah/terjadi", "9" : "fitnah", "10" : "di", "11" : "bumi", "12" : "dan kerusakan", "13" : "yang besar"},
 			"74" : {"1" : "dan orang-orang yang", "2" : "beriman", "3" : "dan mereka berhijrah", "4" : "dan mereka berjihad", "5" : "pada", "6" : "jalan", "7" : "Allah", "8" : "dan orang-orang yang", "9" : "memberi tempat kediaman/perlindungan", "10" : "dan mereka memberi pertolongan", "11" : "mereka itulah", "12" : "mereka", "13" : "orang-orang yang beriman", "14" : "benar", "15" : "bagi mereka", "16" : "ampunan", "17" : "dan rezki", "18" : "yang mulia"},
 			"75" : {"1" : "dan orang-orang yang", "2" : "beriman", "3" : "dari", "4" : "sesudah itu", "5" : "dan mereka berhijrah", "6" : "dan mereka berjihad", "7" : "bersamamu", "8" : "maka mereka itu", "9" : "dari kamu", "10" : "dan orang mempunyai", "11" : "hubungan kerabat", "12" : "sebagian mereka", "13" : "lebih utama", "14" : "dengan sebagian yang lain", "15" : "di dalam", "16" : "Kitab", "17" : "Allah", "18" : "sesungguhnya", "19" : "Allah", "20" : "dengan segala", "21" : "sesuatu", "22" : "Maha Mengetahui"}
-
 		}
 	}
 }

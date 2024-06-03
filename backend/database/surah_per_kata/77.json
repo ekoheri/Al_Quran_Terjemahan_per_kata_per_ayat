@@ -4,6 +4,7 @@
 		"name" : "المرسلات",
 		"name_latin" : "Al-Mursalat",
 		"number_of_ayah" : "50",
+		"number_of_words" : "181",
 		"text" : {
 			"1" : {"1" : "وَٱلْمُرْسَلَٰتِ", "2" : "عُرْفًا"},
 			"2" : {"1" : "فَٱلْعَٰصِفَٰتِ", "2" : "عَصْفًا"},
@@ -107,7 +108,6 @@
 			"48" : {"1" : "dan apabila", "2" : "dikatakan", "3" : "kepada mereka", "4" : "tunduklah", "5" : "tidak", "6" : "mereka tunduk"},
 			"49" : {"1" : "kecelakaan", "2" : "pada hari itu", "3" : "bagi orang-orang yang mendustakan"},
 			"50" : {"1" : "maka yang manakah", "2" : "perkataan", "3" : "sesudahnya (Al Qur'an)", "4" : "mereka akan beriman"}
-
 		}
 	}
 }

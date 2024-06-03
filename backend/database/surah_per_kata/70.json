@@ -4,6 +4,7 @@
 		"name" : "المعارج",
 		"name_latin" : "Al-Ma'arij",
 		"number_of_ayah" : "44",
+		"number_of_words" : "217",
 		"text" : {
 			"1" : {"1" : "سَأَلَ", "2" : "سَآئِلٌۢ", "3" : "بِعَذَابٍ", "4" : "وَاقِعٍ"},
 			"2" : {"1" : "لِّلْكَٰفِرِينَ", "2" : "لَيْسَ", "3" : "لَهُۥ", "4" : "دَافِعٌ"},
@@ -95,7 +96,6 @@
 			"42" : {"1" : "maka  biarkan mereka", "2" : "mereka tenggelam", "3" : "dan mereka main-main", "4" : "sehingga", "5" : "mereka menemui", "6" : "hari mereka", "7" : "yang", "8" : "mereka dijanjikan"},
 			"43" : {"1" : "pada hari", "2" : "mereka keluar", "3" : "dari", "4" : "kubur", "5" : "dengan cepat", "6" : "seakan-akan mereka", "7" : "kepada", "8" : "berhala-berhala", "9" : "mereka pergi dengan segera"},
 			"44" : {"1" : "menundukkan", "2" : "pandangan mereka", "3" : "meliputi/menimpa mereka", "4" : "kerendahan/kehinaan", "5" : "demikian/itu", "6" : "hari", "7" : "yang", "8" : "adalah mereka", "9" : "mereka diancam/dijanjikan"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الهمزة",
 		"name_latin" : "Al-Humazah",
 		"number_of_ayah" : "9",
+		"number_of_words" : "33",
 		"text" : {
 			"1" : {"1" : "وَيْلٌ", "2" : "لِّكُلِّ", "3" : "هُمَزَةٍ", "4" : "لُّمَزَةٍ"},
 			"2" : {"1" : "ٱلَّذِى", "2" : "جَمَعَ", "3" : "مَالًا", "4" : "وَعَدَّدَهُۥ"},
@@ -25,7 +26,6 @@
 			"7" : {"1" : "yang", "2" : "naik", "3" : "ke atas/sampai", "4" : "hati"},
 			"8" : {"1" : "sesungguhnya ia (api)", "2" : "atas mereka", "3" : "terikat/ditutup rapat"},
 			"9" : {"1" : "dalam/pada", "2" : "tiang", "3" : "panjang"}
-
 		}
 	}
 }

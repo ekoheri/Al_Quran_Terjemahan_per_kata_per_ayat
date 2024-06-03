@@ -4,6 +4,7 @@
 		"name" : "سبإ",
 		"name_latin" : "Saba'",
 		"number_of_ayah" : "54",
+		"number_of_words" : "883",
 		"text" : {
 			"1" : {"1" : "ٱلْحَمْدُ", "2" : "لِلَّهِ", "3" : "ٱلَّذِى", "4" : "لَهُۥ", "5" : "مَا", "6" : "فِى", "7" : "ٱلسَّمَٰوَٰتِ", "8" : "وَمَا", "9" : "فِى", "10" : "ٱلْأَرْضِ", "11" : "وَلَهُ", "12" : "ٱلْحَمْدُ", "13" : "فِى", "14" : "ٱلْءَاخِرَةِۚ", "15" : "وَهُوَ", "16" : "ٱلْحَكِيمُ", "17" : "ٱلْخَبِيرُ"},
 			"2" : {"1" : "يَعْلَمُ", "2" : "مَا", "3" : "يَلِجُ", "4" : "فِى", "5" : "ٱلْأَرْضِ", "6" : "وَمَا", "7" : "يَخْرُجُ", "8" : "مِنْهَا", "9" : "وَمَا", "10" : "يَنزِلُ", "11" : "مِنَ", "12" : "ٱلسَّمَآءِ", "13" : "وَمَا", "14" : "يَعْرُجُ", "15" : "فِيهَاۚ", "16" : "وَهُوَ", "17" : "ٱلرَّحِيمُ", "18" : "ٱلْغَفُورُ"},
@@ -115,7 +116,6 @@
 			"52" : {"1" : "dan mereka berkata", "2" : "kami beriman", "3" : "kepada-Nya (Allah)", "4" : "dan bagaimana", "5" : "bagi mereka", "6" : "mencapai", "7" : "dari", "8" : "tempat", "9" : "yang jauh"},
 			"53" : {"1" : "dan sesungguhnya", "2" : "kafir/ingkar", "3" : "kepada-Nya", "4" : "dari", "5" : "sebelum/dahulu", "6" : "dan mereka memasukkan/menduga-duga", "7" : "dengan yang gaib", "8" : "dari", "9" : "tempat", "10" : "yang jauh"},
 			"54" : {"1" : "dan dihalangi", "2" : "diantara mereka", "3" : "dan antara", "4" : "apa", "5" : "yang mereka inginkan", "6" : "sebagaimana", "7" : "dilakukan", "8" : "dengan orang-orang yang serupa", "9" : "dari", "10" : "sebelum/dahulu", "11" : "sesungguhnya mereka", "12" : "adalah mereka", "13" : "dalam", "14" : "keragu-raguan", "15" : "kebimbangan"}
-
 		}
 	}
 }

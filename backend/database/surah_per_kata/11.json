@@ -4,6 +4,7 @@
 		"name" : "هود",
 		"name_latin" : "Hud",
 		"number_of_ayah" : "123",
+		"number_of_words" : "1917",
 		"text" : {
 			"1" : {"1" : "الٓرۚ", "2" : "كِتَٰبٌ", "3" : "أُحْكِمَتْ", "4" : "ءَايَٰتُهُۥ", "5" : "ثُمَّ", "6" : "فُصِّلَتْ", "7" : "مِن", "8" : "لَّدُنْ", "9" : "حَكِيمٍ", "10" : "خَبِيرٍ"},
 			"2" : {"1" : "أَلَّا", "2" : "تَعْبُدُوٓا۟", "3" : "إِلَّا", "4" : "ٱللَّهَۚ", "5" : "إِنَّنِى", "6" : "لَكُم", "7" : "مِّنْهُ", "8" : "نَذِيرٌ", "9" : "وَبَشِيرٌ"},
@@ -253,7 +254,6 @@
 			"121" : {"1" : "dan katakanlah", "2" : "kepada orang-orang yang", "3" : "tidak", "4" : "mereka beriman", "5" : "bekerjalah", "6" : "atas", "7" : "tempatmu/menurut kemampuanmu", "8" : "sesungguhnya kami", "9" : "orang-orang yang bekerja"},
 			"122" : {"1" : "dan tunggulah", "2" : "sesungguhnya kami", "3" : "orang-orang yang menunggu"},
 			"123" : {"1" : "dan bagi Allah", "2" : "kegaiban", "3" : "langit(jamak)", "4" : "dan bumi", "5" : "dan kepada-Nya", "6" : "dikembalikan", "7" : "perkara", "8" : "seluruhnya", "9" : "maka sembahlah Dia", "10" : "dan tawakkallah", "11" : "kepadaNya", "12" : "dan tidak", "13" : "Tuhanmu", "14" : "dengan lalai", "15" : "dari/terhadap apa", "16" : "kamu kerjakan"}
-
 		}
 	}
 }

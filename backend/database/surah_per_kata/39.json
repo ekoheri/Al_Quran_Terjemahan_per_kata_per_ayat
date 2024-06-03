@@ -4,6 +4,7 @@
 		"name" : "الزمر",
 		"name_latin" : "Az-Zumar",
 		"number_of_ayah" : "75",
+		"number_of_words" : "1172",
 		"text" : {
 			"1" : {"1" : "تَنزِيلُ", "2" : "ٱلْكِتَٰبِ", "3" : "مِنَ", "4" : "ٱللَّهِ", "5" : "ٱلْعَزِيزِ", "6" : "ٱلْحَكِيمِ"},
 			"2" : {"1" : "إِنَّآ", "2" : "أَنزَلْنَآ", "3" : "إِلَيْكَ", "4" : "ٱلْكِتَٰبَ", "5" : "بِٱلْحَقِّ", "6" : "فَٱعْبُدِ", "7" : "ٱللَّهَ", "8" : "مُخْلِصًا", "9" : "لَّهُ", "10" : "ٱلدِّينَ"},
@@ -157,7 +158,6 @@
 			"73" : {"1" : "dan dihalau/digiring", "2" : "orang-orang yang", "3" : "(mereka) bertakwa", "4" : "Tuhan mereka", "5" : "ke", "6" : "sorga", "7" : "berbondong-bondong", "8" : "sehingga", "9" : "apabila", "10" : "mereka sampai kepadanya", "11" : "dan dibuka", "12" : "pintu-pintunya", "13" : "dan berkata", "14" : "kepada mereka", "15" : "penjaga-penjaganya", "16" : "kesejahteraan", "17" : "atas kalian", "18" : "baiklah/bahagialah kamu", "19" : "maka masukilah ia/sorga itu", "20" : "dalam keadaan kekal"},
 			"74" : {"1" : "dan mereka berkata", "2" : "segala puji", "3" : "bagi Allah", "4" : "yang", "5" : "membenarkan/memenuhi pada kami", "6" : "janji-Nya", "7" : "dan Dia mewariskan kepada kami", "8" : "bumi/negeri", "9" : "kami tinggal/menempati", "10" : "dari/di", "11" : "sorga", "12" : "dimana saja", "13" : "kami kehendaki", "14" : "maka sebaik-baik", "15" : "pahala/balasan", "16" : "orang-orang yang beramal"},
 			"75" : {"1" : "dan kamu akan melihat", "2" : "para Malaikat", "3" : "meliputi/berkerumun", "4" : "dari", "5" : "sekitar/sekeliling", "6" : "'Arsy", "7" : "mereka bertasbih", "8" : "dengan memuji", "9" : "Tuhan mereka", "10" : "dan diberi keputusan", "11" : "diantara mereka", "12" : "dengan benar/adil", "13" : "dan dikatakan", "14" : "segala puji", "15" : "bagi Allah", "16" : "Tuhan", "17" : "semesta alam"}
-
 		}
 	}
 }

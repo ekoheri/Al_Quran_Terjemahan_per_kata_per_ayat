@@ -4,6 +4,7 @@
 		"name" : "الأحزاب",
 		"name_latin" : "Al-Ahzab",
 		"number_of_ayah" : "73",
+		"number_of_words" : "1287",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلنَّبِىُّ", "3" : "ٱتَّقِ", "4" : "ٱللَّهَ", "5" : "وَلَا", "6" : "تُطِعِ", "7" : "ٱلْكَٰفِرِينَ", "8" : "وَٱلْمُنَٰفِقِينَۗ", "9" : "إِنَّ", "10" : "ٱللَّهَ", "11" : "كَانَ", "12" : "عَلِيمًا", "13" : "حَكِيمًا"},
 			"2" : {"1" : "وَٱتَّبِعْ", "2" : "مَا", "3" : "يُوحَىٰٓ", "4" : "إِلَيْكَ", "5" : "مِن", "6" : "رَّبِّكَۚ", "7" : "إِنَّ", "8" : "ٱللَّهَ", "9" : "كَانَ", "10" : "بِمَا", "11" : "تَعْمَلُونَ", "12" : "خَبِيرًا"},
@@ -153,7 +154,6 @@
 			"71" : {"1" : "Dia akan memperbaiki", "2" : "bagi kalian", "3" : "amalan kamu", "4" : "dan mengampuni", "5" : "bagi kalian", "6" : "dosa-dosa kamu", "7" : "dan siapa", "8" : "mentaati", "9" : "Allah", "10" : "dan rasulnya", "11" : "maka sungguh", "12" : "ia mendapat keuntungan/kemenangan", "13" : "keuntungan/kemenangan", "14" : "besar"},
 			"72" : {"1" : "sesungguhnya", "2" : "Kami mengemukakan", "3" : "amanat", "4" : "atas/kepada", "5" : "langit(jamak)", "6" : "dan bumi", "7" : "dan gunung-gunung", "8" : "maka mereka enggan", "9" : "bahwa", "10" : "memikulnya", "11" : "dan mereka merasa takut", "12" : "dari padanya", "13" : "dan memikulnya", "14" : "manusia", "15" : "sesungguhnya dia", "16" : "adalah", "17" : "amat zalim", "18" : "amat bodoh"},
 			"73" : {"1" : "karena akan menyiksa", "2" : "Allah", "3" : "orang-orang munafik laki-laki", "4" : "dan orang munafik perempuan", "5" : "dan orang musyrik laki-laki", "6" : "dan orang musyrik perempuan", "7" : "dan akan menerima taubat", "8" : "Allah", "9" : "atas", "10" : "orang beriman laki-laki", "11" : "orang beriman perempuan", "12" : "dan adalah", "13" : "Allah", "14" : "Maha Pengampun", "15" : "Maha Penyayang"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الجمعة",
 		"name_latin" : "Al-Jumu'ah",
 		"number_of_ayah" : "11",
+		"number_of_words" : "175",
 		"text" : {
 			"1" : {"1" : "يُسَبِّحُ", "2" : "لِلَّهِ", "3" : "مَا", "4" : "فِى", "5" : "ٱلسَّمَٰوَٰتِ", "6" : "وَمَا", "7" : "فِى", "8" : "ٱلْأَرْضِ", "9" : "ٱلْمَلِكِ", "10" : "ٱلْقُدُّوسِ", "11" : "ٱلْعَزِيزِ", "12" : "ٱلْحَكِيمِ"},
 			"2" : {"1" : "هُوَ", "2" : "ٱلَّذِى", "3" : "بَعَثَ", "4" : "فِى", "5" : "ٱلْأُمِّيِّۦنَ", "6" : "رَسُولًا", "7" : "مِّنْهُمْ", "8" : "يَتْلُوا۟", "9" : "عَلَيْهِمْ", "10" : "ءَايَٰتِهِۦ", "11" : "وَيُزَكِّيهِمْ", "12" : "وَيُعَلِّمُهُمُ", "13" : "ٱلْكِتَٰبَ", "14" : "وَٱلْحِكْمَةَ", "15" : "وَإِن", "16" : "كَانُوا۟", "17" : "مِن", "18" : "قَبْلُ", "19" : "لَفِى", "20" : "ضَلَٰلٍ", "21" : "مُّبِينٍ"},
@@ -29,7 +30,6 @@
 			"9" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "apabila", "5" : "diseru/dipanggil", "6" : "untuk menunaikan sholat", "7" : "dari", "8" : "hari", "9" : "jum'at", "10" : "maka berjalanlah kamu", "11" : "kepada/untuk", "12" : "mengingat", "13" : "Allah", "14" : "dan tinggalkanlah", "15" : "jual beli/perdagangan", "16" : "demikian itu", "17" : "lebih baik", "18" : "bagi kalian", "19" : "jika", "20" : "kalian adalah", "21" : "(kalian) mengetahui"},
 			"10" : {"1" : "maka apabila", "2" : "telah diselesaikan", "3" : "sholat", "4" : "maka bertebaranlah kamu", "5" : "pada", "6" : "muka bumi", "7" : "dan carilah", "8" : "dari", "9" : "karunia", "10" : "Allah", "11" : "dan ingatlah", "12" : "Allah", "13" : "banyak", "14" : "agar kalian", "15" : "kamu beruntung"},
 			"11" : {"1" : "dan apabila", "2" : "mereka melihat", "3" : "perniagaan", "4" : "atau", "5" : "permainan", "6" : "mereka menuju", "7" : "kepadanya", "8" : "dan mereka meninggalkan kamu", "9" : "berdiri", "10" : "katakanlah", "11" : "apa", "12" : "disisi", "13" : "Allah", "14" : "lebih baik", "15" : "dari", "16" : "permainan", "17" : "dan dari", "18" : "perniagaan", "19" : "dan Allah", "20" : "sebaik-baik", "21" : "pemberi rizki/imbalan"}
-
 		}
 	}
 }

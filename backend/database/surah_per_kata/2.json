@@ -1,9 +1,10 @@
 {
-	"2" : {
-		"number": "2",
-        "name": "البقرة",
-        "name_latin": "Al-Baqarah",
-        "number_of_ayah": "286",
+	"2" :{
+		"number" : "2",
+		"name" : "البقرة",
+		"name_latin" : "Al-Baqarah",
+		"number_of_ayah" : "286",
+		"number_of_words" : "6116",
 		"text" : {
 			"1" : {"1" : "الٓمٓ"},
 			"2" : {"1" : "ذَٰلِكَ", "2" : "ٱلْكِتَٰبُ", "3" : "لَا", "4" : "رَيْبَۛ", "5" : "فِيهِۛ", "6" : "هُدًى", "7" : "لِّلْمُتَّقِينَ"},
@@ -579,7 +580,6 @@
 			"284" : {"1" : "milik Allah", "2" : "apa", "3" : "di", "4" : "langit(jamak)", "5" : "dan apa", "6" : "di", "7" : "bumi", "8" : "dan jika", "9" : "kamu melahirkan", "10" : "apa", "11" : "di dalam", "12" : "diri kalian sendiri", "13" : "atau", "14" : "kamu menyembunyikannya", "15" : "akan membuat perhitungan padamu", "16" : "dengannya", "17" : "Allah", "18" : "maka Dia mengampuni", "19" : "kepada siapa", "20" : "Dia kehendaki", "21" : "dan Dia menyiksa", "22" : "siapa/orang", "23" : "Dia kehendaki", "24" : "dan Allah", "25" : "atas", "26" : "segala", "27" : "sesuatu", "28" : "Maha Kuasa"},
 			"285" : {"1" : "telah beriman", "2" : "Rasul-Rasul", "3" : "kepada apa", "4" : "diturunkan", "5" : "kepadanya", "6" : "dari", "7" : "Tuhannya", "8" : "dan orang-orang mukmin", "9" : "semuanya", "10" : "beriman", "11" : "kepada Allah", "12" : "dan Malaikat-MalaikatNya", "13" : "dan Kitab-KitabNya", "14" : "dan Rasul-RasulNya", "15" : "tidak", "16" : "kami membeda-bedakan", "17" : "diantara", "18" : "seorang", "19" : "dari", "20" : "rasul-rasulNya", "21" : "dan mereka berkata", "22" : "kami dengar", "23" : "dan kami taat", "24" : "ampunan-Mu", "25" : "ya Tuhan kami", "26" : "dan kepada Engkau", "27" : "tempat kembali"},
 			"286" : {"1" : "tidak", "2" : "membebani", "3" : "Allah", "4" : "seseorang", "5" : "melainkan", "6" : "kesanggupannya", "7" : "baginya", "8" : "apa", "9" : "usahakan", "10" : "dan atasnya", "11" : "apa", "12" : "kerjakan", "13" : "ya Tuhan kami", "14" : "janganlah", "15" : "Engkau hukum kami", "16" : "jika", "17" : "kami lupa", "18" : "atau", "19" : "kami bersalah", "20" : "ya Tuhan kami", "21" : "dan janganlah", "22" : "Engkau bebankan", "23" : "atas kami", "24" : "yang berat", "25" : "sebagaimana", "26" : "Engkau bebankannya", "27" : "atas", "28" : "orang-orang yang", "29" : "dari", "30" : "sebelum kami", "31" : "ya Tuhan kami", "32" : "dan jangan", "33" : "Engkau pikulkan pada kami", "34" : "apa", "35" : "tidak", "36" : "sanggup", "37" : "bagi kami", "38" : "dengannya", "39" : "dan maafkanlah", "40" : "dari kami", "41" : "dan ampunilah", "42" : "bagi kami", "43" : "dan rahmatilah kami", "44" : "Engkau", "45" : "penolong kami", "46" : "maka tolonglah kami", "47" : "atas/terhadap", "48" : "kaum", "49" : "orang-orang kafir"}
-
 		}
 	}
 }

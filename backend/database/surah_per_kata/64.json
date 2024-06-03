@@ -4,6 +4,7 @@
 		"name" : "التغابن",
 		"name_latin" : "At-Tagabun",
 		"number_of_ayah" : "18",
+		"number_of_words" : "241",
 		"text" : {
 			"1" : {"1" : "يُسَبِّحُ", "2" : "لِلَّهِ", "3" : "مَا", "4" : "فِى", "5" : "ٱلسَّمَٰوَٰتِ", "6" : "وَمَا", "7" : "فِى", "8" : "ٱلْأَرْضِۖ", "9" : "لَهُ", "10" : "ٱلْمُلْكُ", "11" : "وَلَهُ", "12" : "ٱلْحَمْدُۖ", "13" : "وَهُوَ", "14" : "عَلَىٰ", "15" : "كُلِّ", "16" : "شَىْءٍ", "17" : "قَدِيرٌ"},
 			"2" : {"1" : "هُوَ", "2" : "ٱلَّذِى", "3" : "خَلَقَكُمْ", "4" : "فَمِنكُمْ", "5" : "كَافِرٌ", "6" : "وَمِنكُم", "7" : "مُّؤْمِنٌۚ", "8" : "وَٱللَّهُ", "9" : "بِمَا", "10" : "تَعْمَلُونَ", "11" : "بَصِيرٌ"},
@@ -43,7 +44,6 @@
 			"16" : {"1" : "maka bertakwalah kamu", "2" : "Allah", "3" : "apa", "4" : "menurut kesanggupanmu", "5" : "dan dengarlah", "6" : "dan taatlah", "7" : "dan belanjakan", "8" : "baik", "9" : "bagi dirimu", "10" : "dan barang siapa", "11" : "dipelihara", "12" : "kekikiran", "13" : "dirinya", "14" : "maka mereka itu", "15" : "mereka", "16" : "orang-orang yang beruntung"},
 			"17" : {"1" : "jika", "2" : "kamu memberi pinjaman", "3" : "Allah", "4" : "pinjaman", "5" : "baik", "6" : "Dia melipat gandakannya", "7" : "bagi kalian", "8" : "dan Dia mengampuni", "9" : "bagi kalian", "10" : "dan Allah", "11" : "Maha Mensyukuri", "12" : "Maha Penyantun"},
 			"18" : {"1" : "Yang Mengetahui", "2" : "yang gaib", "3" : "dan yang nyata", "4" : "Maha Perkasa", "5" : "Maha Bijaksana"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "الجاثية",
 		"name_latin" : "Al-Jasiyah",
 		"number_of_ayah" : "37",
+		"number_of_words" : "488",
 		"text" : {
 			"1" : {"1" : "حمٓ"},
 			"2" : {"1" : "تَنزِيلُ", "2" : "ٱلْكِتَٰبِ", "3" : "مِنَ", "4" : "ٱللَّهِ", "5" : "ٱلْعَزِيزِ", "6" : "ٱلْحَكِيمِ"},
@@ -81,7 +82,6 @@
 			"35" : {"1" : "demikian tiu", "2" : "karena sesungguhnya kamu", "3" : "kalian menjadikan", "4" : "ayat-ayat", "5" : "Allah", "6" : "olok-olokan", "7" : "dan telah menipu kamu", "8" : "kehidupan", "9" : "dunia", "10" : "maka pada hari", "11" : "tidak", "12" : "mereka dikeluarkan", "13" : "darinya(neraka)", "14" : "dan tidaklah", "15" : "mereka", "16" : "mereka diberi kesempatan bertaubat"},
 			"36" : {"1" : "maka bagi Allah", "2" : "segala puji", "3" : "Tuhan", "4" : "langit(jamak)", "5" : "dan Tuhan", "6" : "Bumi", "7" : "Tuhan", "8" : "semesta alam"},
 			"37" : {"1" : "dan bagi-Nya", "2" : "kebesaran", "3" : "di", "4" : "langit(jamak)", "5" : "dan bumi", "6" : "dan Dia", "7" : "Maha Perkasa", "8" : "Maha Bijaksana"}
-
 		}
 	}
 }

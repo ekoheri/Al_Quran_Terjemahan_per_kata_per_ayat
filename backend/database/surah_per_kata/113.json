@@ -4,6 +4,7 @@
 		"name" : "الفلق",
 		"name_latin" : "Al-Falaq",
 		"number_of_ayah" : "5",
+		"number_of_words" : "23",
 		"text" : {
 			"1" : {"1" : "قُلْ", "2" : "أَعُوذُ", "3" : "بِرَبِّ", "4" : "ٱلْفَلَقِ"},
 			"2" : {"1" : "مِن", "2" : "شَرِّ", "3" : "مَا", "4" : "خَلَقَ"},
@@ -17,7 +18,6 @@
 			"3" : {"1" : "dan dari", "2" : "kejahatan", "3" : "malam yang gelap", "4" : "apabila", "5" : "telah gelap/kelam"},
 			"4" : {"1" : "dan dari", "2" : "kejahatan", "3" : "orang yang meniup-niup", "4" : "dalam", "5" : "ikatan/simpul"},
 			"5" : {"1" : "dan dari", "2" : "kejahatan", "3" : "orang yang dengki", "4" : "apabila", "5" : "ia dengki"}
-
 		}
 	}
 }

@@ -4,6 +4,7 @@
 		"name" : "التين",
 		"name_latin" : "At-Tin",
 		"number_of_ayah" : "8",
+		"number_of_words" : "34",
 		"text" : {
 			"1" : {"1" : "وَٱلتِّينِ", "2" : "وَٱلزَّيْتُونِ"},
 			"2" : {"1" : "وَطُورِ", "2" : "سِينِينَ"},
@@ -23,7 +24,6 @@
 			"6" : {"1" : "kecuali", "2" : "orang-orang yang", "3" : "beriman", "4" : "dan mereka berbuat/beramal", "5" : "kebajikan/saleh", "6" : "maka bagi mereka", "7" : "pahala", "8" : "bukan/tidak", "9" : "terputus"},
 			"7" : {"1" : "maka apakah", "2" : "mendustakanmu", "3" : "sesudah", "4" : "hari pembalasan/agama"},
 			"8" : {"1" : "bukankah", "2" : "Allah", "3" : "lebih bijaksana/seadil-adilnya", "4" : "para hakim"}
-
 		}
 	}
 }

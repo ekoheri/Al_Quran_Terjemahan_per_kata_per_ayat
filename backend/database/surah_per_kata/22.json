@@ -4,6 +4,7 @@
 		"name" : "الحج",
 		"name_latin" : "Al-Hajj",
 		"number_of_ayah" : "78",
+		"number_of_words" : "1274",
 		"text" : {
 			"1" : {"1" : "يَٰٓأَيُّهَا", "2" : "ٱلنَّاسُ", "3" : "ٱتَّقُوا۟", "4" : "رَبَّكُمْۚ", "5" : "إِنَّ", "6" : "زَلْزَلَةَ", "7" : "ٱلسَّاعَةِ", "8" : "شَىْءٌ", "9" : "عَظِيمٌ"},
 			"2" : {"1" : "يَوْمَ", "2" : "تَرَوْنَهَا", "3" : "تَذْهَلُ", "4" : "كُلُّ", "5" : "مُرْضِعَةٍ", "6" : "عَمَّآ", "7" : "أَرْضَعَتْ", "8" : "وَتَضَعُ", "9" : "كُلُّ", "10" : "ذَاتِ", "11" : "حَمْلٍ", "12" : "حَمْلَهَا", "13" : "وَتَرَى", "14" : "ٱلنَّاسَ", "15" : "سُكَٰرَىٰ", "16" : "وَمَا", "17" : "هُم", "18" : "بِسُكَٰرَىٰ", "19" : "وَلَٰكِنَّ", "20" : "عَذَابَ", "21" : "ٱللَّهِ", "22" : "شَدِيدٌ"},
@@ -163,7 +164,6 @@
 			"76" : {"1" : "(Allah) mengetahui", "2" : "apa yang", "3" : "diantara", "4" : "tangan/hadapan mereka", "5" : "dan apa", "6" : "belakang mereka", "7" : "dan kepada", "8" : "Allah", "9" : "dikembalikan", "10" : "segala urusan"},
 			"77" : {"1" : "wahai", "2" : "orang-orang yang", "3" : "beriman", "4" : "ruku'lah kamu", "5" : "dan sujudlah kamu", "6" : "dan sembahlah", "7" : "Tuhan kalian", "8" : "dan berbuatlah", "9" : "kebaikan", "10" : "agar kalian", "11" : "kamu beruntung"},
 			"78" : {"1" : "dan berjihadlah kamu", "2" : "di", "3" : "(jalan) Allah", "4" : "sebenar-benar", "5" : "jihadnya", "6" : "Dia", "7" : "memilih kamu", "8" : "dan Dia tidak", "9" : "menjadikan", "10" : "atas kalian", "11" : "dalam", "12" : "agama", "13" : "dari", "14" : "kesempitan", "15" : "agama", "16" : "bapak kamu", "17" : "Ibrahim", "18" : "Dia", "19" : "menampakan kamu", "20" : "orang-orang muslim", "21" : "dari", "22" : "sebelum/dahulu", "23" : "dan dalam", "24" : "ini", "25" : "supaya adalah", "26" : "Rasul", "27" : "menjadi saksi", "28" : "atas kalian", "29" : "dan adalah kamu", "30" : "menjadi saksi", "31" : "atas", "32" : "manusia", "33" : "maka dirikanlah", "34" : "sholat", "35" : "dan tunaikanlah", "36" : "zakat", "37" : "dan berpegang teguhlah kamu", "38" : "kepada Allah", "39" : "Dia", "40" : "pelindung kamu", "41" : "maka sebaik-baik", "42" : "pelindung", "43" : "dan sebaik-baik", "44" : "penolong"}
-
 		}
 	}
 }

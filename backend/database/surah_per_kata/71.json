@@ -4,6 +4,7 @@
 		"name" : "نوح",
 		"name_latin" : "Nuh",
 		"number_of_ayah" : "28",
+		"number_of_words" : "226",
 		"text" : {
 			"1" : {"1" : "إِنَّآ", "2" : "أَرْسَلْنَا", "3" : "نُوحًا", "4" : "إِلَىٰ", "5" : "قَوْمِهِۦٓ", "6" : "أَنْ", "7" : "أَنذِرْ", "8" : "قَوْمَكَ", "9" : "مِن", "10" : "قَبْلِ", "11" : "أَن", "12" : "يَأْتِيَهُمْ", "13" : "عَذَابٌ", "14" : "أَلِيمٌ"},
 			"2" : {"1" : "قَالَ", "2" : "يَٰقَوْمِ", "3" : "إِنِّى", "4" : "لَكُمْ", "5" : "نَذِيرٌ", "6" : "مُّبِينٌ"},
@@ -63,7 +64,6 @@
 			"26" : {"1" : "dan berkata", "2" : "Nuh", "3" : "ya Tuhanku", "4" : "jangan", "5" : "Engkau tinggalkan/biarkan", "6" : "diatas", "7" : "bumi", "8" : "dari", "9" : "orang-orang kafir", "10" : "menetap"},
 			"27" : {"1" : "sesungguhnya", "2" : "jika", "3" : "Engkau biarkan mereka", "4" : "mereka akan menyesatkan", "5" : "hamba-hamba-Mu", "6" : "dan tidak", "7" : "mereka melahirkan", "8" : "kecuali", "9" : "durhaka", "10" : "sangat kufur"},
 			"28" : {"1" : "ya Tuhanku", "2" : "ampunilah", "3" : "aku", "4" : "dan bagi kedua orang tuaku", "5" : "dan bagi orang", "6" : "ia masuk", "7" : "rumahku", "8" : "dengan beriman", "9" : "dan bagi orang-orang laki-laki yang beriman", "10" : "dan orang-orang perempuan yang beriman", "11" : "dan jangan", "12" : "Engkau tambahkan", "13" : "orang-orang yang zalim", "14" : "kecuali", "15" : "kebinasaan"}
-
 		}
 	}
 }

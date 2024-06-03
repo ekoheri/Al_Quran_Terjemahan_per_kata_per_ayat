@@ -4,6 +4,7 @@
 		"name" : "النازعات",
 		"name_latin" : "An-Nazi'at",
 		"number_of_ayah" : "46",
+		"number_of_words" : "179",
 		"text" : {
 			"1" : {"1" : "وَٱلنَّٰزِعَٰتِ", "2" : "غَرْقًا"},
 			"2" : {"1" : "وَٱلنَّٰشِطَٰتِ", "2" : "نَشْطًا"},
@@ -99,7 +100,6 @@
 			"44" : {"1" : "kepada", "2" : "Tuhanmu", "3" : "kesudahannya"},
 			"45" : {"1" : "sesungguhnya hanyalah", "2" : "kamu", "3" : "pemberi peringatan", "4" : "dari", "5" : "ia takut kepadanya"},
 			"46" : {"1" : "seakan-akan mereka", "2" : "hari", "3" : "mereka melihatnya", "4" : "tidak", "5" : "mereka tinggal", "6" : "kecuali", "7" : "di waktu sore", "8" : "atau", "9" : "pagi harinya"}
-
 		}
 	}
 }

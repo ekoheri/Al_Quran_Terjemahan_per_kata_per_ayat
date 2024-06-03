@@ -4,6 +4,7 @@
 		"name" : "الضحى",
 		"name_latin" : "Ad-Duha",
 		"number_of_ayah" : "11",
+		"number_of_words" : "40",
 		"text" : {
 			"1" : {"1" : "وَٱلضُّحَىٰ"},
 			"2" : {"1" : "وَٱلَّيْلِ", "2" : "إِذَا", "3" : "سَجَىٰ"},
@@ -29,7 +30,6 @@
 			"9" : {"1" : "maka adapun", "2" : "anak yatim", "3" : "maka jangan", "4" : "kamu paksa/bersikap bengis"},
 			"10" : {"1" : "dan adapun", "2" : "orang minta-minta", "3" : "maka jangan", "4" : "kamu menghardik"},
 			"11" : {"1" : "dan adapun", "2" : "dengan/terhadap nikmat", "3" : "Tuhanmu", "4" : "maka hendaklah kamu ceritakan"}
-
 		}
 	}
 }

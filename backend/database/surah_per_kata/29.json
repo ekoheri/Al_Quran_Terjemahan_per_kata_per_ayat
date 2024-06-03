@@ -4,6 +4,7 @@
 		"name" : "العنكبوت",
 		"name_latin" : "Al-'Ankabut",
 		"number_of_ayah" : "69",
+		"number_of_words" : "976",
 		"text" : {
 			"1" : {"1" : "الٓمٓ"},
 			"2" : {"1" : "أَحَسِبَ", "2" : "ٱلنَّاسُ", "3" : "أَن", "4" : "يُتْرَكُوٓا۟", "5" : "أَن", "6" : "يَقُولُوٓا۟", "7" : "ءَامَنَّا", "8" : "وَهُمْ", "9" : "لَا", "10" : "يُفْتَنُونَ"},
@@ -145,7 +146,6 @@
 			"67" : {"1" : "ataukah tidak", "2" : "mereka perhatikan", "3" : "bahwasanya Kami", "4" : "Kami telah menjadikan", "5" : "tanah suci", "6" : "aman", "7" : "dan rampok-merampok", "8" : "manusia", "9" : "dari/di", "10" : "sekitar mereka", "11" : "apakah maka dengan yang batil", "12" : "mereka beriman", "13" : "dan dengan nikmat", "14" : "Allah", "15" : "mereka kafir/ingkar"},
 			"68" : {"1" : "dan siapakah", "2" : "lebih zalim", "3" : "dari pada orang", "4" : "mengada-adakan", "5" : "atas/terhadap", "6" : "Allah", "7" : "kedustaan", "8" : "atau", "9" : "dia mendustakan", "10" : "dengan yang hak", "11" : "tatkala", "12" : "ia datang kepadanya", "13" : "bukankah", "14" : "dalam", "15" : "neraka jahanam", "16" : "tempat tinggal", "17" : "bagi orang-orang kafir"},
 			"69" : {"1" : "dan orang-orang yang", "2" : "(mereka) berjuang", "3" : "dalam Kami", "4" : "sungguh Kami akan menunjukkan mereka", "5" : "jalan-jalan Kami", "6" : "dan sesungguhnya", "7" : "Allah", "8" : "benar-benar beserta", "9" : "orang-orang yang berbuat baik"}
-
 		}
 	}
 }
